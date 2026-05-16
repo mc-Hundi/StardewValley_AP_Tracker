@@ -1,5 +1,5 @@
 [
-        {
+    {
         "name": "718100",
         "type": "toggle",
         "loop": false,
@@ -202,7 +202,7 @@
         "allow_disabled": true,
         "codes": "718128"
     },
-	{
+    {
         "name": "718201",
         "type": "toggle",
         "loop": false,
@@ -867,5 +867,4 @@
         "allow_disabled": true,
         "codes": "718295"
     }
-
 ]

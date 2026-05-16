@@ -328,46 +328,46 @@
         "allow_disabled": true,
         "codes": "719347"
     },
-	{
+    {
         "name": "719348",
         "type": "toggle",
         "loop": false,
         "allow_disabled": true,
         "codes": "719348"
     },
-	{
+    {
         "name": "719349",
         "type": "toggle",
         "loop": false,
         "allow_disabled": true,
         "codes": "719349"
     },
-	{
+    {
         "name": "719350",
         "type": "toggle",
         "loop": false,
         "allow_disabled": true,
         "codes": "719350"
     },
-	{
+    {
         "name": "719351",
         "type": "toggle",
         "loop": false,
         "allow_disabled": true,
         "codes": "719351"
     },
-	{
+    {
         "name": "719352",
         "type": "toggle",
         "loop": false,
         "allow_disabled": true,
         "codes": "719352"
     },
-	{
+    {
         "name": "719353",
         "type": "toggle",
         "loop": false,
         "allow_disabled": true,
         "codes": "719353"
-    },
+    }
 ]

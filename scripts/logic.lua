@@ -25,7 +25,7 @@ function winter()
 end
 
 function can_mine_copper()
-    return (has("CopperPick") or has("e5"))
+    return (has("Pick") or has("e5"))
 end
 
 function can_mine_iron()
@@ -40,16 +40,8 @@ function has_skull_key()
     return has("skullkey")
 end
 
-function can_access_desert()
-    return (has("desertwarp") or has ("bus"))
-end
-
-function can_access_island()
-    return has("islandwarp")
-end
-
 function can_mine_iridium()
-    return (has("CopperPick") and ((can_access_desert() and has("skullkey")) or can_access_island()))
+    return (has("CopperPick") and ((has("desert") and has("skullkey")) or has("island")))
 end
 
 function can_fish()
@@ -61,11 +53,11 @@ function has_crab_pots()
 end
 
 function can_chop_stumps()
-    return has("SteelAxe")
+    return has("CopperAxe")
 end
 
 function can_chop_logs()
-    return has("GoldAxe")
+    return has("SteelAxe")
 end
 
 function has_coop()
@@ -106,95 +98,6 @@ end
 
 function can_brew()
     return has("farming",8)
-end
-
-function exoticforagebundle()
-    local amt = 0
-    local need = 5
-    if can_access_desert() then
-        amt = amt + 2
-    end
-    if has("foraging",3) then
-        amt = amt + 3
-    end
-    if can_chop_logs() then
-        amt = amt + 1
-    end
-    if has("e40") then
-        amt = amt + 2
-    end
-    if has("e80") then
-        amt = amt + 1
-    end
-    return (amt >= need)
-end
-
-function animalbundle()
-    local amt = 0
-    local need = 5
-    if has_barn() then
-        amt = amt + 1
-    end
-    if has_big_barn() then
-        amt = amt + 1
-    end
-    if has_coop() then
-        amt = amt + 2
-    end
-    if has_big_coop() then
-        amt = amt + 1
-    end
-    if (has_deluxe_coop() or has_deluxe_barn()) then
-        amt = amt + 1
-    end
-    return (amt >= need)
-end
-
-function artisanbundle()
-    local amt = 2
-    local need = 6
-    if (has_deluxe_barn() and has("farming",8)) then
-        amt = amt + 1
-    end
-    if ((has_deluxe_barn() or has_deluxe_coop()) and has("farming",7)) then
-        amt = amt + 1
-    end
-    if (has_big_barn() and has("farming",6)) then
-        amt = amt + 1
-    end
-    if (has_barn() and has("farming",6)) then
-        amt = amt + 1
-    end
-    if has("farming",3) then
-        amt = amt + 1
-    end
-    if has("farming",4) then
-        amt = amt + 1
-    end
-    if summer() then
-        amt = amt + 2
-    end
-    if fall() then
-        amt = amt + 2
-    end
-    return (amt >= need)
-end
-
-
-function chefbundle()
-    return (can_chop_logs() and has_deluxe_barn() and can_cook() and summer())
-end
-
-function dyebundle()
-    return (has("e40") and has_big_coop() and (has("e80") or can_chop_logs()) and summer())
-end
-
-function fieldresearchbundle()
-    return (has("e40") and can_fish() and winter())
-end
-
-function enchantbundle()
-    return (has_deluxe_coop() and can_brew() and has("foraging",3) and fall())
 end
 
 function farming1()
@@ -400,4 +303,264 @@ end
 
 function can_get_mastery()
     return (has("farming",10) and has("mining",10) and has("foraging",10) and has("fishing",10) and has("combat",10) )
+end
+
+function has_gaterecipe()
+    return has("gaterecipe")
+end
+
+function has_woodfencerecipe()
+    return has("woodfencerecipe")
+end
+
+function has_fishsmokerrecipe()
+    return has("fishsmokerrecipe")
+end
+
+function has_dehydratorrecipe()
+    return has("dehydratorrecipe")
+end
+
+function has_deluxefertilizerrecipe()
+    return has("deluxefertilizerrecipe")
+end
+
+function has_hyperspeedgrorecipe()
+    return has("hyperspeedgrorecipe")
+end
+
+function has_deluxeretainingsoilrecipe()
+    return has("deluxeretainingsoilrecipe")
+end
+
+function has_ancientseedsrecipe()
+    return has("ancientseedsrecipe")
+end
+
+function has_grassstarterrecipe()
+    return has("grassstarterrecipe")
+end
+
+function has_bluegrassstarterrecipe()
+    return has("bluegrassstarterrecipe")
+end
+
+function has_fiberseedsrecipe()
+    return has("fiberseedsrecipe")
+end
+
+function has_woodfloorrecipe()
+    return has("woodfloorrecipe")
+end
+
+function has_rusticplankfloorrecipe()
+    return has("rusticplankfloorrecipe")
+end
+
+function has_strawfloorrecipe()
+    return has("strawfloorrecipe")
+end
+
+function has_weatheredfloorrecipe()
+    return has("weatheredfloorrecipe")
+end
+
+function has_crystalfloorrecipe()
+    return has("crystalfloorrecipe")
+end
+
+function has_stonefloorrecipe()
+    return has("stonefloorrecipe")
+end
+
+function has_stonewalkwayfloorrecipe()
+    return has("stonewalkwayfloorrecipe")
+end
+
+function has_brickfloorrecipe()
+    return has("brickfloorrecipe")
+end
+
+function has_woodpathrecipe()
+    return has("woodpathrecipe")
+end
+
+function has_gravelpathrecipe()
+    return has("gravelpathrecipe")
+end
+
+function has_cobblestonepathrecipe()
+    return has("cobblestonepathrecipe")
+end
+
+function has_steppingstonepathrecipe()
+    return has("steppingstonepathrecipe")
+end
+
+function has_crystalpathrecipe()
+    return has("crystalpathrecipe")
+end
+
+function has_qualitybobberrecipe()
+    return has("qualitybobberrecipe")
+end
+
+function has_magicbaitrecipe()
+    return has("magicbaitrecipe")
+end
+
+function has_weddingringrecipe()
+    return has("weddingringrecipe")
+end
+
+function has_monstermuskrecipe()
+    return has("monstermuskrecipe")
+end
+
+function has_fairydustrecipe()
+    return has("fairydustrecipe")
+end
+
+function has_warptotemdesertrecipe()
+    return has("warptotemdesertrecipe")
+end
+
+function has_warptotemislandrecipe()
+    return has("warptotemislandrecipe")
+end
+
+function has_torchrecipe()
+    return has("torchrecipe")
+end
+
+function has_campfirerecipe()
+    return has("campfirerecipe")
+end
+
+function has_woodenbrazierrecipe()
+    return has("woodenbrazierrecipe")
+end
+
+function has_stonebrazierrecipe()
+    return has("stonebrazierrecipe")
+end
+
+function has_goldbrazierrecipe()
+    return has("goldbrazierrecipe")
+end
+
+function has_carvedbrazierrecipe()
+    return has("carvedbrazierrecipe")
+end
+
+function has_stumpbrazierrecipe()
+    return has("stumpbrazierrecipe")
+end
+
+function has_barrelbrazierrecipe()
+    return has("barrelbrazierrecipe")
+end
+
+function has_skullbrazierrecipe()
+    return has("skullbrazierrecipe")
+end
+
+function has_marblebrazierrecipe()
+    return has("marblebrazierrecipe")
+end
+
+function has_woodlamppostrecipe()
+    return has("woodlamppostrecipe")
+end
+
+function has_ironlamppostrecipe()
+    return has("ironlamppostrecipe")
+end
+
+function has_jackolanternrecipe()
+    return has("jackolanternrecipe")
+end
+
+function has_furnacerecipe()
+    return has("furnacerecipe")
+end
+
+function has_solarpanelrecipe()
+    return has("solarpanelrecipe")
+end
+
+function has_ostrichincubatorrecipe()
+    return has("ostrichincubatorrecipe")
+end
+
+function has_heavytapperrecipe()
+    return has("heavytapperrecipe")
+end
+
+function has_bonemillrecipe()
+    return has("bonemillrecipe")
+end
+
+function has_geodecrusherrecipe()
+    return has("geodecrusherrecipe")
+end
+
+function has_tuboflowersrecipe()
+    return has("tuboflowersrecipe")
+end
+
+function has_wickedstatuerecipe()
+    return has("wickedstatuerecipe")
+end
+
+function has_chestrecipe()
+    return has("chestrecipe")
+end
+
+function has_stonechestrecipe()
+    return has("stonechestrecipe")
+end
+
+function has_bigchestrecipe()
+    return has("bigchestrecipe")
+end
+
+function has_bigstonechestrecipe()
+    return has("bigstonechestrecipe")
+end
+
+function has_woodsignrecipe()
+    return has("woodsignrecipe")
+end
+
+function has_stonesignrecipe()
+    return has("stonesignrecipe")
+end
+
+function has_textsignrecipe()
+    return has("textsignrecipe")
+end
+
+function has_deluxescarecrowrecipe()
+    return has("deluxescarecrowrecipe")
+end
+
+function has_miniobeliskrecipe()
+    return has("miniobeliskrecipe")
+end
+
+function has_farmcomputerrecipe()
+    return has("farmcomputerrecipe")
+end
+
+function has_hopperrecipe()
+    return has("hopperrecipe")
+end
+
+function season_free_harvest()
+    return (has("greenhouse") or can_reach_ifarm())
+end
+
+function can_reach_ifarm()
+    return ((has("turtlew") and has("island")) or (has("parrots") and has("island")))
 end

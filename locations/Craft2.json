@@ -1,0 +1,2571 @@
+[
+    {
+        "name": "Craft2",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Warp Totem: Beach",
+                "children": [
+                    {
+                        "name": "Foraging 6",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720476,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:6"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 45
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719602",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,foraging:6"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Warp Totem: Mountains",
+                "children": [
+                    {
+                        "name": "Foraging 7",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720477,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:7"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 89
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719606",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,foraging:7"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Warp Totem: Farm",
+                "children": [
+                    {
+                        "name": "Foraging 8",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720478,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:8"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 133
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719604",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,foraging:8"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Warp Totem: Desert",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720479,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_warptotemdesertrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 177
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719603",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,$has_warptotemdesertrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Warp Totem: Desert Recipe",
+                "sections": [
+                    {
+                        "name": "Desert Trader for 10 Iridium Bars",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720575,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "desert"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 142,
+                        "y": 177
+                    }
+                ]
+            },
+            {
+                "name": "Warp Totem: Island",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720480,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_warptotemislandrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 221
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719605",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,$has_warptotemislandrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 221
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Warp Totem: Island Recipe",
+                "sections": [
+                    {
+                        "name": "Volcano Dwarf shop for 10.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720563,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "island,parrot",
+                            "island,turtlen"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 142,
+                        "y": 221
+                    }
+                ]
+            },
+            {
+                "name": "Rain Totem",
+                "children": [
+                    {
+                        "name": "Foraging 9",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720481,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:9"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 265
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719587",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,foraging:9"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 265
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Treasure Totem",
+                "children": [
+                    {
+                        "name": "Foraging Mastery",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720537,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_get_mastery"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 309
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720822",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,$can_get_mastery"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 309
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Torch",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720482,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_torchrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 353
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719598",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,$has_torchrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 208,
+                                "y": 353
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Campfire",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720483,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_campfirerecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 397
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wooden Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720484,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_woodenbrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 441
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wooden Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 250g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720564,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 142,
+                        "y": 441
+                    }
+                ]
+            },
+            {
+                "name": "Stone Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720485,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_stonebrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 485
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stone Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 400g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720565,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 142,
+                        "y": 485
+                    }
+                ]
+            },
+            {
+                "name": "Gold Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720486,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_goldbrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 175,
+                                "y": 529
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gold Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 1.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720566,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 142,
+                        "y": 529
+                    }
+                ]
+            },
+            {
+                "name": "Carved Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720487,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_carvedbrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Carved Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 2.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720567,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 45
+                    }
+                ]
+            },
+            {
+                "name": "Stump Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720488,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_stumpbrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stump Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 800g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720568,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "Barrel Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720489,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_barrelbrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Barrel Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 800g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720569,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 133
+                    }
+                ]
+            },
+            {
+                "name": "Skull Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720490,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_skullbrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skull Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 3.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720570,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 177
+                    }
+                ]
+            },
+            {
+                "name": "Marble Brazier",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720491,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_marblebrazierrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 221
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Marble Brazier Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 5.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720571,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 221
+                    }
+                ]
+            },
+            {
+                "name": "Wood Lamppost",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720492,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_woodlamppostrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 265
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wood Lamppost Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 500g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720572,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 267
+                    }
+                ]
+            },
+            {
+                "name": "Iron Lamppost",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720493,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_ironlamppostrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 309
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Iron Lamppost Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 1.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720573,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 309
+                    }
+                ]
+            },
+            {
+                "name": "Jack-O-Lantern",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720494,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_jackolanternrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 353
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719575",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,$has_jackolanternrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 436,
+                                "y": 353
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Charcoal Kiln",
+                "children": [
+                    {
+                        "name": "Foraging 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720496,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:3"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 397
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Crystalarium",
+                "children": [
+                    {
+                        "name": "Mining 9",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720497,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "mining:9"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 441
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Furnace",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720498,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_furnacerecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 485
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Furnace Recipe",
+                "sections": [
+                    {
+                        "name": "Clint (Morning after collecting 1+ Copper Ore)",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717457,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 370,
+                        "y": 485
+                    }
+                ]
+            },
+            {
+                "name": "Heavy Furnace",
+                "children": [
+                    {
+                        "name": "Mining Mastery",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720538,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_get_mastery"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 403,
+                                "y": 529
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lightning Rod",
+                "children": [
+                    {
+                        "name": "Foraging 6",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720501,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:6"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Solar Panel",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720507,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_solarpanelrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Solar Panel Recipe",
+                "sections": [
+                    {
+                        "name": "Caroline Special Order",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717229,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "717228"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 598,
+                        "y": 89
+                    }
+                ]
+            },
+            {
+                "name": "Recycling Machine",
+                "children": [
+                    {
+                        "name": "Fishing 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720503,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "fishing:4"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Seed Maker",
+                "children": [
+                    {
+                        "name": "Farming 9",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720504,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "farming:9"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Slime Incubator",
+                "children": [
+                    {
+                        "name": "Combat 8",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720506,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "combat:8"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 221
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ostrich Incubator",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720502,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_ostrichincubatorrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 265
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ostrich Incubator Recipe",
+                "sections": [
+                    {
+                        "name": "Complete the Island Field Office Collection",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717283,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "island,parrot,snailcave",
+                            "island,turtlen,snailcave"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 598,
+                        "y": 265
+                    }
+                ]
+            },
+            {
+                "name": "Slime Egg-Press",
+                "children": [
+                    {
+                        "name": "Combat 6",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720505,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "combat:6"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 309
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tapper",
+                "children": [
+                    {
+                        "name": "Foraging 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720508,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:4"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 353
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Heavy Tapper",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720500,craftsanity_on,include_endgame_locations_on"
+                        ],
+                        "access_rules": [
+                            "$has_heavytapperrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 397
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Worm Bin",
+                "children": [
+                    {
+                        "name": "Fishing 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720509,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "fishing:4"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 441
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deluxe Worm Bin",
+                "children": [
+                    {
+                        "name": "Fishing 8",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720539,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "fishing:8"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 485
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bone Mill",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720495,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_bonemillrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 631,
+                                "y": 529
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bone Mill Recipe",
+                "sections": [
+                    {
+                        "name": "Gunter Special Order",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717232,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "717228"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 598,
+                        "y": 529
+                    }
+                ]
+            },
+            {
+                "name": "Geode Crusher",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720499,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_geodecrusherrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Geode Crusher Recipe",
+                "sections": [
+                    {
+                        "name": "Clint Special Order",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717230,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "717228"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 826,
+                        "y": 45
+                    }
+                ]
+            },
+            {
+                "name": "Mushroom Log",
+                "children": [
+                    {
+                        "name": "Foraging 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720540,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:4"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bait Maker",
+                "children": [
+                    {
+                        "name": "Fishing 6",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720550,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "fishing:6"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tub o' Flowers",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720510,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_tuboflowersrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wicked Statue",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720511,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_wickedstatuerecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 221
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wicked Statue Recipe",
+                "sections": [
+                    {
+                        "name": "Krobus' Shop for 1.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720574,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "sewerkey"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 826,
+                        "y": 221
+                    }
+                ]
+            },
+            {
+                "name": "Flute Block",
+                "children": [
+                    {
+                        "name": "Robin 6 Heart event",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720512,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 265
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719568",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 892,
+                                "y": 265
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Drum Block",
+                "children": [
+                    {
+                        "name": "Robin 6 Heart event",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720513,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 309
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719564",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 892,
+                                "y": 309
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chest",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720514,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_chestrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 353
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stone Chest",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720515,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_stonechestrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 397
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stone Chest Recipe",
+                "sections": [
+                    {
+                        "name": "Robin special order",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717234,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "717228"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 826,
+                        "y": 397
+                    }
+                ]
+            },
+            {
+                "name": "Big Chest",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720541,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_bigchestrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 441
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Big Chest Recipe",
+                "sections": [
+                    {
+                        "name": "Carpenter's Shop for 5.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720579,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 826,
+                        "y": 441
+                    }
+                ]
+            },
+            {
+                "name": "Big Stone Chest",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720542,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_bigstonechestrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 485
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Big Stone Chest Recipe",
+                "sections": [
+                    {
+                        "name": "Dwarf for 5.000g",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720580,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "translator"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 826,
+                        "y": 485
+                    }
+                ]
+            },
+            {
+                "name": "Wood Sign",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720516,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_woodsignrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 859,
+                                "y": 529
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stone Sign",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720517,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_stonesignrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Sign",
+                "children": [
+                    {
+                        "name": "Mail from Krobus 3+ Hearts",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720518,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "sewerkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Text Sign",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720543,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_textsignrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Garden Pot",
+                "children": [
+                    {
+                        "name": "From Evelyn after getting the Greenhouse",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720519,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "greenhouse"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Scarecrow",
+                "children": [
+                    {
+                        "name": "Farming 1",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720520,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "farming:1"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 221
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deluxe Scarecrow",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720521,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_deluxescarecrowrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 265
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deluxe Scarecrow Recipe",
+                "sections": [
+                    {
+                        "name": "Mail the day after collecting all rarecrows",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717286,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "719031"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 1054,
+                        "y": 265
+                    }
+                ]
+            },
+            {
+                "name": "Staircase",
+                "children": [
+                    {
+                        "name": "Mining 2",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720522,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "mining:2"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 309
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Explosive Ammo",
+                "children": [
+                    {
+                        "name": "Combat 8",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720523,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "combat:8"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 353
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719565",
+                            "shipsanity_all"
+                        ],
+                        "access_rules": [
+                            "shipping,combat:8"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1120,
+                                "y": 353
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Transmute (Fe)",
+                "children": [
+                    {
+                        "name": "Mining 4",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720524,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "mining:4"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 397
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Transmute (Au)",
+                "children": [
+                    {
+                        "name": "Mining 7",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720525,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "mining:7"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 441
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mini-Jukebox",
+                "children": [
+                    {
+                        "name": "Gus 5 Heart Event",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720454,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 485
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mini-Obelisk",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720527,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_miniobeliskrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1087,
+                                "y": 529
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mini-Obelisk Recipe",
+                "sections": [
+                    {
+                        "name": "Wizard special order",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717236,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "717228"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 1054,
+                        "y": 529
+                    }
+                ]
+            },
+            {
+                "name": "Farm Computer",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720528,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_farmcomputerrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 45
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Farm Computer Recipe",
+                "sections": [
+                    {
+                        "name": "Demetrius special order",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "717231,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "717228"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Craft2",
+                        "x": 1282,
+                        "y": 45
+                    }
+                ]
+            },
+            {
+                "name": "Hopper",
+                "children": [
+                    {
+                        "name": "find recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720529,craftsanity_on,include_endgame_locations_on"
+                        ],
+                        "access_rules": [
+                            "$has_hopperrecipe"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 89
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cookout Kit",
+                "children": [
+                    {
+                        "name": "Foraging 3",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720530,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:3"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tent Kit",
+                "children": [
+                    {
+                        "name": "Foraging 8",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720544,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "foraging:8"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Statue Of The Dwarf King",
+                "children": [
+                    {
+                        "name": "Mining Mastery",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720545,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_get_mastery"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 221
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Statue Of Blessings",
+                "children": [
+                    {
+                        "name": "Farming Mastery",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720546,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_get_mastery"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 265
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anvil",
+                "children": [
+                    {
+                        "name": "Combat Mastery",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720547,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_get_mastery"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 309
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mini-Forge",
+                "children": [
+                    {
+                        "name": "Combat Mastery",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720548,craftsanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_get_mastery"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Craft2",
+                                "x": 1315,
+                                "y": 353
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

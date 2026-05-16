@@ -9,7 +9,6 @@
                 {
                     "type": "dock",
                     "dock": "bottom",
-                    "v_alignment": "stretch",
                     "content": [
                         {
                             "type": "group",
@@ -33,9 +32,27 @@
                             "type": "group",
                             "header": "Seasons and Seeds",
                             "dock": "left",
-                            "content":{
+                            "content": {
                                 "type": "layout",
                                 "key": "Seeds"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Ginger Island",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "island_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Misc.",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "misc"
                             }
                         }
                     ]
@@ -47,177 +64,279 @@
                             "title": "Stardew Valley",
                             "content": {
                                 "type": "map",
-                                "maps": ["Stardew Valley"]
-                                }
+                                "maps": [
+                                    "Stardew Valley"
+                                ]
+                            }
                         },
                         {
                             "title": "Community Center",
                             "content": {
                                 "type": "map",
-                                "maps": ["Community Center"]
-                              }
+                                "maps": [
+                                    "Community Center"
+                                ]
+                            }
                         },
-						{
-							"title": "Quests and Activities",
-							"content":{
-                                				"type": "tabbed",
-								"tabs": [
-									{
-										"title": "Help Wanted!",
-										"content":{
-											"type": "map",
-											"maps":["Help Wanted!"]
-										}
-									},
-									{
-										"title": "Mail Quests",
-										"content":{
-											"type": "map",
-											"maps":["Quests"]
-										}
-									},
-									{
-										"title": "Special Orders",
-										"content":{
-											"type": "map",
-											"maps":["Boards"]
-										}
-									},
-									{
-										"title": "Festivals",
-										"content":{
-											"type": "tabbed",
-											"tabs":[
-												{
-													"title": "Town Festivals",
-													"content":{
-													"type": "map",
-													"maps":["Town Festivals"]
-													}
-												},
-												{
-													"title": "Night Market",
-													"content":{
-													"type": "map",
-													"maps":["Night Market"]
-													}
-												},
-												{
-													"title": "Fishing Festivals",
-													"content":{
-													"type": "map",
-													"maps":["Fishing Festivals"]
-													}
-												},
-												{
-													"title": "Desert Festival",
-													"content":{
-													"type": "map",
-													"maps":["Desert Festival"]
-													}
-												}
-											]
-										}
-									},
-									{
-										"title": "Arcade Machines",
-										"content":{
-											"type": "map",
-											"maps":["Arcades"]
-										}
-									}
-								]
-							}
-						},
-			    			{
-                           				"title": "Skills and Masteries",
-                            				"content": {
-                                			"type": "map",
-                               				 "maps": ["Skills And Masteries"]
-                               				 }
-                        			},
-						{
-							"title": "Sanities",
-							"content":{
+                        {
+                            "title": "Quests and Activities",
+                            "content": {
                                 "type": "tabbed",
-								"tabs": [
-									{
-									"title": "Crops & Foraged Items",
-									"content":{
-										"type": "map",
-										"maps":["Crops and Foraged Items"]
-									}
-									},
-									{
-										"title": "Fishes",
-										"content":{
-											"type": "map",
-											"maps":["Fishes"]
-										}
-									},
-									{
-									"title": "Museum",
-									"content":{
-                                				"type": "tabbed",
-										"tabs": [
-											{
-												"title": "Artifacts & Minerals",
-												"content":{
-													"type": "map",
-													"maps":["Museum_Donations"]
-												}
-											},
-											{
-												"title": "Milestones",
-												"content":{
-													"type": "map",
-													"maps":["Museum_Milestones"]
-												}
-											}
-											]
-										}
-									},
-									{
-										"title": "Monster",
-										"content":{
-											"type": "map",
-											"maps":["leer"]
-										}
-									},
-									{
-										"title": "Crafting",
-										"content":{
-											"type": "map",
-											"maps":["leer"]
-										}
-									},
-									{
-										"title": "Chef- & Cooksanity",
-										"content":{
-											"type": "map",
-											"maps":["Cooksanity"]
-										}
-									},
-									{
-										"title": "Booksanity",
-										"content":{
-											"type": "map",
-											"maps":["Booksanity"]
-										}
-									}
-								]
-							}
-						}
+                                "tabs": [
+                                    {
+                                        "title": "Arcade Machines",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Arcades"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Festivals",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Town Festivals",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Town Festivals"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Desert Festival",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Desert Festival"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Fishing Festivals",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Fishing Festivals"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Night Market",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Night Market"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Help Wanted!",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Help Wanted!"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Mail Quests",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Quests"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Special Orders",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Boards"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sanities",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Booksanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Booksanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Chefsanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Cooksanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Crafting",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Crafting 1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Craft1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Crafting 2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Craft2"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Crops & Foraged Items",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crops and Foraged Items"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Fishes",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Fishes"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Friends",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Friends"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Hatsanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Hatsanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Monster",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Monstersanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Moviesanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Moviesanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Museum",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Artifacts & Minerals",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Museum_Donations"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Milestones",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Museum_Milestones"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Secrets",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Secretsanity"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Skills and Masteries",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Skills And Masteries"
+                                ]
+                            }
+                        }
                     ]
                 }
             ]
         }
     },
     "tracker_broadcast": {
-        "type": "container",
-        "content": {
-            "type": "layout",
-            "key": "item_grid"
-        }
+        "type": "group",
+        "dock": "left",
+        "content": [
+            {
+                "type": "layout",
+                "key": "item_grid"
+            },
+            {
+                "type": "layout",
+                "key": "tool_grid"
+            },
+            {
+                "type": "layout",
+                "key": "misc"
+            }
+        ]
     }
 }

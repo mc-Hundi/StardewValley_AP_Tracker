@@ -2,11 +2,14 @@
     {
         "name": "World",
         "chest_unopened_img": "images/ChestClosed.png",
-		"chest_opened_img": "images/ChestOpen.png",
-        "children":[
+        "chest_opened_img": "images/ChestOpen.png",
+        "children": [
             {
                 "name": "Mines",
-                "sections":[
+                "access_rules": [
+                    "landslideremoved"
+                ],
+                "sections": [
                     {
                         "name": "Floor 10",
                         "item_count": 1
@@ -18,59 +21,68 @@
                     {
                         "name": "Floor 40",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_copper"]
+                        "access_rules": [
+                            "$can_mine_copper"
+                        ]
                     },
                     {
                         "name": "Floor 50",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_iron"]
+                        "access_rules": [
+                            "$can_mine_iron"
+                        ]
                     },
                     {
                         "name": "Floor 60",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_iron"]
+                        "access_rules": [
+                            "$can_mine_iron"
+                        ]
                     },
                     {
                         "name": "Floor 70",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_iron"]
+                        "access_rules": [
+                            "$can_mine_iron"
+                        ]
                     },
                     {
                         "name": "Floor 80",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_gold"]
+                        "access_rules": [
+                            "$can_mine_gold"
+                        ]
                     },
                     {
                         "name": "Floor 90",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_gold"]
+                        "access_rules": [
+                            "$can_mine_gold"
+                        ]
                     },
                     {
                         "name": "Floor 100",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_gold"]
-                    },                    
+                        "access_rules": [
+                            "$can_mine_gold"
+                        ]
+                    },
                     {
                         "name": "Floor 110",
                         "item_count": 1,
-                        "access_rules": 
-                            ["$can_mine_gold"]
+                        "access_rules": [
+                            "$can_mine_gold"
+                        ]
                     },
                     {
                         "name": "Floor 120",
                         "item_count": 1,
-                        "access_rules":
-                            ["$can_mine_gold"]
+                        "access_rules": [
+                            "$can_mine_gold"
+                        ]
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
                         "map": "Stardew Valley",
                         "x": 670,
@@ -80,8 +92,13 @@
             },
             {
                 "name": "Mines Elevators",
-                "visibility_rules":["eshuffleon"],
-                "sections":[
+                "visibility_rules": [
+                    "eshuffleon"
+                ],
+                "access_rules": [
+                    "landslideremoved"
+                ],
+                "sections": [
                     {
                         "name": "Floors 5-20",
                         "clear_as_group": false,
@@ -91,25 +108,28 @@
                         "name": "Floors 25-40",
                         "clear_as_group": false,
                         "item_count": 4,
-                        "access_rules": 
-                            ["$can_mine_copper"]
+                        "access_rules": [
+                            "$can_mine_copper"
+                        ]
                     },
                     {
                         "name": "Floors 45-80",
                         "clear_as_group": false,
                         "item_count": 8,
-                        "access_rules": 
-                            ["$can_mine_iron"]
+                        "access_rules": [
+                            "$can_mine_iron"
+                        ]
                     },
                     {
                         "name": "Floors 85-120",
                         "clear_as_group": false,
                         "item_count": 8,
-                        "access_rules": 
-                            ["$can_mine_gold"]
+                        "access_rules": [
+                            "$can_mine_gold"
+                        ]
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
                         "map": "Stardew Valley",
                         "x": 685,
@@ -118,19 +138,92 @@
                 ]
             },
             {
+                "name": "Skull Cavern Floors",
+                "visibility_rules": [
+                    "774020"
+                ],
+                "access_rules": [
+                    "desert,skullkey"
+                ],
+                "sections": [
+                    {
+                        "name": "Floor 25",
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Floor 50",
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Floor 75",
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Floor 100",
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Floor 125",
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Floor 150",
+                        "clear_as_group": false,
+                        "item_count": 1
+                        
+                    },
+                    {
+                        "name": "Floor 175",
+                        "clear_as_group": false,
+                        "item_count": 1
+                        
+                    },
+                    {
+                        "name": "Floor 200",
+                        "clear_as_group": false,
+                        "item_count": 1
+                        
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 50,
+                        "y": 42
+                    }
+                ]
+            },
+            {
                 "name": "Backpack Upgrades",
-                "visibility_rules":["pshuffle"],
-                "sections":[
+                "visibility_rules": [
+                    "bpshuffle_on"
+                ],
+                "sections": [
                     {
                         "name": "Large Pack",
                         "item_count": 1
                     },
                     {
                         "name": "Deluxe Pack",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack",
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
                         "map": "Stardew Valley",
                         "x": 542,
@@ -140,27 +233,54 @@
             },
             {
                 "name": "Grim Reaper Statue",
-                "visibility_rules":["tshuffle"],
-                "access_rules":
-                    ["$has_bridge"],
-                "sections":[
+                "visibility_rules": [
+                    "tshuffle"
+                ],
+                "access_rules": [
+                    "$has_bridge"
+                ],
+                "sections": [
                     {
                         "name": "Golden Scythe",
                         "item_count": 1
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 738,
                         "y": 120
                     }
                 ]
             },
             {
+                "name": "Copper Pan Cutscene",
+                "visibility_rules": [
+                    "tshuffle"
+                ],
+                "access_rules": [
+                    "glittering"
+                ],
+                "sections": [
+                    {
+                        "name": "attend",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 638,
+                        "y": 120
+                    }
+                ]
+            },
+            {
                 "name": "Fishing Poles",
-                "visibility_rules": ["tshuffle"],
-                "sections":[
+                "visibility_rules": [
+                    "tshuffle"
+                ],
+                "sections": [
                     {
                         "name": "Purchase Training Rod",
                         "item_count": 1
@@ -172,19 +292,21 @@
                     {
                         "name": "Purchase Fiberglass Rod",
                         "item_count": 1,
-                        "access_rules":
-                            ["$can_fish"]
+                        "access_rules": [
+                            "$can_fish,fishing:2"
+                        ]
                     },
                     {
                         "name": "Purchase Iridium Rod",
                         "item_count": 1,
-                        "access_rules":
-                            ["$can_fish"]
+                        "access_rules": [
+                            "$can_fish,fishing:6"
+                        ]
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 655,
                         "y": 485
                     }
@@ -192,49 +314,57 @@
             },
             {
                 "name": "Tool Upgrades",
-                "visibility_rules":["tshuffle"],
-                "sections":[
+                "visibility_rules": [
+                    "tshuffle"
+                ],
+                "sections": [
                     {
                         "name": "Copper Tool Upgrades",
                         "clear_as_group": false,
-                        "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_copper"]
+                        "item_count": 6,
+                        "access_rules": [
+                            "$can_mine_copper"
+                        ]
                     },
                     {
                         "name": "Iron Tool Upgrades",
                         "clear_as_group": false,
-                        "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_iron"]
+                        "item_count": 6,
+                        "access_rules": [
+                            "$can_mine_iron"
+                        ]
                     },
                     {
                         "name": "Gold Tool Upgrades",
                         "clear_as_group": false,
-                        "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_gold"]
+                        "item_count": 6,
+                        "access_rules": [
+                            "$can_mine_gold"
+                        ]
                     },
                     {
                         "name": "Iridium Tool Upgrades",
                         "clear_as_group": false,
-                        "item_count": 5,
-                        "access_rules": 
-                            ["$can_mine_iridium"]
+                        "item_count": 6,
+                        "access_rules": [
+                            "$can_mine_iridium"
+                        ]
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 658,
                         "y": 315
                     }
-                ]   
+                ]
             },
             {
                 "name": "Arcade Game Victories",
-                "visibility_rules": ["ashuffle"],
-                "sections":[
+                "visibility_rules": [
+                    "ashuffle"
+                ],
+                "sections": [
                     {
                         "name": "Win 'Journey of the Prarie King'",
                         "item_count": 1
@@ -242,13 +372,14 @@
                     {
                         "name": "Win 'Junimo Kart'",
                         "item_count": 1,
-                        "access_rules":
-                            ["$has_skull_key"]
+                        "access_rules": [
+                            "$has_skull_key"
+                        ]
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 556,
                         "y": 285
                     }
@@ -256,9 +387,11 @@
             },
             {
                 "name": "Arcade Games",
-                "visibility_rules": ["ashuffle2"],
-                "clear_as_group":false,
-                "sections":[
+                "visibility_rules": [
+                    "ashuffle2"
+                ],
+                "clear_as_group": false,
+                "sections": [
                     {
                         "name": "JotPK: Boot Upgrades",
                         "item_count": 2
@@ -277,14 +410,15 @@
                     },
                     {
                         "name": "Junimo Kart Levels",
-                        "access_rules":
-                            ["$has_skull_key"],
-                        "item_count":8
+                        "access_rules": [
+                            "$has_skull_key"
+                        ],
+                        "item_count": 8
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 556,
                         "y": 298
                     }
@@ -292,71 +426,135 @@
             },
             {
                 "name": "Carpenter's Shop",
-                "visibility_rules": ["bshuffle"],
-                "sections":[
+                "visibility_rules": [
+                    "bshuffle"
+                ],
+                "sections": [
                     {
                         "name": "Purchase Barn Upgrades",
                         "clear_as_group": false,
-                        "item_count": 3
+                        "item_count": 3,
+                        "access_rules": [
+                            "barn"
+                        ]
                     },
                     {
                         "name": "Purchase Coop Upgrades",
                         "clear_as_group": false,
-                        "item_count": 3
+                        "item_count": 3,
+                        "access_rules": [
+                            "coop"
+                        ]
                     },
                     {
                         "name": "Purchase Well",
-                        "item_count":1
+                        "item_count": 1,
+                        "access_rules": [
+                            ""
+                        ]
                     },
                     {
                         "name": "Purchase Silo",
-                        "item_count":1
+                        "item_count": 1,
+                        "access_rules": [
+                            ""
+                        ]
                     },
                     {
                         "name": "Purchase Mill",
-                        "item_count":1
+                        "item_count": 1,
+                        "access_rules": [
+                            ""
+                        ]
                     },
                     {
                         "name": "Purchase Shed Upgrades",
                         "clear_as_group": false,
-                        "item_count": 2
+                        "item_count": 2,
+                        "access_rules": [
+                            "progressiveshed"
+                        ]
                     },
                     {
                         "name": "Purchase Fish Pond",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": [
+                            ""
+                        ]
                     },
                     {
                         "name": "Purchase Stable",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": [
+                            "stable"
+                        ]
                     },
                     {
                         "name": "Purchase Slime Hutch",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": [
+                            "hutch"
+                        ]
                     },
                     {
                         "name": "Purchase Shipping Bin",
-                        "item_count": 1
+                        "item_count": 1,
+                        "access_rules": [
+                            ""
+                        ]
+                    },
+                    {
+                        "name": "Purchase Kitchen Blueprint",
+                        "item_count": 1,
+                        "access_rules": [
+                            "kitchen"
+                        ]
+                    },
+                    {
+                        "name": "Purchase Kids Room Blueprint",
+                        "item_count": 1,
+                        "access_rules": [
+                            "kitchen"
+                        ]
+                    },
+                    {
+                        "name": "Purchase Cellar Blueprint",
+                        "item_count": 1,
+                        "access_rules": [
+                            "kids"
+                        ]
+                    },
+                    {
+                        "name": "Purchase Pet Bowl Blueprint",
+                        "item_count": 1,
+                        "access_rules": [
+                            ""
+                        ]
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 568,
-                        "y": 126 
+                        "y": 126
                     }
                 ]
             },
             {
                 "name": "Old Master Cannoli",
-                "sections":[
+                "visibility_rules": [
+                    "717701"
+                ],
+                "sections": [
                     {
                         "name": "Give a Sweet Gem Berry",
-                        "access_rules":
-                                ["$can_chop_logs"],
+                        "access_rules": [
+                            "$can_chop_logs,rare"
+                        ],
                         "item_count": 1
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
                         "map": "Stardew Valley",
                         "x": 60,
@@ -366,15 +564,15 @@
             },
             {
                 "name": "Beach Bridge Repair",
-                "sections":[
+                "sections": [
                     {
                         "name": "Bring 300 Wood",
                         "item_count": 1
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 657,
                         "y": 444
                     }
@@ -382,16 +580,18 @@
             },
             {
                 "name": "The Galaxy Sword",
-                "access_rules":["$can_access_desert"],
-                "sections":[
+                "access_rules": [
+                    "desert"
+                ],
+                "sections": [
                     {
                         "name": "Offer a Prismatic Shard",
-                        "item_count":1
+                        "item_count": 1
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 160,
                         "y": 27
                     }
@@ -399,53 +599,781 @@
             },
             {
                 "name": "Traveling Merchant",
-                "sections":[
+                "sections": [
                     {
-                        "name": "Monday",
-                        "access_rules":["$tmmon"],
-                        "clear_as_group":false,
-                        "item_count": 3
+                        "name": "Monday Item 1",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717911"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
                     },
                     {
-                        "name": "Tuesday",
-                        "access_rules":["$tmtues"],
-                        "clear_as_group":false,
-                        "item_count":3
+                        "name": "Monday Item 2",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717912"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
                     },
                     {
-                        "name": "Wednesday",
-                        "access_rules":["$tmwed"],
-                        "clear_as_group":false,
-                        "item_count":3
+                        "name": "Monday Item 3",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717913"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
                     },
                     {
-                        "name": "Thursday",
-                        "access_rules":["$tmthurs"],
-                        "clear_as_group":false,
-                        "item_count":3
+                        "name": "Monday Item 4",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717914"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
                     },
                     {
-                        "name": "Friday",
-                        "access_rules":["$tmfri"],
-                        "clear_as_group":false,
-                        "item_count":3
+                        "name": "Monday Item 5",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717915"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
                     },
                     {
-                        "name": "Saturday",
-                        "access_rules":["$tmsat"],
-                        "clear_as_group":false,
-                        "item_count":3
+                        "name": "Monday Item 6",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717916"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
                     },
                     {
-                        "name": "Sunday",
-                        "access_rules":["$tmsun"],
-                        "clear_as_group":false,
-                        "item_count":3
+                        "name": "Monday Item 7",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717917"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Monday Item 8",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717918"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Monday Item 9",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717919"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Monday Item 10",
+                        "access_rules": [
+                            "monday"
+                        ],
+                        "visibility_rules": [
+                            "717920"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 1",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717921"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 2",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717922"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 3",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717923"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 4",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717924"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 5",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717925"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 6",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717926"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 7",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717927"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 8",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717928"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 9",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717929"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tuesday Item 10",
+                        "access_rules": [
+                            "tuesday"
+                        ],
+                        "visibility_rules": [
+                            "717930"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 1",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717931"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 2",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717932"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 3",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717933"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 4",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717934"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 5",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717935"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 6",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717936"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 7",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717937"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 8",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717938"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 9",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717939"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wednesday Item 10",
+                        "access_rules": [
+                            "wednesday"
+                        ],
+                        "visibility_rules": [
+                            "717940"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 1",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717941"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 2",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717942"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 3",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717943"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 4",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717944"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 5",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717945"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 6",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717946"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 7",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717947"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 8",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717948"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 9",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717949"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Thursday Item 10",
+                        "access_rules": [
+                            "thursday"
+                        ],
+                        "visibility_rules": [
+                            "717950"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 1",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717951"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 2",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717952"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 3",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717953"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 4",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717954"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 5",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717955"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 6",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717956"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 7",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717957"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 8",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717958"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 9",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717959"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Friday Item 10",
+                        "access_rules": [
+                            "friday"
+                        ],
+                        "visibility_rules": [
+                            "717960"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 1",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717961"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 2",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717962"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 3",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717963"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 4",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717964"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 5",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717965"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 6",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717966"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 7",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717967"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 8",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717968"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 9",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717969"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Saturday Item 10",
+                        "access_rules": [
+                            "saturday"
+                        ],
+                        "visibility_rules": [
+                            "717970"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 1",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717901"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 2",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717902"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 3",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717903"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 4",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717904"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 5",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717905"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 6",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717906"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 7",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717907"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 8",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717908"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 9",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717909"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sunday Item 10",
+                        "access_rules": [
+                            "sunday"
+                        ],
+                        "visibility_rules": [
+                            "717910"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
                     }
                 ],
-                    "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 215,
                         "y": 300
                     }
@@ -453,18 +1381,22 @@
             },
             {
                 "name": "Fishsanity",
-                "access_rules":["$can_fish"],
-                "visibility_rules":["fsanity"],
-                "sections":[
+                "access_rules": [
+                    "$can_fish"
+                ],
+                "visibility_rules": [
+                    "fsanity"
+                ],
+                "sections": [
                     {
                         "name": "Catch 'em All!",
-                        "clear_as_group":false,
+                        "clear_as_group": false,
                         "item_count": 65
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 700,
                         "y": 505
                     }
@@ -472,45 +1404,251 @@
             },
             {
                 "name": "Pot of Gold",
-                "sections":[
+                "visibility_rules": [
+                    "717708"
+                ],
+                "sections": [
                     {
-                        "access_rules":["spring"],
+                        "access_rules": [
+                            "spring"
+                        ],
                         "name": "Find the Pot of Gold!",
                         "item_count": 1
                     }
                 ],
-                "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 235,
                         "y": 460
                     }
                 ]
             },
-
             {
                 "name": "Museumsanity",
-                "sections":[
+                "sections": [
                     {
                         "name": "Milestones",
-                        "visibility_rules":["msanity"],
-                        "clear_as_group":false,
+                        "visibility_rules": [
+                            "museum_milestone"
+                        ],
+                        "clear_as_group": false,
                         "item_count": 29
                     },
                     {
                         "name": "Donate 'em All!",
-                        "visibility_rules":["msanityplus"],
-                        "clear_as_group":false,
+                        "visibility_rules": [
+                            "museum_all"
+                        ],
+                        "clear_as_group": false,
                         "item_count": 95
                     }
                 ],
-                    "map_locations":[
+                "map_locations": [
                     {
-                        "map":"Stardew Valley",
+                        "map": "Stardew Valley",
                         "x": 700,
                         "y": 330
                     }
-                ]   
+                ]
+            },
+            {
+                "name": "Raccoon",
+                "sections": [
+                    {
+                        "name": "The Giant Stump",
+                        "access_rules": [
+                            "CopperAxe"
+                        ],
+                        "visibility_rules": [
+                            "717549"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 1",
+                        "access_rules": [
+                            "raccoon:1"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 2",
+                        "access_rules": [
+                            "raccoon:2"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 3",
+                        "access_rules": [
+                            "raccoon:3"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 4",
+                        "access_rules": [
+                            "raccoon:4"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 5",
+                        "access_rules": [
+                            "raccoon:5"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 6",
+                        "access_rules": [
+                            "raccoon:6"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 7",
+                        "access_rules": [
+                            "raccoon:7"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Request 8",
+                        "access_rules": [
+                            "raccoon:8"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 245,
+                        "y": 300
+                    }
+                ]
+            },
+            {
+                "name": "Krobus Stardrop",
+                "visibility_rules": [
+                    "717707"
+                ],
+                "sections": [
+                    {
+                        "name": "Buy it!",
+                        "access_rules": [
+                            "sewerkey"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 541,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Home Sweet Home",
+                "sections": [
+                    {
+                        "name": "Spouse Stardrop",
+                        "access_rules": [
+                            "kitchen"
+                        ],
+                        "visibility_rules": [
+                            "717706"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Have a Baby!",
+                        "access_rules": [
+                            "kids"
+                        ],
+                        "visibility_rules": [
+                            "717704"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Have Another Baby!",
+                        "access_rules": [
+                            "kids"
+                        ],
+                        "visibility_rules": [
+                            "717705"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 376,
+                        "y": 219
+                    }
+                ]
+            },
+            {
+                "name": "Trash Bear",
+                "access_rules": [
+                    "trashbeararrival"
+                ],
+                "sections": [
+                    {
+                        "name": "Foraging",
+                        "visibility_rules": [
+                            "717253"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cooking",
+                        "visibility_rules": [
+                            "717254"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Farming",
+                        "visibility_rules": [
+                            "717255"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fishing",
+                        "visibility_rules": [
+                            "717256"
+                        ],
+                        "clear_as_group": false,
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 310,
+                        "y": 450
+                    }
+                ]
             }
         ]
     }

@@ -250,8 +250,8 @@
         "loop": false,
         "allow_disabled": true,
         "codes": "719036"
-    },	
-	{
+    },
+    {
         "name": "719041",
         "type": "toggle",
         "loop": false,
@@ -482,7 +482,7 @@
         "allow_disabled": true,
         "codes": "719073"
     },
-	{
+    {
         "name": "719074",
         "type": "toggle",
         "loop": false,
@@ -608,4 +608,11 @@
         "allow_disabled": true,
         "codes": "719091"
     },
+    {
+        "name": "719092",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719092"
+    }
 ]

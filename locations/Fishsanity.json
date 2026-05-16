@@ -3,2208 +3,3688 @@
         "name": "Fishsanity",
         "chest_unopened_img": "images/QuestNew.png",
         "chest_opened_img": "images/QuestDone.png",
-        "children":[
+        "children": [
             {
                 "name": "Albacore",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall","Bamboorod,winter"],
-					"visibility_rules": ["718030","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 57
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],					
-					"visibility_rules": ["719655","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 57
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718030",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 57
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719655",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 57
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Anchovy",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,fall"],
-					"visibility_rules": ["718004","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 97
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,fall,shipping"],					
-					"visibility_rules": ["719656","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 97
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718004",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 97
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring,shipping",
+                            "rod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719656",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 97
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Eel",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,fall"],
-					"visibility_rules": ["718034","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 137
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,fall,shipping"],					
-					"visibility_rules": ["719669","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 137
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718034",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring,shipping",
+                            "Bamboorod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719669",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Flounder",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,summer"],
-					"visibility_rules": ["718021","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 177
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,summer,shipping"],					
-					"visibility_rules": ["719670","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 177
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,summer"
+                        ],
+                        "visibility_rules": [
+                            "718021",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 177
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring,shipping",
+                            "Bamboorod,summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719670",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Halibut",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,summer","Bamboorod,winter"],
-					"visibility_rules": ["718022","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 217
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719673","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 217
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718022",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 217
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring,shipping",
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719673",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 217
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Herring",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,winter"],
-					"visibility_rules": ["718002","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 257
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,winter,shipping"],
-					"visibility_rules": ["719674","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 257
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718002",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring,shipping",
+                            "rod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719674",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Octopus",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
-					"visibility_rules": ["718047","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 297
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],					
-					"visibility_rules": ["719685","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 297
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718047",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 297
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719685",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 297
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Pufferfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer"],
-					"visibility_rules": ["718039","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 337
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping"],
-					"visibility_rules": ["719690","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 337
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer"
+                        ],
+                        "visibility_rules": [
+                            "718039",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719690",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Red Mullet",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
-					"visibility_rules": ["718026","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 377
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719692","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 377
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718026",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719692",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Red Snapper",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer","rod,fall"],
-					"visibility_rules": ["718010","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 417
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer,shipping","rod,fall,shipping"],					
-					"visibility_rules": ["719693","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 417
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,summer",
+                            "rod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718010",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 417
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,summer,shipping",
+                            "rod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719693",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 417
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Sardine",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,fall","rod,winter"],
-					"visibility_rules": ["718005","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 457
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["rod,spring,shipping","rod,fall,shipping","rod,winter,shipping"],					
-					"visibility_rules": ["719696","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 457
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,fall",
+                            "rod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718005",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 457
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring,shipping",
+                            "rod,fall,shipping",
+                            "rod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719696",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 457
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Sea Cucumber",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall","rod,winter"],
-					"visibility_rules": ["718011","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 497
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall,shipping","rod,winter,shipping"],
-					"visibility_rules": ["719698","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 497
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,fall",
+                            "rod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718011",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,fall,shipping",
+                            "rod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719698",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Squid",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
-					"visibility_rules": ["718036","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 537
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["719705","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 537
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718036",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719705",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Super Cucumber",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,fall","Bamboorod,winter"],
-					"visibility_rules": ["718041","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 577
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719709","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 577
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718041",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,fall,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719709",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 577
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Tilapia",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,fall"],
-					"visibility_rules": ["718019","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 617
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,fall,shipping"],
-					"visibility_rules": ["719711","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 617
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718019",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719711",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Tuna",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
-					"visibility_rules": ["718033","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 657
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719712","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 657
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718033",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719712",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 657
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Sandfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,desert"],
-					"visibility_rules": ["718031","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 737
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,desert,shipping"],
-					"visibility_rules": ["719695","shipsanity_fish,","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 737
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,desert"
+                        ],
+                        "visibility_rules": [
+                            "718031",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,desert,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719695",
+                            "shipsanity_fish,",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Scorpion Carp",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,desert,fishing:4"],
-					"visibility_rules": ["718045","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 435,
-                        "y": 777
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,desert,fishing:4,shipping"],
-					"visibility_rules": ["719697","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 469,
-                        "y": 777
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,desert,fishing:4"
+                        ],
+                        "visibility_rules": [
+                            "718045",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 435,
+                                "y": 777
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,desert,fishing:4,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719697",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 469,
+                                "y": 777
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Bream",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod"],
-					"visibility_rules": ["718009","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 57
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,shipping"],
-					"visibility_rules": ["719659","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 57
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod"
+                        ],
+                        "visibility_rules": [
+                            "718009",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 57
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719659",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 57
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Catfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring","Bamboorod,fall"],
-					"visibility_rules": ["718035","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 97
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,spring,shipping","Bamboorod,fall,shipping"],
-					"visibility_rules": ["719662","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 97
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718035",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 97
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring,shipping",
+                            "Bamboorod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719662",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 97
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Dorado",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer"],
-					"visibility_rules": ["718038","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 137
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping"],
-					"visibility_rules": ["719668","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 137
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer"
+                        ],
+                        "visibility_rules": [
+                            "718038",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719668",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Goby",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
-					"visibility_rules": ["718071","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 177
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["720801","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 177
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:4"
+                        ],
+                        "visibility_rules": [
+                            "718071",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 177
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:4,shipping"
+                        ],
+                        "visibility_rules": [
+                            "720801",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Pike",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
-					"visibility_rules": ["718027","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 217
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719689","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 217
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718027",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 217
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719689",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 217
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Salmon",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall"],
-					"visibility_rules": ["718017","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 257
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,fall,shipping"],
-					"visibility_rules": ["719694","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 257
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718017",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719694",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Shad",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,summer","rod,winter"],
-					"visibility_rules": ["718014","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 297
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,summer,shipping","rod,winter,shipping"],					
-					"visibility_rules": ["719699","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 297
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,summer",
+                            "rod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718014",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 297
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring,shipping",
+                            "rod,summer,shipping",
+                            "rod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719699",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 297
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Smallmouth Bass",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,fall"],
-					"visibility_rules": ["718003","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 337
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,fall,shipping"],
-					"visibility_rules": ["719702","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 337
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718003",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring,shipping",
+                            "rod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719702",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Sunfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer","rod,spring"],
-					"visibility_rules": ["718006","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 377
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer,shipping","rod,spring,shipping"],
-					"visibility_rules": ["719708","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 377
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,summer",
+                            "rod,spring"
+                        ],
+                        "visibility_rules": [
+                            "718006",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,summer,shipping",
+                            "rod,spring,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719708",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Tiger Trout",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall","Bamboorod,winter"],
-					"visibility_rules": ["718028","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 417
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719710","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],			
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 417
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718028",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 417
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719710",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 417
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Chub",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod"],
-					"visibility_rules": ["718008","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 497
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["rod,shipping"],
-					"visibility_rules": ["719663","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 497
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod"
+                        ],
+                        "visibility_rules": [
+                            "718008",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719663",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Lingcod",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
-					"visibility_rules": ["718044","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 537
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["719679","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 537
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718044",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719679",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Perch",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,winter"],
-					"visibility_rules": ["718007","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 577
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,winter,shipping"],
-					"visibility_rules": ["719687","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 577
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718007",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719687",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 577
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Rainbow Trout",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer"],
-					"visibility_rules": ["718012","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 617
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,summer,shipping"],					
-					"visibility_rules": ["719691","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 617
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,summer"
+                        ],
+                        "visibility_rules": [
+                            "718012",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719691",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Walleye",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall"],
-					"visibility_rules": ["718013","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 657
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,fall,shipping"],
-					"visibility_rules": ["719714","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 657
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718013",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719714",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 657
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Slimejack",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
-					"visibility_rules": ["718024","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 737
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["719701","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 737
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,railroad,sewerkey"
+                        ],
+                        "visibility_rules": [
+                            "718024",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,railroad,sewerkey,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719701",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Void Salmon",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
-					"visibility_rules": ["718040","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 777
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["719713","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 777
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,railroad,darktalisman"
+                        ],
+                        "visibility_rules": [
+                            "718040",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 777
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,railroad,darktalisman,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719713",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 777
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Woodskip",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
-					"visibility_rules": ["718020","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 922,
-                        "y": 817
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["719715","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 955,
-                        "y": 817
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,SteelAxe"
+                        ],
+                        "visibility_rules": [
+                            "718020",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 922,
+                                "y": 817
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,shipping,SteelAxe"
+                        ],
+                        "visibility_rules": [
+                            "719715",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 955,
+                                "y": 817
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Bullhead",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod"],
-					"visibility_rules": ["718015","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 57
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,shipping"],
-					"visibility_rules": ["719660","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],			
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 57
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod"
+                        ],
+                        "visibility_rules": [
+                            "718015",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 57
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719660",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 57
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Carp",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring","rod,summer","rod,fall"],
-					"visibility_rules": ["718001","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 97
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["rod,spring,shipping","rod,summer,shipping","rod,fall,shipping"],
-					"visibility_rules": ["719661","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 97
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,summer",
+                            "rod,fall"
+                        ],
+                        "visibility_rules": [
+                            "718001",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 97
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "rod,spring,shipping",
+                            "rod,summer,shipping",
+                            "rod,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719661",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 97
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Largemouth Bass",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod"],
-					"visibility_rules": ["718016","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 137
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,shipping"],
-					"visibility_rules": ["719676","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 137
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod"
+                        ],
+                        "visibility_rules": [
+                            "718016",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719676",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Midnight Carp",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall","Bamboorod,winter"],
-					"visibility_rules": ["718025","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 177
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fall,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719681","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 177
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718025",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 177
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719681",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 177
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Sturgeon",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer","Bamboorod,winter"],
-					"visibility_rules": ["718037","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 217
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,summer,shipping","Bamboorod,winter,shipping"],
-					"visibility_rules": ["719707","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 217
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718037",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 217
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer,shipping",
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719707",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 217
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Ghostfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e20"],
-					"visibility_rules": ["718018","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 297
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["Bamboorod,e20,shipping"],
-					"visibility_rules": ["719671","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 297
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e20"
+                        ],
+                        "visibility_rules": [
+                            "718018",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 297
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e20,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719671",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 297
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Stonefish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e20"],
-					"visibility_rules": ["718032","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 337
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e20,shipping"],
-					"visibility_rules": ["719706","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 337
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e20"
+                        ],
+                        "visibility_rules": [
+                            "718032",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e20,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719706",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Ice Pip",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e60"],
-					"visibility_rules": ["718043","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 377
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e60,shipping"],
-					"visibility_rules": ["719675","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 377
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e60"
+                        ],
+                        "visibility_rules": [
+                            "718043",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e60,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719675",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Lava Eel",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e100"],
-					"visibility_rules": ["718046","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 417
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,e100,shipping"],
-					"visibility_rules": ["719677","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 417
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e100"
+                        ],
+                        "visibility_rules": [
+                            "718046",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 417
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e100,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719677",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 417
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Blue Discus",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,turtlen","Bamboorod,turtlew"],
-					"visibility_rules": ["718029","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 497
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,turtlen,island,shipping","Bamboorod,turtlew,island,shipping"],
-					"visibility_rules": ["719947","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 497
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,island,turtlen",
+                            "Bamboorod,$can_reach_ifarm"
+                        ],
+                        "visibility_rules": [
+                            "718029",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,turtlen,island,shipping",
+                            "Bamboorod,$can_reach_ifarm,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719947",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Lionfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,turtlew"],
-					"visibility_rules": ["718023","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 537
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,turtlew,shipping"],
-					"visibility_rules": ["719950","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 537
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,$can_reach_ifarm",
+                            "Bamboorod,island,resort"
+                        ],
+                        "visibility_rules": [
+                            "718023",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,$can_reach_ifarm,shipping",
+                            "Bamboorod,island,resort,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719950",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Stingray",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island"],
-					"visibility_rules": ["718042","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 577
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,island,shipping"],
-					"visibility_rules": ["719954","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 577
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,island,resort"
+                        ],
+                        "visibility_rules": [
+                            "718042",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,island,resort,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719954",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 577
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Angler",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,fall"],
-					"visibility_rules": ["718052","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 657
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,fall,shipping"],
-					"visibility_rules": ["719657","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],								
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 657
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:3,fall"
+                        ],
+                        "visibility_rules": [
+                            "718052",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:3,fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719657",
+                            "shipsanity_fullwf",
+                            "shipsanity_all",
+                            "shipsanity_fish"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 657
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Crimsonfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,summer"],
-					"visibility_rules": ["718051","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 697
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,summer,shipping"],
-					"visibility_rules": ["719667","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 697
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:5,summer"
+                        ],
+                        "visibility_rules": [
+                            "718051",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 697
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:5,summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719667",
+                            "shipsanity_fullwf",
+                            "shipsanity_all",
+                            "shipsanity_fish"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 697
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Glacierfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,winter"],
-					"visibility_rules": ["718054","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 737
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,winter,shipping"],
-					"visibility_rules": ["719672","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 737
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:6,winter"
+                        ],
+                        "visibility_rules": [
+                            "718054",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:6,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719672",
+                            "shipsanity_fullwf",
+                            "shipsanity_all",
+                            "shipsanity_fish"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Legend",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:10,spring"],
-					"visibility_rules": ["718053","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 777
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:10,spring,shipping"],
-					"visibility_rules": ["719678","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 777
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:10,spring"
+                        ],
+                        "visibility_rules": [
+                            "718053",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 777
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:10,spring,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719678",
+                            "shipsanity_fullwf",
+                            "shipsanity_all",
+                            "shipsanity_fish"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 777
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Mutant Carp",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,sewerkey"],
-					"visibility_rules": ["718055","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1409,
-                        "y": 817
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,sewerkey,shipping"],
-					"visibility_rules": ["719684","shipsanity_fullwf","shipsanity_all","shipsanity_fish"],						
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1442,
-                        "y": 817
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,sewerkey"
+                        ],
+                        "visibility_rules": [
+                            "718055",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1409,
+                                "y": 817
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,sewerkey,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719684",
+                            "shipsanity_fullwf",
+                            "shipsanity_all",
+                            "shipsanity_fish"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1442,
+                                "y": 817
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Blobfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
-					"visibility_rules": ["718050","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 57
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["719658","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1929,
-                        "y": 57
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718050",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 57
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719658",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 57
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Midnight Squid",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
-					"visibility_rules": ["718048","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 97
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["719682","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 97
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718048",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 97
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719682",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 97
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Spook Fish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter"],
-					"visibility_rules": ["718049","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 137
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,winter,shipping"],
-					"visibility_rules": ["719704","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 137
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
+                        ],
+                        "visibility_rules": [
+                            "718049",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719704",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Crayfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718056","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 217
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719666","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 217
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718056",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 217
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719666",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 217
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Periwinkle",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718058","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 257
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719688","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 257
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718058",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719688",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Snail",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718057","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 297
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719703","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 297
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718057",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 297
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719703",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 297
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Clam",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718060","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 337
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719720","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 337
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718060",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719720",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Cockle",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],			
-					"visibility_rules": ["718062","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 377
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],		
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719664","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 377
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718062",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719664",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Crab",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718061","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 417
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719665","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 417
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718061",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 417
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719665",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 417
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Lobster",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718059","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 457
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719680","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 457
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718059",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 457
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719680",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 457
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Mussel",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718063","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 497
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719683","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 497
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718063",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719683",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Oyster",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718065","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 537
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719686","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 537
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718065",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719686",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Shrimp",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["fishing:3"],
-					"visibility_rules": ["718064","fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 577
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],	
-					"access_rules": ["fishing:3,shipping"],
-					"visibility_rules": ["719700","shipsanity_fish","shipsanity_fullwf","shipsanity_all"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 577
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3"
+                        ],
+                        "visibility_rules": [
+                            "718064",
+                            "fishsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fishing:3,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719700",
+                            "shipsanity_fish",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 577
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Ms. Angler",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,island,walnutroom"],
-					"visibility_rules": ["718069","island_tracking_on,fishsanity_on"],													
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 657
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:3,walnutroom,island,shipping"],
-					"visibility_rules": ["719951","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],		
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 657
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:3,$can_reach_ifarm,walnutroom"
+                        ],
+                        "visibility_rules": [
+                            "718069",
+                            "island_tracking_on,fishsanity_on,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:3,walnutroom,$can_reach_ifarm,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719951",
+                            "island_tracking_on,shipsanity_fullwf,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_all,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_fish,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 657
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Son of Crimsonfish",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,island,walnutroom"],
-					"visibility_rules": ["718066","island_tracking_on,fishsanity_on"],	
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 697
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:5,island,walnutroom,shipping"],
-					"visibility_rules": ["719953","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],	
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 697
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:5,$can_reach_ifarm,walnutroom"
+                        ],
+                        "visibility_rules": [
+                            "718066",
+                            "island_tracking_on,fishsanity_on,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 697
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:5,$can_reach_ifarm,walnutroom,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719953",
+                            "island_tracking_on,shipsanity_fullwf,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_all,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_fish,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 697
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Glacierfish Jr.",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,island,walnutroom"],
-					"visibility_rules": ["718067","island_tracking_on,fishsanity_on"],		
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 737
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:6,island,walnutroom,shipping"],					
-					"visibility_rules": ["719948","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],	
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 737
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:6,$can_reach_ifarm,walnutroom"
+                        ],
+                        "visibility_rules": [
+                            "718067",
+                            "island_tracking_on,fishsanity_on,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:6,$can_reach_ifarm,walnutroom,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719948",
+                            "island_tracking_on,shipsanity_fullwf,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_all,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_fish,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Legend II",
-				"children":[
-				{
-					"name": "Caught",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,fishing:10,island,walnutroom"],
-					"visibility_rules": ["718068","island_tracking_on,fishsanity_on"],		
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 777
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,walnutroom,island,shipping"],
-					"visibility_rules": ["719949","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 777
-                      }
-                    ]
-				}
-				]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:10,$can_reach_ifarm,walnutroom"
+                        ],
+                        "visibility_rules": [
+                            "718068",
+                            "island_tracking_on,fishsanity_on,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 777
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,,fishing:10,walnutroom,$can_reach_ifarm,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719949",
+                            "island_tracking_on,shipsanity_fullwf,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_all,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_fish,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 777
+                            }
+                        ]
+                    }
+                ]
             },
-			{
+            {
                 "name": "Radioactive Carp",
-				"children":[
-				{
-					"name": "Caught",
-					"access_rules": ["Bamboorod,sewerkey,island,walnutroom"],
-					"sections": [{"item_count": 1}],
-					"visibility_rules": ["718070","island_tracking_on,fishsanity_on"],
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1896,
-                        "y": 817
-                      }
-                    ]
-				},
-				{
-					"name": "Shipped",
-					"sections": [{"item_count": 1}],
-					"access_rules": ["Bamboorod,sewerkey,walnutroom,island,shipping"],
-					"visibility_rules": ["719952","island_tracking_on,shipsanity_fullwf","island_tracking_on,shipsanity_all","island_tracking_on,shipsanity_fish"],					
-					"map_locations":[
-                      {
-                        "map":"Fishes",
-                        "x": 1927,
-                        "y": 817
-                      }
-                    ]
-				}
-				]
-            },
-		]
+                "children": [
+                    {
+                        "name": "Caught",
+                        "access_rules": [
+                            "Bamboorod,sewerkey,$can_reach_ifarm,walnutroom"
+                        ],
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718070",
+                            "island_tracking_on,fishsanity_on,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1896,
+                                "y": 817
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,sewerkey,walnutroom,$can_reach_ifarm,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719952",
+                            "island_tracking_on,shipsanity_fullwf,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_all,include_endgame_locations_on",
+                            "island_tracking_on,shipsanity_fish,include_endgame_locations_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fishes",
+                                "x": 1929,
+                                "y": 817
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]

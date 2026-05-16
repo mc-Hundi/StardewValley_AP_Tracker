@@ -1,0 +1,771 @@
+[
+    {
+        "name": "Moviesanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "access_rules": [
+            "theater2"
+        ],
+        "children": [
+            {
+                "name": "Watch A Movie",
+                "children": [
+                    {
+                        "name": "Watch a Movie at the Stardew Valley Theater!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721301"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 208
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "The Brave Little Sapling",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721302"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 74
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Journey Of The Prairie King/The Motion Picture",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721303"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 74
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mysterium",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721304"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 74
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "The Miracle At Coldstar Ranch",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721305"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 74
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Natural Wonders/Exploring Our Vibrant World",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721306"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 146
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wumbus",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721307"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 146
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "It Howls In The Rain",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721308"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 146
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "The Zuzu City Express",
+                "children": [
+                    {
+                        "name": "Watch it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721309"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 146
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Apple Slices",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721311"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 314
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Black Licorice",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721312"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 358
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cappuccino Mousse Cake",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721313"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 402
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chocolate Popcorn",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721314"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 446
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cotton Candy",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721315"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 490
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fries",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721316"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 533,
+                                "y": 534
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hummus Snack Pack",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721317"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 314
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ice Cream Sandwich",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721318"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 358
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jasmine Tea",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721319"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 402
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jawbreaker",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721320"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 446
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Joja Cola",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721321"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 490
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "JojaCorn",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721322"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1110,
+                                "y": 534
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kale Smoothie",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721323"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 314
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nachos",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721324"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 358
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Panzanella Salad",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721325"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 402
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Personal Pizza",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721326"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 446
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Popcorn",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721327"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 490
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rock Candy",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721328"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 1686,
+                                "y": 534
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Salmon Burger",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721329"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 314
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Salted Peanuts",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721330"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 358
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sour Slimes",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721331"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 402
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Star Cookie",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721332"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 446
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Stardrop Sorbet",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721333"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 490
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Truffle Popcorn",
+                "children": [
+                    {
+                        "name": "Share it!",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721334"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Moviesanity",
+                                "x": 2264,
+                                "y": 534
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
