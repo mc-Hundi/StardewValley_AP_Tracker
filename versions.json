@@ -11,7 +11,7 @@
 		{
 			"package_version": "1.7.0",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.0/stardew_valley_ap_tracker.zip",
-			"sha256": "24091fa2c9da21970f98526c7b24265758fca0731142fb3bbd714fdd8fe248c86",
+			"sha256": "43e252de03859750b4edb24808c7429ab7428e970785bb2d7c9883e410d2fd32",
 			"changelog": [
 				"added support for Craftsanity",
 				"added support for Friendsanity",
