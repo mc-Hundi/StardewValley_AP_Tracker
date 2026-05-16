@@ -5,7 +5,7 @@
     "package_version": "1.7.0",
     "package_uid": "StardewValley_AP_Tracker",
     "author": "Trey Spyre, updated by LuckwurstJoe with help from the poptracker community and updated by mcHundi",
-    "versions_url": "https://raw.githubusercontent.com/mc-Hundi/StardewValley_AP_Tracker/refs/heads/main/version.json",
+    "versions_url": "https://raw.githubusercontent.com/mc-Hundi/StardewValley_AP_Tracker/refs/heads/main/versions.json",
     "variants": {
         "itemrando": {
             "display_name": "Archipelago Randomizer",
