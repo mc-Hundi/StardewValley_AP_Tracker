@@ -3,7 +3,7 @@
 		{
 			"package_version": "1.7.1",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.1/stardew_valley_ap_tracker.zip",
-			"sha256": "29bc6071ec242b2884e8aa5b1526f5b9065b160fa4a3dad223bee9116091758e",
+			"sha256": "e7371915e828dae6f4c4eefc0012ef5f5b78ab3119685ceb09936ab116752cdb",
 			"changelog": [
 				"autoupdate test"
 			]
@@ -11,7 +11,7 @@
 		{
 			"package_version": "1.7.0",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.0/stardew_valley_ap_tracker.zip",
-			"sha256": "43e252de03859750b4edb24808c7429ab7428e970785bb2d7c9883e410d2fd32",
+			"sha256": "9ac69b6b3ea0eaf394936fb6ea8f32f8bcd053e24410c409def75d5033d44583",
 			"changelog": [
 				"added support for Craftsanity",
 				"added support for Friendsanity",
