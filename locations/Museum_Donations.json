@@ -1,0 +1,4193 @@
+[
+    {
+        "name": "Museum_Donations",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Aerinite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718258",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719764",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Alamite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718255",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719765",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Amethyst",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718250",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719766",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Aquamarine",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718248",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719768",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Baryte",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718257",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719769",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Basalt",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "visibility_rules": [
+                            "718287",
+                            "museum_donation"
+                        ],
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 387
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719770",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 387
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bixite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718256",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719771",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Calcite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718259",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719772",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Celestine",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718283",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719773",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Diamond",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718253",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719776",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dolomite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718260",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719777",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Earth Crystal",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718246",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 174,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719778",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 224,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Emerald",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718247",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719779",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Esperite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718261",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719780",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fairy Stone",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718294",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719781",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fire Opal",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718282",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719782",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fire Quartz",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718244",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719783",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fluorapatite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718262",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 387
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719784",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 387
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Frozen Tear",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718245",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719786",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Geminite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718263",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719787",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ghost Crystal",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718278",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719789",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Granite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718286",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719791",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Helvite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718264",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719792",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hematite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718290",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 334,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719793",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 384,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jade",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718252",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719796",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jagoite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718266",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719797",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jamborite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718265",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719798",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jasper",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718280",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719799",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kyanite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718267",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719800",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lemon Stone",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718271",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 387
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719801",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 387
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Limestone",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718288",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719802",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lunarite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718268",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719803",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Malachite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718269",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719805",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Marble",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718284",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719806",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mudstone",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718291",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719807",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nekoite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718272",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 494,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719809",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 544,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Neptunite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718270",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719810",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Obsidian",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718292",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719811",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Stone",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718277",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719812",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Opal",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718281",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719814",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orpiment",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718273",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719815",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Petrified Slime",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718274",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 387
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719817",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 387
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prismatic Shard",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718254",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719823",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pyrite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718276",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719824",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Quartz",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718243",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719825",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 537
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ruby",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718249",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719826",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sandstone",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718285",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719827",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Slate",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718293",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 659,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719830",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 709,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Soapstone",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718289",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719831",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Star Shards",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718295",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719832",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Thunder Egg",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718275",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719833",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tigerseye",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718279",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719834",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Topaz",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718251",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719835",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Amphibian Fossil",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718240",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719767",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Anchor",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718221",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719416",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Doll",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718207",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 539
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719417",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 539
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Drum",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718227",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719418",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Seed",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718218"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 637
+                            },
+                            {
+                                "map": "Museum_Milestones",
+                                "x": 60,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719419",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Sword",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718213",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 819,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719420",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 869,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Arrowhead",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718206",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719421",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bone Flute",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718223",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719423",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chewing Stick",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718209",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719424",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chicken Statue",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718217",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719425",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chipped Amphora",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718205",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719426",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dinosaur Egg",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718211",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 387
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719427",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 387
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dried Starfish",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718220",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719428",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dwarf Gadget",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718226",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719429",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dwarf Scroll I",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718201",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 539
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719430",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 539
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dwarf Scroll II",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718202",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719431",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dwarf Scroll III",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718203",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719432",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dwarf Scroll IV",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718204",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 979,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719433",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1029,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dwarvish Helm",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718225",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719434",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elvish Jewelry",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718208",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719435",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Glass Shards",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718222",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719436",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Golden Mask",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718228",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719437",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Golden Relic",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718229",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719438",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nautilus Fossil",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718239",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 387
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719808",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 387
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ornamental Fan",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718210",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719439",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Palm Fossil",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718241",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719816",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prehistoric Handaxe",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718224",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 539
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719440",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 539
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prehistoric Rib",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718236",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719818",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prehistoric Scapula",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718232",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719819",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prehistoric Skull",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718234",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1139,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719820",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1189,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prehistoric Tibia",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718233",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719821",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prehistoric Tool",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718219",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 187
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719441",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 187
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Prehistoric Vertebra",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718237",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 237
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719822",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 237
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rare Disc",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718212",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 287
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719442",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 287
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rusty Cog",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718216",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719443",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 337
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rusty Spoon",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718214",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 387
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719444",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 387
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rusty Spur",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718215",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719445",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skeletal Hand",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718235",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 487
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719828",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 487
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skeletal Tail",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718238",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 539
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719829",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 539
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Strange Doll Green",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718230",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719447",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Strange Doll",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718231",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719446",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trilobite",
+                "children": [
+                    {
+                        "name": "Donate",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "718242",
+                            "museum_donation"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1299,
+                                "y": 687
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719836",
+                            "shipping,shipsanity_full",
+                            "shipping,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Museum_Donations",
+                                "x": 1349,
+                                "y": 687
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

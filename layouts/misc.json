@@ -1,0 +1,45 @@
+{
+    "misc": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1",
+                "rows": [
+                    [
+                        "wizardinvitation",
+                        "forestmagic",
+                        "bearsknowledge",
+                        "iridiumsnakemilk"
+                    ],
+                    [
+                        "progressivebooksellerdays",
+                        "booksellerstock:progressiveexperiencebooks",
+                        "booksellerstock:progressiverarebooks",
+                        "booksellerstock:permanentbooks"
+                    ],
+                    [
+                        "womenslockerkey",
+                        "menslockerkey",
+                        "travelingmerchantmetaldetector",
+                        "sewingmachine"
+                    ],
+                    [
+                        "masteryofthefiveways",
+                        "trashbeararrival",
+                        "",
+                        "gold"
+                    ],
+                    [
+                        "tunneltobackwoodsshortcut",
+                        "towntotidepoolsshortcut",
+                        "mountainshortcuts",
+                        "foresttobeachshortcut"
+                    ]
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1781 @@
+[
+    {
+        "name": "Monstersanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Green Slime",
+                "children": [
+                    {
+                        "name": "Mines Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720101",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 140,
+                                "y": 95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Frost Jelly",
+                "children": [
+                    {
+                        "name": "Mines - Level 40",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720102",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 140,
+                                "y": 155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sludge",
+                "children": [
+                    {
+                        "name": "Mines - Level 80",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720103",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 140,
+                                "y": 215
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tiger Slime",
+                "children": [
+                    {
+                        "name": "Island Cave Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720104",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm",
+                            "island,turtlen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 140,
+                                "y": 275
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Shaman",
+                "children": [
+                    {
+                        "name": "Mines - Level 80",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720105",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 140,
+                                "y": 350
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Brute",
+                "children": [
+                    {
+                        "name": "Mines - Level 80",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720106",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 140,
+                                "y": 465
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Sniper",
+                "children": [
+                    {
+                        "name": "Shrine of Challenge or during the 'Danger in The Deep' quest (Qi Walnut Room)\nMines - Level 80+",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720107",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 140,
+                                "y": 585
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bat",
+                "children": [
+                    {
+                        "name": "Mines - Level 30",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720108",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e30"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 360,
+                                "y": 95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Frost Bat",
+                "children": [
+                    {
+                        "name": "Mines - Level 40",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720109",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 360,
+                                "y": 155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lava Bat",
+                "children": [
+                    {
+                        "name": "Mines - Level 80",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720110",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 360,
+                                "y": 215
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Bat",
+                "children": [
+                    {
+                        "name": "Skull Cavern Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720111",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 360,
+                                "y": 275
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skeleton",
+                "children": [
+                    {
+                        "name": "Mines - Level 70",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720112",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e70"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 360,
+                                "y": 390
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skeleton Mage",
+                "children": [
+                    {
+                        "name": "Shrine of Challenge, during the 'Danger in The Deep' quest (Qi Walnut Room) or Quarry Mine Access\nMines - Level 71-79",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720113",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "$has_bridge,$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 360,
+                                "y": 520
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bug",
+                "children": [
+                    {
+                        "name": "Mines Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720114",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 95
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fly",
+                "children": [
+                    {
+                        "name": "Mines Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720115",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Grub",
+                "children": [
+                    {
+                        "name": "Mines - Level 15",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720116",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e15"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 215
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Duggy",
+                "children": [
+                    {
+                        "name": "Mines Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720117",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 285
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magma Duggy",
+                "children": [
+                    {
+                        "name": "Island Cave Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720118",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 355
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dust Sprite",
+                "children": [
+                    {
+                        "name": "Mines - Level 40",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720119",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 430
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rock Crab",
+                "children": [
+                    {
+                        "name": "Mines Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720120",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 500
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lava Crab",
+                "children": [
+                    {
+                        "name": "Mines - Level 80",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720121",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 575
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Crab",
+                "children": [
+                    {
+                        "name": "Skull Cavern Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720122",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 580,
+                                "y": 645
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mummy",
+                "children": [
+                    {
+                        "name": "Skull Cavern Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720123",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 820,
+                                "y": 125
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Serpent",
+                "children": [
+                    {
+                        "name": "Skull Cavern Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720124",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 820,
+                                "y": 215
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Royal Serpent",
+                "children": [
+                    {
+                        "name": "Skull Cavern during the Skull Cavern Invasion quest (Qi Walnut Room)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720125",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,walnutroom,desert,$has_skull_key"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 820,
+                                "y": 290
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magma Sprite",
+                "children": [
+                    {
+                        "name": "Island Cave Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720126",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 820,
+                                "y": 365
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magma Sparker",
+                "children": [
+                    {
+                        "name": "Island Cave Access",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720127",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Monstersanity",
+                                "x": 820,
+                                "y": 430
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Slimes",
+                "sections": [
+                    {
+                        "name": "Slay Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720001",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 200 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720020",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 400 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720021",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 600 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720022",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 800 Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720023",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1135,
+                        "y": 137
+                    }
+                ]
+            },
+            {
+                "name": "Void Sprites",
+                "sections": [
+                    {
+                        "name": "Slay Void Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720002",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ]
+                    },
+                    {
+                        "name": "Slay 30 Void Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720024",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ]
+                    },
+                    {
+                        "name": "Slay 60 Void Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720025",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ]
+                    },
+                    {
+                        "name": "Slay 90 Void Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720026",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ]
+                    },
+                    {
+                        "name": "Slay 120 Void Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720027",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1135,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Bats",
+                "sections": [
+                    {
+                        "name": "Slay Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720003",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e30",
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 40 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720028",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e30",
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 80 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720029",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e30",
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 120 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720030",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e30",
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 160 Bats",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720031",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e30",
+                            "desert,$has_skull_key"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1135,
+                        "y": 337
+                    }
+                ]
+            },
+            {
+                "name": "Skeletons",
+                "sections": [
+                    {
+                        "name": "Slay Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720004",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e70"
+                        ]
+                    },
+                    {
+                        "name": "Slay 10 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720032",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e70"
+                        ]
+                    },
+                    {
+                        "name": "Slay 20 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720033",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e70"
+                        ]
+                    },
+                    {
+                        "name": "Slay 30 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720034",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e70"
+                        ]
+                    },
+                    {
+                        "name": "Slay 40 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720035",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e70"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1135,
+                        "y": 437
+                    }
+                ]
+            },
+            {
+                "name": "Cave Insects",
+                "sections": [
+                    {
+                        "name": "Slay Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720005",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 25 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720036",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 50 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720037",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 75 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720038",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 100 Cave Insects",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720039",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1135,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Duggies",
+                "sections": [
+                    {
+                        "name": "Slay Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720006",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 6 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720040",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 12 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720041",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 18 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720042",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 24 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720043",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1135,
+                        "y": 637
+                    }
+                ]
+            },
+            {
+                "name": "Dust Sprites",
+                "sections": [
+                    {
+                        "name": "Slay Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720007",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ]
+                    },
+                    {
+                        "name": "Slay 100 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720044",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ]
+                    },
+                    {
+                        "name": "Slay 200 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720045",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ]
+                    },
+                    {
+                        "name": "Slay 300 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720046",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ]
+                    },
+                    {
+                        "name": "Slay 400 Dust Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720047",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e40"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1440,
+                        "y": 137
+                    }
+                ]
+            },
+            {
+                "name": "Rock Crabs",
+                "sections": [
+                    {
+                        "name": "Slay Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720008",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 12 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720048",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 24 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720049",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 36 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720050",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    },
+                    {
+                        "name": "Slay 48 Rock Crabs",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720051",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1440,
+                        "y": 237
+                    }
+                ]
+            },
+            {
+                "name": "Mummies",
+                "sections": [
+                    {
+                        "name": "Slay Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720009",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 20 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720052",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 40 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720053",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 60 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720054",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 80 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720055",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1440,
+                        "y": 337
+                    }
+                ]
+            },
+            {
+                "name": "Pepper Rex",
+                "sections": [
+                    {
+                        "name": "Slay Pepper Rex",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720010",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 10 Pepper Rex",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720056",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 20 Pepper Rex",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720057",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 30 Pepper Rex",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720058",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 40 Pepper Rex",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "720059",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1440,
+                        "y": 437
+                    },
+                    {
+                        "map": "Monstersanity",
+                        "x": 820,
+                        "y": 525
+                    }
+                ]
+            },
+            {
+                "name": "Serpents",
+                "sections": [
+                    {
+                        "name": "Slay Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720011",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 50 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720060",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 100 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720061",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 150 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720062",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    },
+                    {
+                        "name": "Slay 200 Serpents",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720063",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "desert,$has_skull_key"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1440,
+                        "y": 537
+                    }
+                ]
+            },
+            {
+                "name": "Magma Sprites",
+                "sections": [
+                    {
+                        "name": "Slay Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720012",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ]
+                    },
+                    {
+                        "name": "Slay 30 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720064",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ]
+                    },
+                    {
+                        "name": "Slay 60 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720065",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ]
+                    },
+                    {
+                        "name": "Slay 90 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720066",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ]
+                    },
+                    {
+                        "name": "Slay 120 Magma Sprites",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "720067",
+                            "monstersanity_on"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Monstersanity",
+                        "x": 1440,
+                        "y": 637
+                    }
+                ]
+            }
+        ]
+    }
+]

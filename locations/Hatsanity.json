@@ -1,0 +1,3318 @@
+[
+    {
+        "name": "Hatsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Abigails Bow",
+                "children": [
+                    {
+                        "name": "Purchase for 60 Calico Egg from Abigail's shop at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            ""
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Arcane Hat",
+                "children": [
+                    {
+                        "name": "Monster Eradication Goal - Defeat 100 Mummies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721603",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            "desert,skullkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Archers Cap",
+                "children": [
+                    {
+                        "name": "Cook every recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721604",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            "kitchen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Beanie",
+                "children": [
+                    {
+                        "name": "Tailoring (Acorn/Mahogany/Maple/Pine Seed) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721605",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 259
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blobfish Mask",
+                "children": [
+                    {
+                        "name": "Tailoring (Blobfish)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721606",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blue Bonnet",
+                "children": [
+                    {
+                        "name": "Donate 40 different items to The Museum",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721607",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blue Bow",
+                "children": [
+                    {
+                        "name": "Purchase for 50 Calico Eggs from the Calico Egg Merchant at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721608",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 448
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blue Cowboy Hat",
+                "children": [
+                    {
+                        "name": "Skull Cavern treasure chests",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721609",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "desert,skullkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 511
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blue Ribbon",
+                "children": [
+                    {
+                        "name": "Get 1st place in the Stardew Valley Fair competition",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721610",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "fall"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 574
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bluebird Mask",
+                "children": [
+                    {
+                        "name": "Island Trader on Wednesdays in exchange for 30 Taro Roots",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721611",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "island,turtlen,trader",
+                            "island,parrots,trader"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bowler Hat",
+                "children": [
+                    {
+                        "name": "Earn 1.000.000g",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721612",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bridal Veil",
+                "children": [
+                    {
+                        "name": "Tailoring (Pearl) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721613",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 763
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bucket Hat",
+                "children": [
+                    {
+                        "name": "Obtained as a reward from the Trout Derby",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721614",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "summer"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 826
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Butterfly Bow",
+                "children": [
+                    {
+                        "name": "Reach a 5-heart friend level with someone",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721615",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 889
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cat Ears",
+                "children": [
+                    {
+                        "name": "Reach a 10-heart friend level with 8 people",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721616",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 952
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chef Hat",
+                "children": [
+                    {
+                        "name": "Cook every recipe",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721617",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            "kitchen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 1015
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chicken Mask",
+                "children": [
+                    {
+                        "name": "Complete 40 'Help Wanted' requests",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721618",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 1078
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Concerned Ape Hat",
+                "children": [
+                    {
+                        "name": "Interact with the monkey in the Volcano Caldera once you have achieved 100% Perfection",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721601",
+                            "hatsanity_Post Perfection"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 270,
+                                "y": 1141
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cone Hat",
+                "children": [
+                    {
+                        "name": "Purchase from the Magic Shop Boat at the Night Market",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721619",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "winter"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cool Cap",
+                "children": [
+                    {
+                        "name": "Earn 250.000g",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721620",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Copper Pan",
+                "children": [
+                    {
+                        "name": "Put it on your head",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721621",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "CopperPan"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cowboy Hat",
+                "children": [
+                    {
+                        "name": "Complete the museum collection",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721622",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 259
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cowgal Hat",
+                "children": [
+                    {
+                        "name": "Ship 300 of one crop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721623",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "shipping"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cowpoke Hat",
+                "children": [
+                    {
+                        "name": "Ship 15 of each crop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721624",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "shipping"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Daisy",
+                "children": [
+                    {
+                        "name": "Craft 15 different items",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721625",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 448
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Ballcap",
+                "children": [
+                    {
+                        "name": "Randomly obtained from Emily's outfit services at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721626",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 511
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Cowboy Hat",
+                "children": [
+                    {
+                        "name": "Skull Cavern treasure chests",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721627",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "desert,skullkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 574
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Velvet Bow",
+                "children": [
+                    {
+                        "name": "Purchase for 75 Calico Eggs from the Calico Egg Merchant at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721628",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Delicate Bow",
+                "children": [
+                    {
+                        "name": "Cook 10 different recipes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721629",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "kitchen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deluxe Cowboy Hat",
+                "children": [
+                    {
+                        "name": "Island Trader on Fridays in exchange for 30 Taro Roots",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721630",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "island,turtlen,trader",
+                            "island,parrots,trader"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 763
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Deluxe Pirate Hat",
+                "children": [
+                    {
+                        "name": "Volcano Dungeon rare chests",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721631",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "island,turtlen",
+                            "island,parrots"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 826
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dinosaur Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Dino Egg)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721632",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 889
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Earmuffs",
+                "children": [
+                    {
+                        "name": "Reach a 5-heart friend level with 20 people",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721633",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 952
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elegant Turban",
+                "children": [
+                    {
+                        "name": "Earn all other Achievements",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721634",
+                            "hatsanity_Post Perfection"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 1015
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Emilys Magic Hat",
+                "children": [
+                    {
+                        "name": "Obtained in Emily's 14-heart cutscene",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721635",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 1078
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Eye Patch",
+                "children": [
+                    {
+                        "name": "Catch every fish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721636",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            "rod"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 604,
+                                "y": 1141
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fashion Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Caviar) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721637",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fedora",
+                "children": [
+                    {
+                        "name": "Purchase for 500 Tokens at the Stardew Valley Fair",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721638",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "fall"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fishing Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Stonefish/Ice Pip/Scorpion Carp/Spook Fish/Midnight Squid/Void Salmon/Slimejack) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721639",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Flat Topped Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Cranberry Sauce/Stuffing) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721640",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 259
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Floppy Beanie",
+                "children": [
+                    {
+                        "name": "Tailoring (Maple Syrup/Oak Resin/Pine Tar) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721641",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Foragers Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Ginger) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721642",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine,$can_reach_ifarm",
+                            "sewingmachine,island,turtlen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Frog Hat",
+                "children": [
+                    {
+                        "name": "Fish in the Gourmand Frog's cave on Ginger Island",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721643",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,ifarm"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 448
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Garbage Hat",
+                "children": [
+                    {
+                        "name": "0.2% chance to find while checking Garbage Cans in Town, only after checking 20 cans",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721644",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 511
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gils Hat",
+                "children": [
+                    {
+                        "name": "Obtained as a reward for submitting an egg rating of 25-54 to Gil during Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721645",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 574
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gnomes Cap",
+                "children": [
+                    {
+                        "name": "Craft every Item",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721646",
+                            "hatsanity_Near Perfection,include_endgame_locations_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Goblin Mask",
+                "children": [
+                    {
+                        "name": "Ship every item",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721647",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            "shipping"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Goggles",
+                "children": [
+                    {
+                        "name": "Tailoring (Bug Steak) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721648",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 763
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gold Pan",
+                "children": [
+                    {
+                        "name": "Put it on your head",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721649",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "GoldPan"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 826
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Golden Helmet",
+                "children": [
+                    {
+                        "name": "Golden Coconuts (5% chance on opening)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721650",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 889
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Golden Mask",
+                "children": [
+                    {
+                        "name": "Tailoring (Golden Mask)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721651",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 952
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Good Ol Cap",
+                "children": [
+                    {
+                        "name": "Earn 15.000g",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721652",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 1015
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Governors Hat",
+                "children": [
+                    {
+                        "name": "Delight the Governor",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721653",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 1078
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Green Turban",
+                "children": [
+                    {
+                        "name": "Green Turban/Desert Trader in exchange for 50 Omni Geodes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721654",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "desert"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 938,
+                                "y": 1141
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hair Bone",
+                "children": [
+                    {
+                        "name": "Tailoring (Prehistoric Tibia) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721655",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hard Hat",
+                "children": [
+                    {
+                        "name": "Monster Eradication Goal - Defeat 30 Duggies",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721656",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hunters Cap",
+                "children": [
+                    {
+                        "name": "Upgrade your house to the maximum size",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721657",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "cask"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Infinity Crown",
+                "children": [
+                    {
+                        "name": "Obtain the most powerful weapon (Infinity Blade)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721658",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "island,turtlen",
+                            "island,parrots"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 259
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Pan",
+                "children": [
+                    {
+                        "name": "Put it on your head",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721659",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "IridiumPan"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Jester Hat",
+                "children": [
+                    {
+                        "name": "See a movie",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721660",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "theater2"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Joja Cap",
+                "children": [
+                    {
+                        "name": "Randomly obtained from Emily's outfit services at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721661",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 448
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Junimo Hat",
+                "children": [
+                    {
+                        "name": "Reach the summit",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721662",
+                            "hatsanity_Post Perfection"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 511
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Knights Helmet",
+                "children": [
+                    {
+                        "name": "Monster Eradication Goal - Defeat 50 Pepper Rex",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721663",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            "desert,skullkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 574
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Laurel Wreath Crown",
+                "children": [
+                    {
+                        "name": "Randomly obtained from Emily's outfit services at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721664",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Leprechaun Hat",
+                "children": [
+                    {
+                        "name": "Pot of Gold, Spring 17.",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721665",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Living Hat",
+                "children": [
+                    {
+                        "name": "0.001% chance to find while cutting weeds/0.01% chance of dropping from Wilderness Golems",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721666",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 763
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Logo Cap",
+                "children": [
+                    {
+                        "name": "Tailoring (Lava Eel) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721667",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine,e100"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 826
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lucky Bow",
+                "children": [
+                    {
+                        "name": "Earn 50.000g",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721668",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 889
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magic Cowboy Hat",
+                "children": [
+                    {
+                        "name": "Desert Trader in exchange for 333 Omni Geodes, odd days",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721669",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "desert"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 952
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magic Turban",
+                "children": [
+                    {
+                        "name": "Desert Trader in exchange for 333 Omni Geodes, even days",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721670",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "desert"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 1015
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mouse Ears",
+                "children": [
+                    {
+                        "name": "Reach a 10-heart friend level with someone",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721671",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 1078
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mr. Qis Hat",
+                "children": [
+                    {
+                        "name": "Purchase for 5 Qi Gems in Qi's Walnut Room",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721672",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1272,
+                                "y": 1141
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mummy Mask",
+                "children": [
+                    {
+                        "name": "Purchase for 120 Calico Eggs from the Calico Egg Merchant at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721673",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mushroom Cap",
+                "children": [
+                    {
+                        "name": "1% chance of obtaining when chopping down a Mushroom Tree",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721674",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mystery Hat",
+                "children": [
+                    {
+                        "name": "Mystery Boxes or Golden Mystery Boxes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721675",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "plane"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Official Cap",
+                "children": [
+                    {
+                        "name": "Catch 24 different fish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721676",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "rod"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 259
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pageboy Cap",
+                "children": [
+                    {
+                        "name": "Read every book",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721677",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Panda Hat",
+                "children": [
+                    {
+                        "name": "WeGame exclusive content; unobtainable otherwise",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721678",
+                            "hatsanity_on"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Paper Hat",
+                "children": [
+                    {
+                        "name": "Reach Ginger Island",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721679",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "island"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 448
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Party Hat (Blue)",
+                "children": [
+                    {
+                        "name": "Tailoring (Chocolate Cake/Firework (Purple) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721680",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 511
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Party Hat (Green)",
+                "children": [
+                    {
+                        "name": "Tailoring (Fish Taco/Firework (Green) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721681",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 574
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Party Hat (Red)",
+                "children": [
+                    {
+                        "name": "Tailoring (Pizza/Firework (Red) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721682",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pink Bow",
+                "children": [
+                    {
+                        "name": "Purchase for 10.000g from the Dwarf Shop in the Volcano Dungeon (25% chance to be sold)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721683",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "parrots,island",
+                            "island,turtlen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pirate Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Treasure Chest) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721684",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 763
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Plum Chapeau",
+                "children": [
+                    {
+                        "name": "Cook 25 different recipes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721685",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "kitchen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 826
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Polka Bow",
+                "children": [
+                    {
+                        "name": "Complete 10 'Help Wanted' requests",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721686",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 889
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Propeller Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Miner's Treat) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721687",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 952
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pumpkin Mask",
+                "children": [
+                    {
+                        "name": "Tailoring (Jack-O-Lantern)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721688",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 1015
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Qi Mask",
+                "children": [
+                    {
+                        "name": "Tailoring (Qi Fruit)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721689",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 1078
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Raccoon Hat",
+                "children": [
+                    {
+                        "name": "Fulfill the third request from the Raccoon at the Giant Stump",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721690",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1606,
+                                "y": 1141
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Radioactive Goggles",
+                "children": [
+                    {
+                        "name": "Tailoring (Radioactive Bar) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721691",
+                            "hatsanity_Tailoring,include_endgame_locations_on"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Red Cowboy Hat",
+                "children": [
+                    {
+                        "name": "Skull Cavern treasure chests",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721692",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "desert,skullkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Red Fez",
+                "children": [
+                    {
+                        "name": "Purchase for 8.000g from the Traveling Cart (10% chance to be sold)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721693",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "monday",
+                            "tuesday",
+                            "wednesday",
+                            "thursday",
+                            "friday",
+                            "saturday",
+                            "sunday"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sailors Cap",
+                "children": [
+                    {
+                        "name": "Win the fishing competition at the Festival of Ice",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721694",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "winter"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 259
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Santa Hat",
+                "children": [
+                    {
+                        "name": "Reach a 5-heart friend level with 10 people",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721695",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Skeleton Mask",
+                "children": [
+                    {
+                        "name": "Monster Eradication Goal - Defeat 50 Skeletons",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721696",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e70"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Small Cap",
+                "children": [
+                    {
+                        "name": "Island Trader on Mondays in exchange for 30 Taro Roots",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721697",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "island,turtlen,trader",
+                            "island,parrots,trader"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 448
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sombrero",
+                "children": [
+                    {
+                        "name": "Earn 10.000.000g",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721698",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 511
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Souwester",
+                "children": [
+                    {
+                        "name": "Catch 10 different fish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721699",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "rod"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 574
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Space Helmet",
+                "children": [
+                    {
+                        "name": "Reach the bottom of the 'dangerous' mines",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721700",
+                            "hatsanity_Near Perfection"
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sports Cap",
+                "children": [
+                    {
+                        "name": "Can be obtained from the Prize Machine",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721701",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spotted Headscarf",
+                "children": [
+                    {
+                        "name": "Tailoring (Red Mushroom) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721702",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 763
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Squid Hat",
+                "children": [
+                    {
+                        "name": "Obtained as a reward from the SquidFest",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721703",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "winter,Bamboorod"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 826
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Squires Helmet",
+                "children": [
+                    {
+                        "name": "Monster drop from Metal Heads",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721704",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 889
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Star Helmet",
+                "children": [
+                    {
+                        "name": "Tailoring (Mushroom Tree Seed) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721705",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 952
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Steel Pan",
+                "children": [
+                    {
+                        "name": "Put it on your head",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721706",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "SteelPan"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 1015
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Straw Hat",
+                "children": [
+                    {
+                        "name": "Win the egg hunt at the Egg Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721707",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            "spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 1078
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sunglasses",
+                "children": [
+                    {
+                        "name": "Tailoring (Cinder Shard) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721708",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "island,turtlen,sewingmachine",
+                            "island,parrots,sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 1940,
+                                "y": 1141
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Swashbuckler Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Dragon Tooth) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721709",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "island,turtlen,sewingmachine",
+                            "island,parrots,sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 70
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tiara",
+                "children": [
+                    {
+                        "name": "Reach a 5-heart friend level with 4 people",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721710",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 133
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tiger Hat",
+                "children": [
+                    {
+                        "name": "0.1% chance of dropping from Tiger Slimes",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721711",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 196
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Top Hat",
+                "children": [
+                    {
+                        "name": "Purchase for 8,000 Qi Coins in Qi's Casino",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721712",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "desert,clubcard"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 259
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Totem Mask",
+                "children": [
+                    {
+                        "name": "Tailoring (any Totem)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721713",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tricorn Hat",
+                "children": [
+                    {
+                        "name": "Purchase for 100 Calico Eggs from Elliott's shop at the Desert Festival",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721714",
+                            "hatsanity_RNG"
+                        ],
+                        "access_rules": [
+                            "bus,spring"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tropiclip",
+                "children": [
+                    {
+                        "name": "Upgrade your house",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721715",
+                            "hatsanity_Easy"
+                        ],
+                        "access_rules": [
+                            "kitchen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 448
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Trucker Hat",
+                "children": [
+                    {
+                        "name": "Craft 30 different items",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721716",
+                            "hatsanity_medium"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 511
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Warrior Helmet",
+                "children": [
+                    {
+                        "name": "Tailoring (Ostrich Egg)",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721717",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 574
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Watermelon Band",
+                "children": [
+                    {
+                        "name": "Catch 100 Fish",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721718",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            "rod"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 637
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wearable Dwarf Helm",
+                "children": [
+                    {
+                        "name": "Tailoring (Dwarvish Helm/Dwarf Gadget) or random drop/",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721719",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 700
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "White Bow",
+                "children": [
+                    {
+                        "name": "Help your forest neighbors grow their family",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721720",
+                            "hatsanity_Difficult"
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 763
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "White Turban",
+                "children": [
+                    {
+                        "name": "Tailoring (Sweet Gem Berry) or Skull Cavern treasure chests",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721721",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine",
+                            "desert,skullkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 826
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Witch Hat",
+                "children": [
+                    {
+                        "name": "Tailoring (Golden Pumpkin) or random drop",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "721722",
+                            "hatsanity_Tailoring"
+                        ],
+                        "access_rules": [
+                            "sewingmachine"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Hatsanity",
+                                "x": 2274,
+                                "y": 889
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

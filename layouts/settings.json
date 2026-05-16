@@ -1,0 +1,489 @@
+{
+    "settings_popup": {
+        "type": "container",
+        "v_alignment": "stretch",
+        "h_alignment": "stretch",
+        "content": [
+            {
+                "type": "tabbed",
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Booksanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "booksanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": " Chefsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Friendship",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "chefsanity_Friendship"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Purchases",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "chefsanity_Purchases"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Queen of Sauce",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "chefsanity_Queen of Sauce"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Skills",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "chefsanity_Skills"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Craftsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "craftsanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Cropsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "cropsanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Eatsanity",
+                        "header_background": "#212326",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Artisan",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "eatsanity_Artisan"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Cooking",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "eatsanity_Cooking"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Crops",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "eatsanity_Crops"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Fish",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "eatsanity_Fish"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Lock Effects",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "eatsanity_Lock Effects"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Poisonous",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "eatsanity_Poisonous"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Shop",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "eatsanity_Shop"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Fishsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "fishsanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Friendsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "friendsanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Hatsanity",
+                        "header_background": "#212326",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Easy",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "hatsanity_Easy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Medium",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "hatsanity_Medium"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Difficult",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "hatsanity_Difficult"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Tailoring",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "hatsanity_Tailoring"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Near Perfection",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "hatsanity_Near Perfection"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Post Perfection",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "hatsanity_Post Perfection"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "RNG",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "hatsanity_RNG"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Help Wanted Quests",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "quest_locations"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Monstersanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "monstersanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Moviesanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "moviesanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Museumsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "museumsanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Secretsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Easy",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "secretsanity_Easy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Difficult",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "secretsanity_Difficult"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Fishing",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "secretsanity_Fishing"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Secret Notes",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "secretsanity_Secret Notes"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Shipsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "shipsanity"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Skill Shuffle",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "skill_progression"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Special Orders",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "special_order_locations"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Ginger Island",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "exclude_ginger_island"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Walnutsanity",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "group",
+                                "header": "Bushes",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "walnutsanity_Bushes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Dig Spots",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "walnutsanity_Dig Spots"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Puzzles",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "walnutsanity_Puzzles"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "group",
+                                "header": "Repeatables",
+                                "header_background": "#212326",
+                                "content": [
+                                    {
+                                        "type": "item",
+                                        "item": "walnutsanity_Repeatables"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "group",
+                        "header": "Include Endgame Locations",
+                        "header_background": "#3e4b57",
+                        "content": [
+                            {
+                                "type": "item",
+                                "item": "include_endgame_locations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

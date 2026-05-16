@@ -1,0 +1,43 @@
+{
+    "island_grid": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1",
+                "rows": [
+                    [
+                        "island",
+                        "boatrepair",
+                        "gwalnut",
+                        "pineapple",
+                        "taro"
+                    ],
+                    [
+                        "turtlen",
+                        "turtlew",
+                        "resort",
+                        "parrots",
+                        "banana"
+                    ],
+                    [
+                        "ifarm",
+                        "imail",
+                        "farmobelisk",
+                        "walnutroom",
+                        "mango"
+                    ],
+                    [
+                        "trader",
+                        "digsite",
+                        "snailcave",
+                        "vbridge",
+                        "vexit"
+                    ]
+                ]
+            }
+        ]
+    }
+}

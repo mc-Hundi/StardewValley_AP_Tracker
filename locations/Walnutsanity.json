@@ -1,0 +1,1647 @@
+[
+    {
+        "name": "Walnutsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "access_rules": [
+            "island"
+        ],
+        "children": [
+            {
+                "name": "Open Golden Coconut",
+                "sections": [
+                    {
+                        "name": "Open Golden Coconut Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721101"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_South",
+                        "x": 345,
+                        "y": 600
+                    }
+                ]
+            },
+            {
+                "name": "Fishing",
+                "access_rules": [
+                    "rod"
+                ],
+                "sections": [
+                    {
+                        "name": "Fishing Walnut 1",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721102"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 2",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721103"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 3",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721104"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 4",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721105"
+                        ]
+                    },
+                    {
+                        "name": "Fishing Walnut 5",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721106"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_South",
+                        "x": 550,
+                        "y": 750
+                    }
+                ]
+            },
+            {
+                "name": "Jungle Bush",
+                "sections": [
+                    {
+                        "name": "Jungle Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721107"
+                ],
+                "access_rules": [
+                    ""
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_East",
+                        "x": 288,
+                        "y": 584
+                    }
+                ]
+            },
+            {
+                "name": "Banana Altar",
+                "sections": [
+                    {
+                        "name": "Banana Altar Walnuts",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721108"
+                ],
+                "access_rules": [
+                    ""
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_East",
+                        "x": 265,
+                        "y": 409
+                    }
+                ]
+            },
+            {
+                "name": "Leos Tree",
+                "sections": [
+                    {
+                        "name": "Hit Leos Tree with an Axe",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721109"
+                ],
+                "access_rules": [
+                    "Axe"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_East",
+                        "x": 360,
+                        "y": 160
+                    }
+                ]                  
+            },
+            {
+                "name": "Gem Birds Bush",
+                "sections": [
+                    {
+                        "name": "Gem Birds Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721110"
+                ],
+                "access_rules": [
+                    ""
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_East",
+                        "x": 560,
+                        "y": 474
+                    }
+                ]
+            },
+            {
+                "name": "Gem Birds Shrine",
+                "sections": [
+                    {
+                        "name": "Gem Birds Shrine Walnuts",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721111"
+                ],
+                "access_rules": [
+                    ""
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_East",
+                        "x": 560,
+                        "y": 460
+                    }
+                ]
+            },
+            {
+                "name": "Harvesting",
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "sections": [
+                    {
+                        "name": "Harvesting Walnut 1",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721112"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 2",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721113"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 3",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721114"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 4",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721115"
+                        ]
+                    },
+                    {
+                        "name": "Harvesting Walnut 5",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721116"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 800,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "Gourmand Frog",
+                "access_rules": [
+                    "ifarm,$can_reach_ifarm"
+                ],
+                "sections": [
+                    {
+                        "name": "Melon",
+                        "item_count": 1,
+                        "access_rules": [
+                            "melon"
+                        ],
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721117"
+                        ]
+                    },
+                    {
+                        "name": "Wheat",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "access_rules": [
+                            "melon,wheat"
+                        ],
+                        "visibility_rules": [
+                            "721118"
+                        ]
+                    },
+                    {
+                        "name": "Garlic",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "access_rules": [
+                            "melon,wheat,garlic"
+                        ],
+                        "visibility_rules": [
+                            "721119"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 954,
+                        "y": 320
+                    }
+                ]
+            },
+            {
+                "name": "Journal Scrap #6",
+                "sections": [
+                    {
+                        "name": "Journal Scrap #6 Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721120"
+                ],
+                "access_rules": [
+                    "Hoe,$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 1020,
+                        "y": 740
+                    }
+                ]
+            },
+            {
+                "name": "Mussel Node",
+                "access_rules": [
+                    "Pick,$can_reach_ifarm"
+                ],
+                "sections": [
+                    {
+                        "name": "Mussel Node Walnut 1",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721121"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 2",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721122"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 3",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721123"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 4",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721124"
+                        ]
+                    },
+                    {
+                        "name": "Mussel Node Walnut 5",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721125"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 630,
+                        "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Shipwreck Bush",
+                "sections": [
+                    {
+                        "name": "Shipwreck Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721126"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 595,
+                        "y": 905
+                    }
+                ]
+            },
+            {
+                "name": "Whack A Mole",
+                "sections": [
+                    {
+                        "name": "Whack A Mole Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721127"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 445,
+                        "y": 850
+                    }
+                ]
+            },
+            {
+                "name": "Starfish Triangle",
+                "sections": [
+                    {
+                        "name": "Starfish Triangle Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721128"
+                ],
+                "access_rules": [
+                    "Hoe,$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 613,
+                        "y": 752
+                    }
+                ]
+            },
+            {
+                "name": "Starfish Diamond",
+                "sections": [
+                    {
+                        "name": "Starfish Diamond Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721129"
+                ],
+                "access_rules": [
+                    "Hoe,$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 426,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "X in the sand",
+                "sections": [
+                    {
+                        "name": "X in the sand Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721130"
+                ],
+                "access_rules": [
+                    "Hoe,$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 300,
+                        "y": 744
+                    }
+                ]
+            },
+            {
+                "name": "Diamond Of Indents",
+                "sections": [
+                    {
+                        "name": "Diamond Of Indents Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721131"
+                ],
+                "access_rules": [
+                    "Hoe,$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 212,
+                        "y": 800
+                    }
+                ]
+            },
+            {
+                "name": "Bush Behind Coconut Tree",
+                "sections": [
+                    {
+                        "name": "Bush Behind Coconut Tree Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721132"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 380,
+                        "y": 550
+                    }
+                ]
+            },
+            {
+                "name": "Journal Scrap #4",
+                "sections": [
+                    {
+                        "name": "Journal Scrap #4 Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721133"
+                ],
+                "access_rules": [
+                    "Hoe,$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 180,
+                        "y": 415
+                    }
+                ]
+            },
+            {
+                "name": "Walnut Room Bush",
+                "sections": [
+                    {
+                        "name": "Walnut Room Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721134"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 255,
+                        "y": 295
+                    }
+                ]
+            },
+            {
+                "name": "Coast Bush",
+                "sections": [
+                    {
+                        "name": "Coast Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721135"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 160,
+                        "y": 30
+                    }
+                ]
+            },
+            {
+                "name": "Killing Tiger Slime",
+                "sections": [
+                    {
+                        "name": "Killing Tiger Slime Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721136"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 380,
+                        "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Bush Behind Mahogany Tree",
+                "sections": [
+                    {
+                        "name": "Bush Behind Mahogany Tree Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721137"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 310,
+                        "y": 225
+                    }
+                ]
+            },
+            {
+                "name": "Circle Of Grass",
+                "sections": [
+                    {
+                        "name": "Circle Of Grass Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721138"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 390,
+                        "y": 238
+                    }
+                ]
+            },
+            {
+                "name": "Below Colored Crystals Cave Bush",
+                "sections": [
+                    {
+                        "name": "Below Colored Crystals Cave Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721139"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 540,
+                        "y": 176
+                    }
+                ]
+            },
+            {
+                "name": "Colored Crystals",
+                "sections": [
+                    {
+                        "name": "Colored Crystals Walnuts",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721140"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 606,
+                        "y": 45
+                    }
+                ]
+            },
+            {
+                "name": "Cliff Edge Bush",
+                "sections": [
+                    {
+                        "name": "Cliff Edge Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721141"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 638,
+                        "y": 290
+                    }
+                ]
+            },
+            {
+                "name": "Diamond Of Pebbles",
+                "sections": [
+                    {
+                        "name": "Diamond Of Pebbles Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721142"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 870,
+                        "y": 145
+                    }
+                ]
+            },
+            {
+                "name": "Farm Parrot Express Bush",
+                "sections": [
+                    {
+                        "name": "Farm Parrot Express Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721143"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 1027,
+                        "y": 34
+                    }
+                ]
+            },
+            {
+                "name": "Farmhouse Cliff Bush",
+                "sections": [
+                    {
+                        "name": "Farmhouse Cliff Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721144"
+                ],
+                "access_rules": [
+                    "$can_reach_ifarm"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_West",
+                        "x": 746,
+                        "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Big Circle Of Stones",
+                "sections": [
+                    {
+                        "name": "Big Circle Of Stones Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721145"
+                ],
+                "access_rules": [
+                    "Hoe,island,turtlen",
+                    "Hoe,island,parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 318,
+                        "y": 980
+                    }
+                ]
+            },
+            {
+                "name": "Grove Bush",
+                "sections": [
+                    {
+                        "name": "Grove Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721146"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 120,
+                        "y": 1000
+                    }
+                ]
+            },
+            {
+                "name": "Diamond Of Grass",
+                "sections": [
+                    {
+                        "name": "Diamond Of Grass Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721147"
+                ],
+                "access_rules": [
+                    "Hoe,island,turtlen",
+                    "Hoe,island,parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 511,
+                        "y": 931
+                    }
+                ]
+            },
+            {
+                "name": "Small Circle Of Stones",
+                "sections": [
+                    {
+                        "name": "Small Circle Of Stones Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721148"
+                ],
+                "access_rules": [
+                    "Hoe,island,turtlen",
+                    "Hoe,island,parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 690,
+                        "y": 955
+                    }
+                ]
+            },
+            {
+                "name": "Patch Of Sand",
+                "sections": [
+                    {
+                        "name": "Patch Of Sand Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721149"
+                ],
+                "access_rules": [
+                    "Hoe,island,turtlen",
+                    "Hoe,island,parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 750,
+                        "y": 654
+                    }
+                ]
+            },
+            {
+                "name": "Crooked Circle Of Stones",
+                "sections": [
+                    {
+                        "name": "Crooked Circle Of Stones Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721150"
+                ],
+                "access_rules": [
+                    "Hoe,island,turtlen,digsite",
+                    "Hoe,island,parrots,digsite"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 234,
+                        "y": 474
+                    }
+                ]
+            },
+            {
+                "name": "Above Dig Site Bush",
+                "sections": [
+                    {
+                        "name": "Above Dig Site Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721151"
+                ],
+                "access_rules": [
+                    "turtlen,digsite",
+                    "parrots,digsite"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 60,
+                        "y": 498
+                    }
+                ]
+            },
+            {
+                "name": "Above Field Office Bush 1",
+                "sections": [
+                    {
+                        "name": "Above Field Office Bush 1 Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721152"
+                ],
+                "access_rules": [
+                    "turtlen,digsite",
+                    "parrots,digsite"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 556,
+                        "y": 465
+                    }
+                ]
+            },
+            {
+                "name": "Above Field Office Bush 2",
+                "sections": [
+                    {
+                        "name": "Above Field Office Bush 2 Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721153"
+                ],
+                "access_rules": [
+                    "turtlen,digsite",
+                    "parrots,digsite"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 570,
+                        "y": 465
+                    }
+                ]
+            },
+            {
+                "name": "Island Field Office",
+                "access_rules": [
+                    "turtlen,snailcave",
+                    "parrots,snailcave"
+                ],
+                "sections": [
+                    {
+                        "name": "Complete Large Animal Collection",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721154"
+                        ]
+                    },
+                    {
+                        "name": "Complete Snake Collection",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721155"
+                        ]
+                    },
+                    {
+                        "name": "Complete Mummified Frog Collection",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721156"
+                        ]
+                    },
+                    {
+                        "name": "Complete Mummified Bat Collection",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721157"
+                        ]
+                    },
+                    {
+                        "name": "Purple Flowers Island Survey (22)",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721158"
+                        ]
+                    },
+                    {
+                        "name": "Purple Starfish Island Survey (18)",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721159"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 559,
+                        "y": 535
+                    }
+                ]
+            },
+            {
+                "name": "Bush Behind Volcano Tree",
+                "sections": [
+                    {
+                        "name": "Bush Behind Volcano Tree Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721160"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 680,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Arc Of Stones",
+                "sections": [
+                    {
+                        "name": "Arc Of Stones Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721161"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 655,
+                        "y": 255
+                    }
+                ]
+            },
+            {
+                "name": "Protruding Tree (Shoot with Slingshot)",
+                "sections": [
+                    {
+                        "name": "Protruding Tree Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721162"
+                ],
+                "access_rules": [
+                    "turtlen,slingshot",
+                    "parrots,slingshot"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 705,
+                        "y": 135
+                    }
+                ]
+            },
+            {
+                "name": "Journal Scrap #10",
+                "sections": [
+                    {
+                        "name": "Journal Scrap #10 Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721163"
+                ],
+                "access_rules": [
+                    "Hoe,island,turtlen",
+                    "Hoe,island,parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 332,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "Northmost Point Circle Of Stones",
+                "sections": [
+                    {
+                        "name": "Northmost Point Circle Of Stones Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721164"
+                ],
+                "access_rules": [
+                    "Hoe,island,turtlen",
+                    "Hoe,island,parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 234,
+                        "y": 162
+                    }
+                ]
+            },
+            {
+                "name": "Hidden Passage Bush",
+                "sections": [
+                    {
+                        "name": "Hidden Passage Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721165"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 252,
+                        "y": 306
+                    }
+                ]
+            },
+            {
+                "name": "Secret Beach Bush 1",
+                "sections": [
+                    {
+                        "name": "Secret Beach Bush 1 Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721166"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 72,
+                        "y": 354
+                    }
+                ]
+            },
+            {
+                "name": "Secret Beach Bush 2",
+                "sections": [
+                    {
+                        "name": "Secret Beach Bush 2 Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721167"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 168,
+                        "y": 390
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Rocks",
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "sections": [
+                    {
+                        "name": "Volcano Rocks Walnut 1",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721168"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 2",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721169"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 3",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721170"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 4",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721171"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Rocks Walnut 5",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721172"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 477,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Monsters",
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "sections": [
+                    {
+                        "name": "Volcano Monsters Walnut 1",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721173"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 2",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721174"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 3",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721175"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 4",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721176"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Monsters Walnut 5",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721177"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 493,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Crates",
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "sections": [
+                    {
+                        "name": "Volcano Crates Walnut 1",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721178"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 2",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721179"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 3",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721180"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 4",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721181"
+                        ]
+                    },
+                    {
+                        "name": "Volcano Crates Walnut 5",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721182"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 509,
+                        "y": 200
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Common Chest Walnut",
+                "sections": [
+                    {
+                        "name": "Volcano Common Chest Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721183"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 485,
+                        "y": 216
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Rare Chest Walnut",
+                "sections": [
+                    {
+                        "name": "Volcano Rare Chest Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721184"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_North",
+                        "x": 501,
+                        "y": 216
+                    }
+                ]
+            },
+            {
+                "name": "Forge Entrance Bush",
+                "sections": [
+                    {
+                        "name": "Forge Entrance Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721185"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_Forge",
+                        "x": 605,
+                        "y": 746
+                    }
+                ]
+            },
+            {
+                "name": "Forge Exit Bush",
+                "sections": [
+                    {
+                        "name": "Forge Exit Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721186"
+                ],
+                "access_rules": [
+                    "turtlen",
+                    "parrots"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_Forge",
+                        "x": 208,
+                        "y": 700
+                    }
+                ]
+            },
+            {
+                "name": "Cliff Over Island South Bush",
+                "sections": [
+                    {
+                        "name": "Cliff Over Island South Bush Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721187"
+                ],
+                "access_rules": [
+                    "turtlen"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_South",
+                        "x": 514,
+                        "y": 76
+                    }
+                ]
+            },
+            {
+                "name": "Starfish Tide Pool",
+                "sections": [
+                    {
+                        "name": "Starfish Tide Pool Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721188"
+                ],
+                "access_rules": [
+                    "rod,resort"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_South_East",
+                        "x": 314,
+                        "y": 344
+                    }
+                ]
+            },
+            {
+                "name": "Diamond Of Yellow Starfish",
+                "sections": [
+                    {
+                        "name": "Diamond Of Yellow Starfish Walnut",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721189"
+                ],
+                "access_rules": [
+                    "Hoe,resort"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_South_East",
+                        "x": 407,
+                        "y": 281
+                    }
+                ]
+            },
+            {
+                "name": "Mermaid Song",
+                "sections": [
+                    {
+                        "name": "Mermaid Song Walnuts",
+                        "item_count": 1
+                    }
+                ],
+                "visibility_rules": [
+                    "721190"
+                ],
+                "access_rules": [
+                    "resort"
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_South_East",
+                        "x": 380,
+                        "y": 450
+                    }
+                ]
+            },
+            {
+                "name": "Pirate Cove",
+                "access_rules": [
+                    "resort"
+                ],
+                "sections": [
+                    {
+                        "name": "Pirate Darts 1 (after 8pm on even days, not raining)",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721191"
+                        ]
+                    },
+                    {
+                        "name": "Pirate Darts 2 (after 8pm on even days, not raining)",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721192"
+                        ]
+                    },
+                    {
+                        "name": "Pirate Darts 3 (after 8pm on even days, not raining)",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "visibility_rules": [
+                            "721193"
+                        ]
+                    },
+                    {
+                        "name": "Patch Of Sand",
+                        "item_count": 1,
+                        "clear_as_group": false,
+                        "access_rules": [
+                            "Hoe"
+                        ],
+                        "visibility_rules": [
+                            "721194"
+                        ]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Ginger_Island_South_East",
+                        "x": 490,
+                        "y": 300
+                    }
+                ]
+            }
+        ]
+    }
+]

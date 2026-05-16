@@ -1,0 +1,1115 @@
+[
+    {
+        "name": "Island Tracking",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "exclude_ginger_island, island_tracking_on"
+            },
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "exclude_ginger_island, island_tracking_off"
+            }
+        ]
+    },
+    {
+        "name": "Cropsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "cropsanity"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "cropsanity, cropsanity_on"
+            }
+        ]
+    },
+    {
+        "name": "Skill Shuffle",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "skill_progression"
+            },
+            {
+                "img": "images/settings/Skills.png",
+                "inherit_codes": false,
+                "codes": "skill_progression, sshuffle_prog"
+            },
+            {
+                "img": "images/settings/mastery.png",
+                "inherit_codes": true,
+                "codes": "skill_progression, sshuffle_mastery"
+            }
+        ]
+    },
+    {
+        "name": "Chefsanity Friendship",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "chefsanity, chefsanity_Friendship_Off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "chefsanity_Friendship"
+            }
+        ]
+    },
+    {
+        "name": "Chefsanity Purchases",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "chefsanity, chefsanity_Purchases_Off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "chefsanity_Purchases"
+            }
+        ]
+    },
+    {
+        "name": "Chefsanity Queen of Sauce",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "chefsanity, chefsanity_Queen of Sauce_Off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "chefsanity_Queen of Sauce"
+            }
+        ]
+    },
+    {
+        "name": "Chefsanity Skills",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "chefsanity, chefsanity_Skills_Off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "chefsanity_Skills"
+            }
+        ]
+    },
+    {
+        "name": "Special Orders",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Vanilla.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_off"
+            },
+            {
+                "img": "images/settings/Board.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_on"
+            },
+            {
+                "img": "images/settings/BoardQi.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_qi"
+            },
+            {
+                "img": "images/settings/Board.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_on"
+            },
+            {
+                "img": "images/settings/BoardQi.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_qi"
+            },
+            {
+                "img": "images/settings/Board.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_on"
+            },
+            {
+                "img": "images/settings/BoardQi.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_qi"
+            },
+            {
+                "img": "images/settings/Board.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_on"
+            },
+            {
+                "img": "images/settings/BoardQi.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_qi"
+            },
+            {
+                "img": "images/settings/Board.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_on"
+            },
+            {
+                "img": "images/settings/BoardQi.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_qi"
+            }
+        ]
+    },
+    {
+        "name": "Tool Progression",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "tool_progression"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "tool_progression,tshuffle"
+            },
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "tool_progression"
+            },
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "tool_progression"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "tool_progression,tshuffle"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "tool_progression,tshuffle"
+            }
+        ]
+    },
+    {
+        "name": "Building Progression",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "building_progression"
+            },
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "building_progression"
+            },
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "building_progression"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "building_progression,bshuffle"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "building_progression,bshuffle"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "building_progression,bshuffle"
+            }
+        ]
+    },
+    {
+        "name": "Elevator Progression",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "elevator_progression"
+            },
+            {
+                "img": "images/settings/Progressive.png",
+                "inherit_codes": false,
+                "codes": "elevator_progression,eshuffleon"
+            },
+            {
+                "img": "images/settings/Progressive_from_prev_Floor.png",
+                "inherit_codes": false,
+                "codes": "elevator_progression,eshuffleon"
+            }
+        ]
+    },
+    {
+        "name": "Backpack Progression",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "backpack_progression,bpshuffle_off"
+            },
+            {
+                "img": "images/settings/Progressive.png",
+                "inherit_codes": false,
+                "codes": "backpack_progression,bpshuffle_on"
+            },
+            {
+                "img": "images/settings/Progressive_from_prev_Floor.png",
+                "inherit_codes": false,
+                "codes": "backpack_progression,bpshuffle_on"
+            }
+        ]
+    },
+    {
+        "name": "Booksanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "booksanity"
+            },
+            {
+                "img": "images/settings/Power.png",
+                "inherit_codes": false,
+                "codes": "booksanity,booksanity_Power"
+            },
+            {
+                "img": "images/settings/Power_Skill.png",
+                "inherit_codes": false,
+                "codes": "booksanity,booksanity_Power Skill"
+            },
+            {
+                "img": "images/settings/All.png",
+                "inherit_codes": false,
+                "codes": "booksanity,booksanity_All"
+            }
+        ]
+    },
+    {
+        "name": "Arcade Machine Locations",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "arcade_machine_locations"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "arcade_machine_locations,ashuffle"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "arcade_machine_locations,ashuffle"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "arcade_machine_locations,ashuffle2"
+            }
+        ]
+    },
+    {
+        "name": "Help Wanted Quests",
+        "type": "consumable",
+        "allow_disabled": true,
+        "max_quantity": 56,
+        "img": "images/settings/HelpWanted.png",
+        "codes": "settings,quest_locations"
+    },
+    {
+        "name": "Shipsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/None.png",
+                "inherit_codes": false,
+                "codes": "shipsanity"
+            },
+            {
+                "img": "images/settings/Crops.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_crops"
+            },
+            {
+                "img": "images/settings/None.png",
+                "inherit_codes": false,
+                "codes": "shipsanity"
+            },
+            {
+                "img": "images/settings/Fish.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_fish"
+            },
+            {
+                "img": "images/settings/Crops_Fish.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_crops_fish"
+            },
+            {
+                "img": "images/settings/Full.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_full"
+            },
+            {
+                "img": "images/settings/None.png",
+                "inherit_codes": false,
+                "codes": "shipsanity"
+            },
+            {
+                "img": "images/settings/FullwF.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_fullwf"
+            },
+            {
+                "img": "images/settings/Everything.png",
+                "inherit_codes": false,
+                "codes": "shipsanity, shipsanity_all"
+            }
+        ]
+    },
+    {
+        "name": "Museumsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "museumsanity, museum_off"
+            },
+            {
+                "img": "images/settings/Milestones.png",
+                "inherit_codes": false,
+                "codes": "museumsanity, museum_milestone"
+            },
+            {
+                "img": "images/settings/Donations.png",
+                "inherit_codes": false,
+                "codes": "museumsanity, museum_rando"
+            },
+            {
+                "img": "images/settings/Donations.png",
+                "inherit_codes": false,
+                "codes": "museumsanity, museum_all"
+            }
+        ]
+    },
+    {
+        "name": "Fishsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_legend"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_spezial"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_rando"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_all"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_no_leg"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_no_hard"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "fishsanity, fishsanity_only_easy"
+            }
+        ]
+    },
+    {
+        "name": "Monstersanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "monstersanity, monstersanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "monstersanity, monstersanity_on"
+            }
+        ]
+    },
+    {
+        "name": "Include Endgame Locations",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "include_endgame_locations, include_endgame_locations_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "include_endgame_locations, include_endgame_locations_on"
+            }
+        ]
+    },
+    {
+        "name": "Craftsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "craftsanity, craftsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "craftsanity, craftsanity_on"
+            }
+        ]
+    },
+    {
+        "name": "Walnutsanity Bushes",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity, walnutsanity_Bushes_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity_Bushes"
+            }
+        ]
+    },
+    {
+        "name": "Walnutsanity Dig Spots",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity, walnutsanity_Dig Spots_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity_Dig Spots"
+            }
+        ]
+    },
+    {
+        "name": "Walnutsanity Puzzles",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity, walnutsanity_Puzzles_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity_Puzzles"
+            }
+        ]
+    },
+    {
+        "name": "Walnutsanity Repeatables",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity, walnutsanity_Repeatables_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "walnutsanity_Repeatables"
+            }
+        ]
+    },
+    {
+        "name": "Friendsanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, friendsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, friendsanity_on"
+            }
+        ]
+    },
+    {
+        "name": "Hatsanity Easy",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, hatsanity_Easy_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "hatsanity, hatsanity_Easy"
+            }
+        ]
+    },
+    {
+        "name": "Hatsanity Medium",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, hatsanity_Medium_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "hatsanity, hatsanity_Medium"
+            }
+        ]
+    },
+    {
+        "name": "Hatsanity Difficult",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, hatsanity_Difficult_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "hatsanity, hatsanity_Difficult"
+            }
+        ]
+    },
+    {
+        "img": "images/settings/Off.png",
+        "inherit_codes": false,
+        "codes": "friendsanity, hatsanity_Medium_off"
+    },
+    {
+        "name": "Hatsanity Tailoring",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, hatsanity_Tailoring_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "hatsanity, hatsanity_Tailoring"
+            }
+        ]
+    },
+    {
+        "name": "Hatsanity Near Perfection",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, hatsanity_Near Perfection_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "hatsanity, hatsanity_Near Perfection"
+            }
+        ]
+    },
+    {
+        "name": "Hatsanity Post Perfection",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, hatsanity_Post Perfection_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "hatsanity, hatsanity_Post Perfection"
+            }
+        ]
+    },
+    {
+        "name": "Hatsanity RNG",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, hatsanity_RNG_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "hatsanity, hatsanity_RNG"
+            }
+        ]
+    },
+    {
+        "name": "Eatsanity Artisan",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, eatsanity_Artisan_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "eatsanity, eatsanity_Artisan"
+            }
+        ]
+    },
+    {
+        "name": "Eatsanity Cooking",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, eatsanity_Cooking_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "eatsanity, eatsanity_Cooking"
+            }
+        ]
+    },
+    {
+        "name": "Eatsanity Crops",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, eatsanity_Crops_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "eatsanity, eatsanity_Crops"
+            }
+        ]
+    },
+    {
+        "name": "Eatsanity Fish",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, eatsanity_Fish_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "eatsanity, eatsanity_Fish"
+            }
+        ]
+    },
+    {
+        "name": "Eatsanity Lock Effects",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, eatsanity_Lock Effects_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "eatsanity, eatsanity_Lock Effects"
+            }
+        ]
+    },
+    {
+        "name": "Eatsanity Poisonous",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, eatsanity_Poisonous_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "eatsanity, eatsanity_Poisonous"
+            }
+        ]
+    },
+    {
+        "name": "Eatsanity Shop",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "friendsanity, eatsanity_Shop_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "eatsanity, eatsanity_Shop"
+            }
+        ]
+    },
+    {
+        "name": "Moviesanity",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "moviesanity, moviesanity_off"
+            },
+            {
+                "img": "images/settings/One_Movie.png",
+                "inherit_codes": false,
+                "codes": "moviesanity, moviesanity_one"
+            },
+            {
+                "img": "images/settings/All_Movies.png",
+                "inherit_codes": false,
+                "codes": "moviesanity, moviesanity_am"
+            },
+            {
+                "img": "images/settings/All_Movies_Loved.png",
+                "inherit_codes": false,
+                "codes": "moviesanity, moviesanity_aml"
+            },
+            {
+                "img": "images/settings/All_Movies_with_Loved_Snacks.png",
+                "inherit_codes": false,
+                "codes": "moviesanity, moviesanity_amlwls"
+            },
+            {
+                "img": "images/settings/All_Movies_and_All_Snacks.png",
+                "inherit_codes": false,
+                "codes": "moviesanity, moviesanity_amaas"
+            },
+            {
+                "img": "images/settings/All_Movies_and_All_Loved_Snacks.png",
+                "inherit_codes": false,
+                "codes": "moviesanity, moviesanity_amaasl"
+            }
+        ]
+    },
+    {
+        "name": "Secretsanity Secret Notes",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_Secret Notes"
+            }
+        ]
+    },
+    {
+        "name": "Secretsanity Difficult",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_Difficult"
+            }
+        ]
+    },
+    {
+        "name": "Secretsanity Easy",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_Easy"
+            }
+        ]
+    },
+    {
+        "name": "Secretsanity Fishing",
+        "type": "progressive",
+        "loop": true,
+        "capturable": false,
+        "allow_disabled": false,
+        "initial_stage_idx": 0,
+        "stages": [
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_off"
+            },
+            {
+                "img": "images/settings/On.png",
+                "inherit_codes": false,
+                "codes": "secretsanity, secretsanity_Fishing"
+            }
+        ]
+    }
+]
