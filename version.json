@@ -1,0 +1,19 @@
+{
+	"versions": [
+		{
+			"package_version": "1.7.0",
+			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.0/stardew_valley_ap_tracker.zip",
+			"sha256": "24091fa2c9da21970f98526c7b24265758fca0731142fb3bbd714fdd8fe248c86",
+			"changelog": [
+				"added support for Craftsanity",
+				"added support for Friendsanity",
+				"added support for Monstersanity",
+				"added support for Hatsanity",
+				"added support for Walnutsanity",
+				"added support for Moviesanity",
+                "added support for Secretsanity",
+                "added and fixed some logic"
+			]
+		}
+	]
+}
