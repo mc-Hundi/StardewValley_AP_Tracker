@@ -1413,7 +1413,7 @@
                 ]
             },
             {
-                "name": "Volcano Common Chest Walnut",
+                "name": "Volcano Common Chest",
                 "sections": [
                     {
                         "name": "Volcano Common Chest Walnut",
@@ -1436,7 +1436,7 @@
                 ]
             },
             {
-                "name": "Volcano Rare Chest Walnut",
+                "name": "Volcano Rare Chest",
                 "sections": [
                     {
                         "name": "Volcano Rare Chest Walnut",
@@ -1623,7 +1623,7 @@
                         ]
                     },
                     {
-                        "name": "Patch Of Sand",
+                        "name": "Patch of Sand",
                         "item_count": 1,
                         "clear_as_group": false,
                         "access_rules": [

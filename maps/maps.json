@@ -116,13 +116,13 @@
     {
         "name": "Booksanity",
         "location_size": 10,
-        "location_border_thickness": 3,
+        "location_border_thickness": 4,
         "img": "images/Booksanity.png"
     },
     {
         "name": "Cooksanity",
-        "location_size": 10,
-        "location_border_thickness": 3,
+        "location_size": 16,
+        "location_border_thickness": 4,
         "img": "images/Cooksanity.png"
     },
     {

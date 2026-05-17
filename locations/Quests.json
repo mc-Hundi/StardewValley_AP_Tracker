@@ -2062,7 +2062,7 @@
                     "island_tracking_on"
                 ],
                 "access_rules": [
-                    "island,$can_reach_ifarm,ifarm,imail"
+                    "island,$can_reach_ifarm,ifarm"
                 ],
                 "sections": [
                     {
@@ -2112,8 +2112,8 @@
                     }
                 ],
                 "access_rules": [
-                    "island,turtlen,digsite",
-                    "island,parrots,digsite"
+                    "island,turtlen,imail,turtlew",
+                    "island,parrots,imail,"
                 ],
                 "map_locations": [
                     {

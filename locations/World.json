@@ -5,11 +5,35 @@
         "chest_opened_img": "images/ChestOpen.png",
         "children": [
             {
+                "name": "The Mines Entrance Cutscene",
+                "access_rules": [
+                    "landslideremoved"
+                ],
+                "sections": [
+                    {
+                        "name": "Down we go!",
+                        "clear_as_group": false,
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Stardew Valley",
+                        "x": 670,
+                        "y": 69
+                    }
+                ]
+            },
+            {
                 "name": "Mines",
                 "access_rules": [
                     "landslideremoved"
                 ],
                 "sections": [
+                    {
+                        "name": "The Mines Entrance Cutscene",
+                        "item_count": 1
+                    },
                     {
                         "name": "Floor 10",
                         "item_count": 1
