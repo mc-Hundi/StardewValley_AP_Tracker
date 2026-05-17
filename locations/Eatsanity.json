@@ -3,6 +3,9 @@
         "name": "Eatsanity",
         "chest_unopened_img": "images/QuestNew.png",
         "chest_opened_img": "images/QuestDone.png",
+        "visibility_rules": [
+            "eatsanity_on"
+        ],
         "children": [
             {
                 "name": "Wild Horseradish",

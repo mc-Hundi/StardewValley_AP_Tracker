@@ -713,7 +713,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, hatsanity_Easy_off"
+                "codes": "hatsanity, hatsanity_Easy_off"
             },
             {
                 "img": "images/settings/On.png",
@@ -733,7 +733,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, hatsanity_Medium_off"
+                "codes": "hatsanity, hatsanity_Medium_off"
             },
             {
                 "img": "images/settings/On.png",
@@ -753,7 +753,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, hatsanity_Difficult_off"
+                "codes": "hatsanity, hatsanity_Difficult_off"
             },
             {
                 "img": "images/settings/On.png",
@@ -761,11 +761,6 @@
                 "codes": "hatsanity, hatsanity_Difficult"
             }
         ]
-    },
-    {
-        "img": "images/settings/Off.png",
-        "inherit_codes": false,
-        "codes": "friendsanity, hatsanity_Medium_off"
     },
     {
         "name": "Hatsanity Tailoring",
@@ -778,7 +773,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, hatsanity_Tailoring_off"
+                "codes": "hatsanity, hatsanity_Tailoring_off"
             },
             {
                 "img": "images/settings/On.png",
@@ -798,7 +793,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, hatsanity_Near Perfection_off"
+                "codes": "hatsanity, hatsanity_Near Perfection_off"
             },
             {
                 "img": "images/settings/On.png",
@@ -818,7 +813,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, hatsanity_Post Perfection_off"
+                "codes": "hatsanity, hatsanity_Post Perfection_off"
             },
             {
                 "img": "images/settings/On.png",
@@ -838,7 +833,7 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, hatsanity_RNG_off"
+                "codes": "hatsanity, hatsanity_RNG_off"
             },
             {
                 "img": "images/settings/On.png",
@@ -858,12 +853,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, eatsanity_Artisan_off"
+                "codes": "eatsanity, eatsanity_Artisan_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "eatsanity, eatsanity_Artisan"
+                "codes": "eatsanity, eatsanity_on, eatsanity_Artisan"
             }
         ]
     },
@@ -878,12 +873,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, eatsanity_Cooking_off"
+                "codes": "eatsanity, eatsanity_Cooking_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "eatsanity, eatsanity_Cooking"
+                "codes": "eatsanity, eatsanity_on, eatsanity_Cooking"
             }
         ]
     },
@@ -898,12 +893,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, eatsanity_Crops_off"
+                "codes": "eatsanity, eatsanity_Crops_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "eatsanity, eatsanity_Crops"
+                "codes": "eatsanity, eatsanity_on, eatsanity_Crops"
             }
         ]
     },
@@ -918,12 +913,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, eatsanity_Fish_off"
+                "codes": "eatsanity, eatsanity_Fish_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "eatsanity, eatsanity_Fish"
+                "codes": "eatsanity, eatsanity_on, eatsanity_Fish"
             }
         ]
     },
@@ -938,12 +933,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, eatsanity_Lock Effects_off"
+                "codes": "eatsanity, eatsanity_Lock Effects_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "eatsanity, eatsanity_Lock Effects"
+                "codes": "eatsanity, eatsanity_on, eatsanity_Lock Effects"
             }
         ]
     },
@@ -958,12 +953,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, eatsanity_Poisonous_off"
+                "codes": "eatsanity, eatsanity_Poisonous_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "eatsanity, eatsanity_Poisonous"
+                "codes": "eatsanity, eatsanity_on, eatsanity_Poisonous"
             }
         ]
     },
@@ -978,12 +973,12 @@
             {
                 "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "friendsanity, eatsanity_Shop_off"
+                "codes": "eatsanity, eatsanity_Shop_off"
             },
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "eatsanity, eatsanity_Shop"
+                "codes": "eatsanity, eatsanity_on, eatsanity_Shop"
             }
         ]
     },
