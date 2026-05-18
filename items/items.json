@@ -1279,5 +1279,53 @@
         "allow_disabled": true,
         "img": "images/trashbeararrival.png",
         "codes": "trashbeararrival"
+    },
+    {
+        "name": "Lightning Rod",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "lightningrod"
+    },
+    {
+        "name": "Solar Panel",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "solarpanel"
+    },
+    {
+        "name": "Loom",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "loom"
+    },
+    {
+        "name": "Furnace",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "furnace"
+    },
+    {
+        "name": "Heavy Furnace",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "heavyfurnace"
+    },
+    {
+        "name": "Beehouse",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "beehouse"
+    },
+    {
+        "name": "Tapper",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "tapper"
+    },
+    {
+        "name": "Heavy Tapper",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "heavytapper"
     }
 ]

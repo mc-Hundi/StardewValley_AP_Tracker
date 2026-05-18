@@ -138,6 +138,12 @@
         "img": "images/Craft2.png"
     },
     {
+        "name": "Eatsanity",
+        "location_size": 10,
+        "location_border_thickness": 3,
+        "img": "images/Eatsanity.png"
+    },
+    {
         "name": "Hatsanity",
         "location_size": 10,
         "location_border_thickness": 3,
@@ -190,5 +196,29 @@
         "location_size": 10,
         "location_border_thickness": 3,
         "img": "images/Secretsanity.png"
+    },
+    {
+        "name": "Material",
+        "location_size": 10,
+        "location_border_thickness": 3,
+        "img": "images/Material.png"
+    },
+    {
+        "name": "Seeds_Trees",
+        "location_size": 10,
+        "location_border_thickness": 3,
+        "img": "images/Seeds_Trees.png"
+    },
+    {
+        "name": "Special_Items",
+        "location_size": 10,
+        "location_border_thickness": 3,
+        "img": "images/Special_Items.png"
+    },
+    {
+        "name": "Ginger_Island_Items",
+        "location_size": 10,
+        "location_border_thickness": 3,
+        "img": "images/Ginger_Island_Items.png"
     }
 ]

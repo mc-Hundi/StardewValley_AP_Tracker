@@ -48,6 +48,7 @@ Tracker:AddLocations("locations/Hatsanity.json")
 Tracker:AddLocations("locations/Walnutsanity.json")
 Tracker:AddLocations("locations/Eatsanity.json")
 Tracker:AddLocations("locations/Secretsanity.json")
+Tracker:AddLocations("locations/Shipsanity.json")
 Tracker:AddLocations("locations/Moviesanity.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")

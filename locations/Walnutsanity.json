@@ -882,10 +882,10 @@
                 ]
             },
             {
-                "name": "Patch Of Sand",
+                "name": "Patch of Sand",
                 "sections": [
                     {
-                        "name": "Patch Of Sand Walnut",
+                        "name": "Patch of Sand Walnut",
                         "item_count": 1
                     }
                 ],
@@ -1623,7 +1623,7 @@
                         ]
                     },
                     {
-                        "name": "Patch of Sand",
+                        "name": "Patch of Sand Walnut",
                         "item_count": 1,
                         "clear_as_group": false,
                         "access_rules": [

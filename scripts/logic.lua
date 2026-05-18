@@ -44,6 +44,10 @@ function can_mine_iridium()
     return (has("CopperPick") and ((has("desert") and has("skullkey")) or has("island")))
 end
 
+function has_a_weapon()
+    return (has("sword") or has("dagger") or has("club"))
+end
+
 function can_fish()
     return has("rod")
 end
@@ -67,6 +71,7 @@ end
 function has_big_coop()
     return has("duck")
 end
+
 
 function has_deluxe_coop()
     return has("rabbit")

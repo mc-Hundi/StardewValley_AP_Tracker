@@ -5,315 +5,349 @@
         "chest_opened_img": "images/QuestDone.png",
         "children": [
             {
-                "name": "Amaranth",
+                "name": "Bat Wing",
                 "children": [
                     {
-                        "name": "Harvested",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "cropsanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 120
-                            }
-                        ]
-                    },
-                    {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719837"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "landslideremoved,e30",
+                            "desert,$has_skull_key"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 120
+                                "map": "Material",
+                                "x": 247,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Ancient Fruit",
+                "name": "Battery Pack",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719747"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "lightningrod",
+                            "solarpanel"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1147,
-                                "y": 600
+                                "map": "Material",
+                                "x": 247,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Bone Fragment",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719838"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "landslideremoved,e70",
+                            "island,turtlen",
+                            "island,parrots"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 600
+                                "map": "Material",
+                                "x": 247,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Apple",
+                "name": "Broken CD",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719913"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "rod",
+                            "fishing:3"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 977,
-                                "y": 240
+                                "map": "Material",
+                                "x": 247,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Broken Glasses",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719914"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "rod",
+                            "fishing:3"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 240
+                                "map": "Material",
+                                "x": 247,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Apricot",
+                "name": "Bug Meat",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719919"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "landslideremoved"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 297,
-                                "y": 240
+                                "map": "Material",
+                                "x": 247,
+                                "y": 366
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Clay",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719748"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "Hoe",
+                            "island,turtlen,digsite,Pick",
+                            "island,parrots,digsite,Pick"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 240
+                                "map": "Material",
+                                "x": 247,
+                                "y": 426
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Artichoke",
+                "name": "Cloth",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719453"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "loom"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 180
+                                "map": "Material",
+                                "x": 247,
+                                "y": 486
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Coal",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719774"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 180
+                                "map": "Material",
+                                "x": 247,
+                                "y": 546
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Banana",
+                "name": "Copper Bar",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,cropsanity_on"
+                                    "719749"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "furnace",
+                            "heavyfurnace"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1487,
-                                "y": 300
+                                "map": "Material",
+                                "x": 247,
+                                "y": 606
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Copper Ore",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,shipsanity_crops",
-                                    "island_tracking_on,shipsanity_full",
-                                    "island_tracking_on,shipsanity_fullwf",
-                                    "island_tracking_on,shipsanity_all"
+                                    "719775"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1543,
-                                "y": 300
+                                "map": "Material",
+                                "x": 540,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Beet",
+                "name": "Driftwood",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719915"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "rod",
+                            "fishing:3"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 240
+                                "map": "Material",
+                                "x": 540,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Duck Feather",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719402"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "duck"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 240
+                                "map": "Material",
+                                "x": 540,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Blackberry",
+                "name": "Fiber",
                 "children": [
                     {
                         "name": "Shipped",
@@ -321,333 +355,386 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719750"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "Axe",
+                            "Pick",
+                            "Hoe",
+                            "scythe"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 420
+                                "map": "Material",
+                                "x": 540,
+                                "y": 246
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Blue Jazz",
+                "name": "Gold Bar",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719751"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "furnace",
+                            "heavyfurnace"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 360
+                                "map": "Material",
+                                "x": 540,
+                                "y": 306
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Gold Ore",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719790"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 360
+                                "map": "Material",
+                                "x": 540,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Blueberry",
+                "name": "Hardwood",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719752"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "CopperAxe"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 240
+                                "map": "Material",
+                                "x": 540,
+                                "y": 426
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Hay",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719848"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 240
+                                "map": "Material",
+                                "x": 540,
+                                "y": 486
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Bok Choy",
+                "name": "Honey",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719459"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "beehouse"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 300
+                                "map": "Material",
+                                "x": 540,
+                                "y": 546
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Iridium Bar",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719753"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "$can_mine_iridium,furnace",
+                            "$can_mine_iridium,heavyfurnace"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 300
+                                "map": "Material",
+                                "x": 540,
+                                "y": 606
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Broccoli",
+                "name": "Iridium Ore",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719794"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "$can_mine_iridium"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 977,
-                                "y": 360
+                                "map": "Material",
+                                "x": 833,
+                                "y": 66
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Iron Bar",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719754"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "furnace",
+                            "heavyfurnace"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 360
+                                "map": "Material",
+                                "x": 833,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Cactus Fruit",
+                "name": "Iron Ore",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719795"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
-                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1147,
-                                "y": 660
+                                "map": "Material",
+                                "x": 833,
+                                "y": 186
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Moss",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720811"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 660
+                                "map": "Material",
+                                "x": 833,
+                                "y": 246
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Carrot",
+                "name": "Oak Resin",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719465"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "tapper",
+                            "heavytapper"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 297,
-                                "y": 360
+                                "map": "Material",
+                                "x": 833,
+                                "y": 306
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Pine Tar",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719468"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "tapper",
+                            "heavytapper"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 360
+                                "map": "Material",
+                                "x": 833,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Cauliflower",
+                "name": "Rabbits Foot",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719411"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "rabbit"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 180
+                                "map": "Material",
+                                "x": 833,
+                                "y": 426
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Refined Quartz",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719756"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "landslideremoved,furnace",
+                            "landslideremoved,heavyfurnace"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 180
+                                "map": "Material",
+                                "x": 833,
+                                "y": 486
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Cave Carrot",
+                "name": "Slime",
                 "children": [
                     {
                         "name": "Shipped",
@@ -655,25 +742,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719840"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "landslideremoved"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1373,
-                                "y": 120
+                                "map": "Material",
+                                "x": 833,
+                                "y": 546
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Chanterelle",
+                "name": "Soggy Newspaper",
                 "children": [
                     {
                         "name": "Shipped",
@@ -681,69 +768,79 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719917"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "rod",
+                           " fishing:3"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 480
+                                "map": "Material",
+                                "x": 833,
+                                "y": 606
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Cherry",
+                "name": "Solar Essence",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719841"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "landslideremoved,e50",
+                            "sewerkey"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 297,
-                                "y": 300
+                                "map": "Material",
+                                "x": 1126,
+                                "y": 66
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Squid Ink",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719842"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e90"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 300
+                                "map": "Material",
+                                "x": 1126,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Coconut",
+                "name": "Stone",
                 "children": [
                     {
                         "name": "Shipped",
@@ -751,69 +848,76 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719759"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1373,
-                                "y": 180
+                                "map": "Material",
+                                "x": 1126,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Coffee Bean",
+                "name": "Trash",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719918"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "rod",
+                            "fishing:3"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 240
+                                "map": "Material",
+                                "x": 1126,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Void Essence",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719843"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "landslideremoved,e80",
+                            "sewerkey"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 240
+                                "map": "Material",
+                                "x": 1126,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Common Mushroom",
+                "name": "Wood",
                 "children": [
                     {
                         "name": "Shipped",
@@ -821,25 +925,22 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719763"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 540
+                                "map": "Material",
+                                "x": 1126,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Coral",
+                "name": "Wool",
                 "children": [
                     {
                         "name": "Shipped",
@@ -847,113 +948,130 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719415"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "rabbit",
+                            "pig"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1373,
-                                "y": 300
+                                "map": "Material",
+                                "x": 1126,
+                                "y": 426
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Corn",
+                "name": "Amaranth Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719859"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "amaranth"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 300
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 66
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Artichoke Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719752"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "artichoke"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 300
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Cranberries",
+                "name": "Bean Starter",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719864"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "bean"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Beet Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719865"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "beet"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Crocus",
+                "name": "Blueberry Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -961,25 +1079,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719866"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "blueberry"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 300
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Crystal Fruit",
+                "name": "Bok Choy Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -987,25 +1105,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719867"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "bokchoy"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 426
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Daffodil",
+                "name": "Broccoli Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1013,25 +1131,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720828"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "broccoli"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 486
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Dandelion",
+                "name": "Cactus Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1039,113 +1157,129 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719868"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "cactus"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 546
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Eggplant",
+                "name": "Carrot Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720824"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "carrot"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 606
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Cauliflower Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719869"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "cauliflower"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 666
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Fairy Rose",
+                "name": "Corn Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719872"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "corn"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 246,
+                                "y": 726
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Cranberry Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719873"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "cranberry"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Fiddlehead Fern",
+                "name": "Eggplant Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1153,69 +1287,77 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719874"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "eggplant"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Garlic",
+                "name": "Fairy Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719875"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "fairyrose"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 300
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 186
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Garlic Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719877"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "garlic"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 300
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Ginger",
+                "name": "Grape Starter",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1223,113 +1365,129 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,shipsanity_crops",
-                                    "island_tracking_on,shipsanity_full",
-                                    "island_tracking_on,shipsanity_fullwf",
-                                    "island_tracking_on,shipsanity_all"
+                                    "719878"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "grape"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1543,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Grape",
+                "name": "Hops Starter",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719880"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "hops"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 426
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Jazz Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719881"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "blueJazz"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 486
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Green Bean",
+                "name": "Kale Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719882"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "kale"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 120
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 546
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Melon Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719885"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "melon"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 120
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 606
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Hazelnut",
+                "name": "Mixed Flower Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1337,25 +1495,22 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720807"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 600
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 666
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Holly",
+                "name": "Mixed Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1363,157 +1518,308 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719886"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 539,
+                                "y": 726
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Hops",
+                "name": "Parsnip Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719888"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "parsnip"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 66
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Pepper Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719890"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "pepper"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Hot Pepper",
+                "name": "Pineapple Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719971"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "pineapple"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 186
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Poppy Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719893"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "poppy"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 246
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Kale",
+                "name": "Potato Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
-                            }
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719894"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "potato"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 306
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Powdermelon Seeds",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720830"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "powdermelon"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 366
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pumpkin Seeds",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719895"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "pumpkin"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 426
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Radish Seeds",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719896"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "radish"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 486
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rare Seed",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719897"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "rare"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 546
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Red Cabbage Seeds",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719898"
+                                ]
+                            }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "redcabbage"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 606
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Rhubarb Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719899"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "rhubarb"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 666
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Leek",
+                "name": "Rice Shoot",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1521,25 +1827,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719900"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "rice"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 832,
+                                "y": 726
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Magma Cap",
+                "name": "Spangle Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1547,113 +1853,129 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,shipsanity_crops",
-                                    "island_tracking_on,shipsanity_full",
-                                    "island_tracking_on,shipsanity_fullwf",
-                                    "island_tracking_on,shipsanity_all"
+                                    "719901"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "spangle"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1543,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Mango",
+                "name": "Starfruit Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "cropsanity_on,island_tracking_on"
+                                    "719903"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "starfruit"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1487,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Strawberry Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,shipsanity_crops",
-                                    "island_tracking_on,shipsanity_full",
-                                    "island_tracking_on,shipsanity_fullwf",
-                                    "island_tracking_on,shipsanity_all"
+                                    "719904"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "strawberry"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1543,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Melon",
+                "name": "Summer Squash Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720826"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "squash"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Sunflower Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719906"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "sunflower"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Morel",
+                "name": "Taro Tuber",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1661,25 +1983,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719973"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "taro"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 600
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Nautilus Shell",
+                "name": "Tomato Seeds",
                 "children": [
                     {
                         "name": "Shipped",
@@ -1687,421 +2009,521 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719908"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "tomato"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1373,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 426
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Orange",
+                "name": "Tulip Bulb",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719909"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "tulip"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 637,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 486
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Wheat Seeds",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719910"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "wheat"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 360
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 546
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Parsnip",
+                "name": "Yam Seeds",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719912"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "yam"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 1125,
+                                "y": 606
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Apple Sapling",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719861"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "apple"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 480
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Peach",
+                "name": "Apricot Sapling",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719862"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "apricot"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 637,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Banana Sapling",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719968"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "banana"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 420
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Pineapple",
+                "name": "Cherry Sapling",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "cropsanity_on,island_tracking_on"
+                                    "719870"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "cherry"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1487,
-                                "y": 120
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Mango Sapling",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,shipsanity_crops",
-                                    "island_tracking_on,shipsanity_full",
-                                    "island_tracking_on,shipsanity_fullwf",
-                                    "island_tracking_on,shipsanity_all"
+                                    "719969"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "mango"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1543,
-                                "y": 120
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Pomegranate",
+                "name": "Orange Sapling",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719887"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "orange"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 977,
-                                "y": 300
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 366
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Peach Sapling",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719889"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "peach"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 300
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 426
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Poppy",
+                "name": "Pomegranate Sapling",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719892"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "pomegranate"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 1418,
+                                "y": 486
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Acorn",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719858"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 1711,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Potato",
+                "name": "Mahogany Seed",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719883"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "map_locations": [
+                            {
+                                "map": "Seeds_Trees",
+                                "x": 1711,
+                                "y": 126
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Maple Seed",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719884"
+                                ]
+                            }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 1711,
+                                "y": 186
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Mossy Seed",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720812"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 540
+                                "map": "Seeds_Trees",
+                                "x": 1711,
+                                "y": 246
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Powdermelon",
+                "name": "Mushroom Tree Seed",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719970"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "map_locations": [
+                            {
+                                "map": "Seeds_Trees",
+                                "x": 1711,
+                                "y": 306
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pine Cone",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719891"
+                                ]
+                            }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1147,
-                                "y": 240
+                                "map": "Seeds_Trees",
+                                "x": 1711,
+                                "y": 426
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Artifact Trove",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719422"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 240
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Pumpkin",
+                "name": "Blue Slime Egg",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719551"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "hutch"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 600
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Bouquet",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719844"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 600
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Purple Mushroom",
+                "name": "Calico Egg",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2109,113 +2531,126 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720806"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 660
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 246
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Qi Fruit",
+                "name": "Cookout Kit",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "cropsanity_on,island_tracking_on"
+                                    "719557"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "foraging:3"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1487,
-                                "y": 180
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 306
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Curiosity Lure",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,shipsanity_crops",
-                                    "island_tracking_on,shipsanity_full",
-                                    "island_tracking_on,shipsanity_fullwf",
-                                    "island_tracking_on,shipsanity_all"
+                                    "719839"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "desert,skullkey"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1543,
-                                "y": 180
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Radish",
+                "name": "Far Away Stone",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720805"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "landslideremoved,e100"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 600
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 426
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Fireworks (Green)",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720804"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 600
+                                "map": "Special_Items",
+                                "x": 246,
+                                "y": 486
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Rainbow Shell",
+                "name": "Fireworks (Purple)",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2223,69 +2658,77 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720803"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1373,
-                                "y": 420
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Red Cabbage",
+                "name": "Fireworks (Red)",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720802"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 467,
-                                "y": 660
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Golden Animal Cracker",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720856"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "farmingmastery"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 660
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Red Mushroom",
+                "name": "Golden Pumpkin",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2293,69 +2736,74 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719846"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 120
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 246
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Rhubarb",
+                "name": "Golden Tag",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720809"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "rod,summer"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 600
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 306
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Green Slime Egg",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719571"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "hutch"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 600
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Salmonberry",
+                "name": "Lead Bobber",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2363,25 +2811,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719576"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "fishing:6"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 660
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 426
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Sea Urchin",
+                "name": "Movie Ticket",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2389,25 +2837,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719966"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "theater2"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1373,
-                                "y": 480
+                                "map": "Special_Items",
+                                "x": 539,
+                                "y": 486
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Snow Yam",
+                "name": "Pearl",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2415,25 +2863,22 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719851"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 480
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Spice Berry",
+                "name": "Prize Ticket",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2441,25 +2886,25 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720821"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "specialorderboard"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 600
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Spring Onion",
+                "name": "Purple Slime Egg",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2467,289 +2912,388 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719582"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "hutch"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 120
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Starfruit",
+                "name": "Red Slime Egg",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719588"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "hutch"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 637,
-                                "y": 180
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Rotten Plant",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719852"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "winter"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 180
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Strawberry",
+                "name": "Secret Note",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719857"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "notes"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 297,
-                                "y": 120
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 366
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Stardrop Tea",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720820"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "specialorderboard",
+                            "fishingmastery"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 120
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 426
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Summer Spangle",
+                "name": "Targeted Bait",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720867"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "fishing:6"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 486
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tea Set",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719746"
+                                ]
+                            }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 637,
-                                "y": 120
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 66
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Tent Kit",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "720814"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "foraging:8"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 120
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Summer Squash",
+                "name": "Treasure Chest",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719448"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "fishing:2"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 637,
-                                "y": 480
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 186
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Void Ghost Pendant",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719854"
+                                ]
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 246
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wilted Bouquet",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719856"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "furnace",
+                            "heavyfurnace"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 480
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Sunflower",
+                "name": "Cinder Shard",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719957"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "island,parrots",
+                            "island,turtlen"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 977,
-                                "y": 120
+                                "map": "Ginger_Island_Items",
+                                "x": 246,
+                                "y": 66
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Dragon Tooth",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719958"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "island,parrots",
+                            "island,turtlen"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 120
+                                "map": "Ginger_Island_Items",
+                                "x": 246,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Sweet Gem Berry",
+                "name": "Enricher",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719962"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 807,
-                                "y": 660
+                                "map": "Ginger_Island_Items",
+                                "x": 246,
+                                "y": 186
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Fossilized Leg",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719922"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "island,turtlen,digsite,Pick",
+                            "island,parrots,digsite,Pick"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 863,
-                                "y": 660
+                                "map": "Ginger_Island_Items",
+                                "x": 246,
+                                "y": 246
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Sweet Pea",
+                "name": "Fossilized Ribs",
                 "children": [
                     {
                         "name": "Shipped",
@@ -2757,289 +3301,336 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719923"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "island,turtlen,digsite,Pick",
+                            "island,parrots,digsite,Pick",
+                            "island,Hoe"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 660
+                                "map": "Ginger_Island_Items",
+                                "x": 246,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Taro Root",
+                "name": "Fossilized Skull",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "cropsanity_on,island_tracking_on"
+                                    "719924"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "island"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1487,
-                                "y": 240
+                                "map": "Ginger_Island_Items",
+                                "x": 246,
+                                "y": 366
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Fossilized Spine",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "island_tracking_on,shipsanity_crops",
-                                    "island_tracking_on,shipsanity_full",
-                                    "island_tracking_on,shipsanity_fullwf",
-                                    "island_tracking_on,shipsanity_all"
+                                    "719925"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "island,turtlen,digsite,rod",
+                            "island,parrots,digsite,rod"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1543,
-                                "y": 240
+                                "map": "Ginger_Island_Items",
+                                "x": 539,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Tea Leaves",
+                "name": "Fossilized Tail",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719926"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "island,turtlen,digsite,pan",
+                            "island,parrots,digsite,pan"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1317,
-                                "y": 240
+                                "map": "Ginger_Island_Items",
+                                "x": 539,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Galaxy Soul",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719964"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1373,
-                                "y": 240
+                                "map": "Ginger_Island_Items",
+                                "x": 539,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Tomato",
+                "name": "Golden Mystery Box",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720857"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "plane,foragingmastery"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 637,
-                                "y": 240
+                                "map": "Ginger_Island_Items",
+                                "x": 539,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Journal Scrap",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719967"
                                 ]
                             }
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 240
+                                "map": "Ginger_Island_Items",
+                                "x": 539,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Tulip",
+                "name": "Mummified Bat",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719927"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "island,turtlen,Pick",
+                            "island,parrots,Pick"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 297,
-                                "y": 180
+                                "map": "Ginger_Island_Items",
+                                "x": 539,
+                                "y": 366
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Mummified Frog",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719928"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "island"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 353,
-                                "y": 180
+                                "map": "Ginger_Island_Items",
+                                "x": 832,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Unmilled Rice",
+                "name": "Mystery Box",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "720808"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "plane"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 127,
-                                "y": 660
+                                "map": "Ginger_Island_Items",
+                                "x": 832,
+                                "y": 126
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Pressure Nozzle",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719963"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 183,
-                                "y": 660
+                                "map": "Ginger_Island_Items",
+                                "x": 832,
+                                "y": 186
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Wheat",
+                "name": "Qi Bean",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719972"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 637,
-                                "y": 300
+                                "map": "Ginger_Island_Items",
+                                "x": 832,
+                                "y": 246
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Qi Seasoning",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719959"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 693,
-                                "y": 300
+                                "map": "Ginger_Island_Items",
+                                "x": 832,
+                                "y": 306
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Wild Horseradish",
+                "name": "Radioactive Bar",
                 "children": [
                     {
                         "name": "Shipped",
@@ -3047,25 +3638,26 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719960"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom,furnace",
+                            "island,$can_reach_ifarm,walnutroom,heavyfurnace"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 523,
-                                "y": 180
+                                "map": "Ginger_Island_Items",
+                                "x": 832,
+                                "y": 366
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Wild Plum",
+                "name": "Radioactive Ore",
                 "children": [
                     {
                         "name": "Shipped",
@@ -3073,25 +3665,26 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719961"
                                 ]
                             }
                         ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom,Pick",
+                            "island,$can_reach_ifarm,walnutroom,Pick"
+                        ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 180
+                                "map": "Ginger_Island_Items",
+                                "x": 1125,
+                                "y": 66
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Winter Root",
+                "name": "Snake Skull",
                 "children": [
                     {
                         "name": "Shipped",
@@ -3099,62 +3692,73 @@
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719929"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,rod",
+                            "island,$can_reach_ifarm,Hoe",
+                            "island,turtlen,digsite,Hoe"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1203,
-                                "y": 540
+                                "map": "Ginger_Island_Items",
+                                "x": 1125,
+                                "y": 126
                             }
                         ]
                     }
                 ]
             },
             {
-                "name": "Yam",
+                "name": "Snake Vertebrae",
                 "children": [
                     {
-                        "name": "Harvested",
+                        "name": "Shipped",
                         "sections": [
                             {
-                                "item_count": 1
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719930"
+                                ]
                             }
                         ],
-                        "visibility_rules": [
-                            "cropsanity_on"
+                        "access_rules": [
+                            "island,$can_reach_ifarm,Pick",
+                            "island,$can_reach_ifarm,Hoe"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 977,
-                                "y": 180
+                                "map": "Ginger_Island_Items",
+                                "x": 1125,
+                                "y": 186
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "name": "Tiger Slime Egg",
+                "children": [
                     {
                         "name": "Shipped",
                         "sections": [
                             {
                                 "item_count": 1,
                                 "visibility_rules": [
-                                    "shipsanity_crops",
-                                    "shipsanity_full",
-                                    "shipsanity_fullwf",
-                                    "shipsanity_all"
+                                    "719965"
                                 ]
                             }
+                        ],
+                        "access_rules": [
+                            "hutch"
                         ],
                         "map_locations": [
                             {
-                                "map": "Crops and Foraged Items",
-                                "x": 1033,
-                                "y": 180
+                                "map": "Ginger_Island_Items",
+                                "x": 1125,
+                                "y": 246
                             }
                         ]
                     }

@@ -225,6 +225,15 @@
                                         }
                                     },
                                     {
+                                        "title": "Eatsanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Eatsanity"
+                                            ]
+                                        }
+                                    },
+                                    {
                                         "title": "Fishes",
                                         "content": {
                                             "type": "map",
@@ -301,6 +310,50 @@
                                             "type": "map",
                                             "maps": [
                                                 "Secretsanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Shipsanity",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Material",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Material"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Seed & Trees",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Seeds_Trees"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Special Items",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Special_Items"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Ginger Island Items",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Ginger_Island_Items"
+                                                        ]
+                                                    }
+                                                }
                                             ]
                                         }
                                     }
