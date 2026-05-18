@@ -1,6 +1,18 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.3",
+			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.3/stardew_valley_ap_tracker.zip",
+			"sha256": "766467cf20275e671ddcecad9f65909a523e4fc6222c47fc7cd345d00d8a5c1e",
+			"changelog": [
+				"added Eatsanity Map",
+				"added Shipsanity Maps",
+				"added missing items for Shipsanity to Shipsanity Maps",
+				"added access_rules for Shipsanity items",
+				"fixed some logic problems"
+			]
+		},
+		{
 			"package_version": "1.7.2",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.2/stardew_valley_ap_tracker.zip",
 			"sha256": "c376cb4cfe5aac73cd2d4a0fe132f335f6a5e6b19f0c3f02193e2dc3a55dcb28",
