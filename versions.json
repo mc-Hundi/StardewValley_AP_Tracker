@@ -1,6 +1,17 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.4",
+			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.4/stardew_valley_ap_tracker.zip",
+			"sha256": "951783949da017a169e357b513b7db281f1f55ec4fffcc32370cc739fc349f74",
+			"changelog": [
+				"added Eatsanity access_rules",
+				"added some items for logic",
+				"updated logic rules",
+				"added powers overview"
+			]
+		},
+		{
 			"package_version": "1.7.3",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.3/stardew_valley_ap_tracker.zip",
 			"sha256": "766467cf20275e671ddcecad9f65909a523e4fc6222c47fc7cd345d00d8a5c1e",
