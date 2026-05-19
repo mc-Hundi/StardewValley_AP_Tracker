@@ -913,7 +913,7 @@ ITEM_MAPPING = {
     -- [722294] = {{"bigchest", "toggle"}},
     -- [722295] = {{"bigstonechest", "toggle"}},
     [722296] = {{"dehydrator", "toggle"}},
-    -- [722297] = {{"fishsmoker", "toggle"}},
+    [722297] = {{"fishsmoker", "toggle"}},
     [722298] = {{"heavyfurnace", "toggle"}},
     -- Mods
     -- [727001] = {{"lucklevel", "toggle"}},
