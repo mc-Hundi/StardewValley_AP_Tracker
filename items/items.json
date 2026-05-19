@@ -1327,5 +1327,188 @@
         "type": "toggle",
         "allow_disabled": true,
         "codes": "heavytapper"
+    },
+    {
+        "name": "Keg",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "keg"
+    },
+    {
+        "name": "Preserve Jar",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "preservesjar"
+    },
+    {
+        "name": "Mayonnaise Machine",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "mayonnaisemachine"
+    },
+    {
+        "name": "Cheese Press",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "cheesepress"
+    },
+    {
+        "name": "Oil Maker",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "oilmaker"
+    },
+    {
+        "name": "Dehydrator",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "dehydrator"
+    },
+    {
+        "name": "Fish Smoker",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "fishsmoker"
+    },
+    {
+        "name": "Power: Price Catalogue",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Price_Catalogue.png",
+        "codes": "pricecatalogue"
+    },
+    {
+        "name": "Power: Mapping Cave Systems",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Mapping_Cave_Systems.png",
+        "codes": "mappingcavesystems"
+    },
+    {
+        "name": "Power: Way of the Wind Pt.1",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Way_Of_The_Wind_pt._1.png",
+        "codes": "wayofthewindpt.1"
+    },
+    {
+        "name": "Power: Way of the Wind Pt.2",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Way_Of_The_Wind_pt._2.png",
+        "codes": "wayofthewindpt.2"
+    },
+    {
+        "name": "Power: Monster Compendium",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Monster_Compendium.png",
+        "codes": "monstercompendium"
+    },
+    {
+        "name": "Power: Friendship 101",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Friendship_101.png",
+        "codes": "friendship101"
+    },
+    {
+        "name": "Power: Jack be nimble, Jack be thick",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Jack_Be_Nimble,_Jack_Be_Thick.png",
+        "codes": "jackbenimble_jackbethick"
+    },
+    {
+        "name": "Power: Woodys Secret",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Woody's_Secret.png",
+        "codes": "woodyssecret"
+    },
+    {
+        "name": "Power: Raccoon Journal",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Ways_Of_The_Wild.png",
+        "codes": "raccoonjournal"
+    },
+    {
+        "name": "Power: Jewels of the Sea",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Jewels_Of_The_Sea.png",
+        "codes": "jewelsofthesea"
+    },
+    {
+        "name": "Power: Dwarvish Safety Manual",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Dwarvish_Safety_Manual.png",
+        "codes": "dwarvishsafetymanual"
+    },
+    {
+        "name": "Power: The Art O' Crabbing",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/The_Art_O'_Crabbing.png",
+        "codes": "theartocrabbing"
+    },
+    {
+        "name": "Power: The Alleyway Buffet",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/The_Alleyway_Buffet.png",
+        "codes": "thealleywaybuffet"
+    },
+    {
+        "name": "Power: The Diamond Hunter",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/The_Diamond_Hunter.png",
+        "codes": "thediamondhunter"
+    },
+    {
+        "name": "Power: Book of Mysteries",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Book_of_Mysteries.png",
+        "codes": "bookofmysteries"
+    },
+    {
+        "name": "Power: Horse: The Book",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Horse_The_Book.png",
+        "codes": "horse_thebook"
+    },
+    {
+        "name": "Power: Treasure Appraisal Guide",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Treasure_Appraisal_Guide.png",
+        "codes": "treasureappraisalguide"
+    },
+    {
+        "name": "Power: Ol' Slitherlegs",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Ol'_Slitherlegs.png",
+        "codes": "olslitherlegs"
+    },
+    {
+        "name": "Power: Animal Catalogue",
+        "type": "toggle",
+        "allow_disabled": true,
+        "img": "images/powers/Animal_Catalogue.png",
+        "codes": "animalcatalogue"
+    },
+    {
+        "name": "Lost Books",
+        "type": "consumable",
+        "max_quantity": 21,
+        "allow_disabled": true,
+        "img": "images/powers/Lost_Book.png",
+        "codes": "progressivelostbook"
     }
-]
+]   

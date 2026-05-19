@@ -17,6 +17,9 @@
                         "visibility_rules": [
                             "721751"
                         ],
+                        "access_rules": [
+                            "spring"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -39,6 +42,9 @@
                         ],
                         "visibility_rules": [
                             "721752"
+                        ],
+                        "access_rules": [
+                            "spring"
                         ],
                         "map_locations": [
                             {
@@ -63,6 +69,9 @@
                         "visibility_rules": [
                             "721753"
                         ],
+                        "access_rules": [
+                            "spring"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -85,6 +94,9 @@
                         ],
                         "visibility_rules": [
                             "721754"
+                        ],
+                        "access_rules": [
+                            "spring"
                         ],
                         "map_locations": [
                             {
@@ -109,6 +121,10 @@
                         "visibility_rules": [
                             "721755"
                         ],
+                        "access_rules": [
+                            "spring,parsnip",
+                            "$season_free_harvest,parsnip"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -131,6 +147,9 @@
                         ],
                         "visibility_rules": [
                             "721756"
+                        ],
+                        "access_rules": [
+                            "landslideremoved"
                         ],
                         "map_locations": [
                             {
@@ -155,6 +174,9 @@
                         "visibility_rules": [
                             "721757"
                         ],
+                        "access_rules": [
+                            "desert"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -177,6 +199,10 @@
                         ],
                         "visibility_rules": [
                             "721758"
+                        ],
+                        "access_rules": [
+                            "spring,bean",
+                            "$season_free_harvest,bean"
                         ],
                         "map_locations": [
                             {
@@ -201,6 +227,10 @@
                         "visibility_rules": [
                             "721759"
                         ],
+                        "access_rules": [
+                            "spring,cauliflower",
+                            "$season_free_harvest,cauliflower"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -223,6 +253,10 @@
                         ],
                         "visibility_rules": [
                             "721760"
+                        ],
+                        "access_rules": [
+                            "spring,potato",
+                            "$season_free_harvest,potato"
                         ],
                         "map_locations": [
                             {
@@ -247,6 +281,10 @@
                         "visibility_rules": [
                             "721761"
                         ],
+                        "access_rules": [
+                            "spring,garlic",
+                            "$season_free_harvest,garlic"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -269,6 +307,10 @@
                         ],
                         "visibility_rules": [
                             "721762"
+                        ],
+                        "access_rules": [
+                            "spring,kale",
+                            "$season_free_harvest,kale"
                         ],
                         "map_locations": [
                             {
@@ -293,6 +335,10 @@
                         "visibility_rules": [
                             "721763"
                         ],
+                        "access_rules": [
+                            "summer,melon",
+                            "$season_free_harvest,melon"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -315,6 +361,10 @@
                         ],
                         "visibility_rules": [
                             "721764"
+                        ],
+                        "access_rules": [
+                            "summer,tomato",
+                            "$season_free_harvest,tomato"
                         ],
                         "map_locations": [
                             {
@@ -339,6 +389,10 @@
                         "visibility_rules": [
                             "721765"
                         ],
+                        "access_rules": [
+                            "spring,SteelAxe",
+                            "mushrooms"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -361,6 +415,10 @@
                         ],
                         "visibility_rules": [
                             "721766"
+                        ],
+                        "access_rules": [
+                            "summer,blueberry",
+                            "$season_free_harvest,blueberry"
                         ],
                         "map_locations": [
                             {
@@ -385,6 +443,10 @@
                         "visibility_rules": [
                             "721767"
                         ],
+                        "access_rules": [
+                            "summer",
+                            "island"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -407,6 +469,10 @@
                         ],
                         "visibility_rules": [
                             "721768"
+                        ],
+                        "access_rules": [
+                            "summer,pepper",
+                            "$season_free_harvest,pepper"
                         ],
                         "map_locations": [
                             {
@@ -431,6 +497,10 @@
                         "visibility_rules": [
                             "721769"
                         ],
+                        "access_rules": [
+                            "summer,radish",
+                            "$season_free_harvest,radish"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -453,6 +523,10 @@
                         ],
                         "visibility_rules": [
                             "721770"
+                        ],
+                        "access_rules": [
+                            "summer,redcabbage",
+                            "$season_free_harvest,redcabbage"
                         ],
                         "map_locations": [
                             {
@@ -477,6 +551,10 @@
                         "visibility_rules": [
                             "721771"
                         ],
+                        "access_rules": [
+                            "summer,starfruit",
+                            "$season_free_harvest,starfruit"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -499,6 +577,11 @@
                         ],
                         "visibility_rules": [
                             "721772"
+                        ],
+                        "access_rules": [
+                            "summer,corn",
+                            "$season_free_harvest,corn",
+                            "fall,corn"
                         ],
                         "map_locations": [
                             {
@@ -523,6 +606,11 @@
                         "visibility_rules": [
                             "721773"
                         ],
+                        "access_rules": [
+                            "summer,rice",
+                            "$season_free_harvest,rice",
+                            "fall,rice"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -545,6 +633,10 @@
                         ],
                         "visibility_rules": [
                             "721774"
+                        ],
+                        "access_rules": [
+                            "fall,eggplant",
+                            "$season_free_harvest,eggplant"
                         ],
                         "map_locations": [
                             {
@@ -569,6 +661,10 @@
                         "visibility_rules": [
                             "721775"
                         ],
+                        "access_rules": [
+                            "fall,artichoke",
+                            "$season_free_harvest,artichoke"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -591,6 +687,10 @@
                         ],
                         "visibility_rules": [
                             "721776"
+                        ],
+                        "access_rules": [
+                            "fall,bokchoy",
+                            "$season_free_harvest,bokchoy"
                         ],
                         "map_locations": [
                             {
@@ -615,6 +715,10 @@
                         "visibility_rules": [
                             "721777"
                         ],
+                        "access_rules": [
+                            "fall,yam",
+                            "$season_free_harvest,yam"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -637,6 +741,10 @@
                         ],
                         "visibility_rules": [
                             "721778"
+                        ],
+                        "access_rules": [
+                            "SteelAxe,fall",
+                            "mushrooms"
                         ],
                         "map_locations": [
                             {
@@ -661,6 +769,10 @@
                         "visibility_rules": [
                             "721779"
                         ],
+                        "access_rules": [
+                            "fall,cranberry",
+                            "$season_free_harvest,cranberry"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -683,6 +795,10 @@
                         ],
                         "visibility_rules": [
                             "721780"
+                        ],
+                        "access_rules": [
+                            "fall,beet",
+                            "$season_free_harvest,beet"
                         ],
                         "map_locations": [
                             {
@@ -707,6 +823,9 @@
                         "visibility_rules": [
                             "721781"
                         ],
+                        "access_rules": [
+                            "spring"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -729,6 +848,10 @@
                         ],
                         "visibility_rules": [
                             "721782"
+                        ],
+                        "access_rules": [
+                            "fall,amaranth",
+                            "season_free_harvest,amaranth"
                         ],
                         "map_locations": [
                             {
@@ -753,6 +876,10 @@
                         "visibility_rules": [
                             "721783"
                         ],
+                        "access_rules": [
+                            "summer,hops",
+                            "$season_free_harvest,hops"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -775,6 +902,9 @@
                         ],
                         "visibility_rules": [
                             "721784"
+                        ],
+                        "access_rules": [
+                            "summer"
                         ],
                         "map_locations": [
                             {
@@ -799,6 +929,10 @@
                         "visibility_rules": [
                             "721785"
                         ],
+                        "access_rules": [
+                            "fall,grape",
+                            "$season_free_harvest,grape"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -821,6 +955,9 @@
                         ],
                         "visibility_rules": [
                             "721786"
+                        ],
+                        "access_rules": [
+                            "spring"
                         ],
                         "map_locations": [
                             {
@@ -845,6 +982,10 @@
                         "visibility_rules": [
                             "721787"
                         ],
+                        "access_rules": [
+                            "spring,strawberry",
+                            "$season_free_harvest,strawberry"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -867,6 +1008,9 @@
                         ],
                         "visibility_rules": [
                             "721788"
+                        ],
+                        "access_rules": [
+                            "summer"
                         ],
                         "map_locations": [
                             {
@@ -891,6 +1035,11 @@
                         "visibility_rules": [
                             "721789"
                         ],
+                        "access_rules": [
+                            "spring,SteelAxe",
+                            "fall",
+                            "mushrooms"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -913,6 +1062,9 @@
                         ],
                         "visibility_rules": [
                             "721790"
+                        ],
+                        "access_rules": [
+                            "fall"
                         ],
                         "map_locations": [
                             {
@@ -937,6 +1089,9 @@
                         "visibility_rules": [
                             "721791"
                         ],
+                        "access_rules": [
+                            "fall"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -959,6 +1114,9 @@
                         ],
                         "visibility_rules": [
                             "721792"
+                        ],
+                        "access_rules": [
+                            "fall"
                         ],
                         "map_locations": [
                             {
@@ -983,6 +1141,9 @@
                         "visibility_rules": [
                             "721793"
                         ],
+                        "access_rules": [
+                            "winter"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1005,6 +1166,9 @@
                         ],
                         "visibility_rules": [
                             "721794"
+                        ],
+                        "access_rules": [
+                            "winter"
                         ],
                         "map_locations": [
                             {
@@ -1029,6 +1193,9 @@
                         "visibility_rules": [
                             "721795"
                         ],
+                        "access_rules": [
+                            "winter"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1052,6 +1219,9 @@
                         "visibility_rules": [
                             "721796"
                         ],
+                        "access_rules": [
+                            "winter"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1074,6 +1244,11 @@
                         ],
                         "visibility_rules": [
                             "721797"
+                        ],
+                        "access_rules": [
+                            "summer,sunflower",
+                            "$season_free_harvest,sunflower",
+                            "fall,sunflower"
                         ],
                         "map_locations": [
                             {
@@ -1121,6 +1296,10 @@
                         "visibility_rules": [
                             "721799"
                         ],
+                        "access_rules": [
+                            "spring,tulip",
+                            "$season_free_harvest,tulip"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1143,6 +1322,10 @@
                         ],
                         "visibility_rules": [
                             "721800"
+                        ],
+                        "access_rules": [
+                            "summer,spangle",
+                            "$season_free_harvest,spangle"
                         ],
                         "map_locations": [
                             {
@@ -1167,6 +1350,10 @@
                         "visibility_rules": [
                             "721801"
                         ],
+                        "access_rules": [
+                            "fall,fairyrose",
+                            "$season_free_harvest,fairyrose"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1189,6 +1376,10 @@
                         ],
                         "visibility_rules": [
                             "721802"
+                        ],
+                        "access_rules": [
+                            "spring,blueJazz",
+                            "$season_free_harvest,blueJazz"
                         ],
                         "map_locations": [
                             {
@@ -1213,6 +1404,10 @@
                         "visibility_rules": [
                             "721803"
                         ],
+                        "access_rules": [
+                            "summer,poppy",
+                            "$season_free_harvest,poppy"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1235,6 +1430,10 @@
                         ],
                         "visibility_rules": [
                             "721804"
+                        ],
+                        "access_rules": [
+                            "fall,apple",
+                            "$season_free_harvest,apple"
                         ],
                         "map_locations": [
                             {
@@ -1259,6 +1458,10 @@
                         "visibility_rules": [
                             "721805"
                         ],
+                        "access_rules": [
+                            "spring,apricot",
+                            "$season_free_harvest,apricot"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1281,6 +1484,10 @@
                         ],
                         "visibility_rules": [
                             "721806"
+                        ],
+                        "access_rules": [
+                            "summer,orange",
+                            "$season_free_harvest,orange"
                         ],
                         "map_locations": [
                             {
@@ -1305,6 +1512,10 @@
                         "visibility_rules": [
                             "721807"
                         ],
+                        "access_rules": [
+                            "summer,peach",
+                            "$season_free_harvest,peach"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1327,6 +1538,10 @@
                         ],
                         "visibility_rules": [
                             "721808"
+                        ],
+                        "access_rules": [
+                            "fall,pomegranate",
+                            "$season_free_harvest,pomegranate"
                         ],
                         "map_locations": [
                             {
@@ -1351,6 +1566,10 @@
                         "visibility_rules": [
                             "721809"
                         ],
+                        "access_rules": [
+                            "spring,cherry",
+                            "$season_free_harvest,cherry"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1373,6 +1592,10 @@
                         ],
                         "visibility_rules": [
                             "721810"
+                        ],
+                        "access_rules": [
+                            "$season_free_harvest,banana",
+                            "summer,banana"
                         ],
                         "map_locations": [
                             {
@@ -1397,6 +1620,9 @@
                         "visibility_rules": [
                             "721811"
                         ],
+                        "access_rules": [
+                            "$can_reach_ifarm"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1419,6 +1645,10 @@
                         ],
                         "visibility_rules": [
                             "721812"
+                        ],
+                        "access_rules": [
+                            "summer,taro",
+                            "$season_free_harvest,taro"
                         ],
                         "map_locations": [
                             {
@@ -1443,6 +1673,10 @@
                         "visibility_rules": [
                             "721813"
                         ],
+                        "access_rules": [
+                            "summer,pineapple",
+                            "$season_free_harvest,pineapple"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1465,6 +1699,10 @@
                         ],
                         "visibility_rules": [
                             "721814"
+                        ],
+                        "access_rules": [
+                            "summer,mango",
+                            "$season_free_harvest,mango"
                         ],
                         "map_locations": [
                             {
@@ -1489,6 +1727,10 @@
                         "visibility_rules": [
                             "721815"
                         ],
+                        "access_rules": [
+                            "island,turtlen",
+                            "island,parrots"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1511,6 +1753,9 @@
                         ],
                         "visibility_rules": [
                             "721816"
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,walnutroom"
                         ],
                         "map_locations": [
                             {
@@ -1535,6 +1780,10 @@
                         "visibility_rules": [
                             "721817"
                         ],
+                        "access_rules": [
+                            "spring,carrot",
+                            "$season_free_harvest,carrot"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1557,6 +1806,10 @@
                         ],
                         "visibility_rules": [
                             "721818"
+                        ],
+                        "access_rules": [
+                            "summer,squash",
+                            "$season_free_harvest,squash"
                         ],
                         "map_locations": [
                             {
@@ -1581,6 +1834,10 @@
                         "visibility_rules": [
                             "721819"
                         ],
+                        "access_rules": [
+                            "fall,broccoli",
+                            "$season_free_harvest,broccoli"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Crops and Foraged Items",
@@ -1603,6 +1860,10 @@
                         ],
                         "visibility_rules": [
                             "721820"
+                        ],
+                        "access_rules": [
+                            "winter,powdermelon",
+                            "$season_free_harvest,powdermelon"
                         ],
                         "map_locations": [
                             {
@@ -1627,6 +1888,9 @@
                         "visibility_rules": [
                             "721831"
                         ],
+                        "access_rules": [
+                            "kitchen,friedeggrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1649,6 +1913,9 @@
                         ],
                         "visibility_rules": [
                             "721832"
+                        ],
+                        "access_rules": [
+                            "kitchen,omeletrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1673,6 +1940,9 @@
                         "visibility_rules": [
                             "721833"
                         ],
+                        "access_rules": [
+                            "kitchen,saladrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1695,6 +1965,9 @@
                         ],
                         "visibility_rules": [
                             "721834"
+                        ],
+                        "access_rules": [
+                            "kitchen,cheesecauliflowerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1719,6 +1992,9 @@
                         "visibility_rules": [
                             "721835"
                         ],
+                        "access_rules": [
+                            "kitchen,bakedfishrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1741,6 +2017,9 @@
                         ],
                         "visibility_rules": [
                             "721836"
+                        ],
+                        "access_rules": [
+                            "kitchen,parsnipsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -1765,6 +2044,9 @@
                         "visibility_rules": [
                             "721837"
                         ],
+                        "access_rules": [
+                            "kitchen,vegetablemedleyrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1787,6 +2069,9 @@
                         ],
                         "visibility_rules": [
                             "721838"
+                        ],
+                        "access_rules": [
+                            "kitchen,completebreakfastrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1811,6 +2096,9 @@
                         "visibility_rules": [
                             "721839"
                         ],
+                        "access_rules": [
+                            "kitchen,friedcalamarirecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1833,6 +2121,9 @@
                         ],
                         "visibility_rules": [
                             "721840"
+                        ],
+                        "access_rules": [
+                            "kitchen,strangebunrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1857,6 +2148,9 @@
                         "visibility_rules": [
                             "721841"
                         ],
+                        "access_rules": [
+                            "kitchen,luckylunchrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1879,6 +2173,9 @@
                         ],
                         "visibility_rules": [
                             "721842"
+                        ],
+                        "access_rules": [
+                            "kitchen,friedmushroomrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1903,6 +2200,9 @@
                         "visibility_rules": [
                             "721843"
                         ],
+                        "access_rules": [
+                            "kitchen,pizzarecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1925,6 +2225,9 @@
                         ],
                         "visibility_rules": [
                             "721844"
+                        ],
+                        "access_rules": [
+                            "kitchen,beanhotpotrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1949,6 +2252,9 @@
                         "visibility_rules": [
                             "721845"
                         ],
+                        "access_rules": [
+                            "kitchen,glazedYamsrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -1971,6 +2277,9 @@
                         ],
                         "visibility_rules": [
                             "721846"
+                        ],
+                        "access_rules": [
+                            "kitchen,carpsurpriserecipe"
                         ],
                         "map_locations": [
                             {
@@ -1995,6 +2304,9 @@
                         "visibility_rules": [
                             "721847"
                         ],
+                        "access_rules": [
+                            "kitchen,hashbrownsrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2017,6 +2329,9 @@
                         ],
                         "visibility_rules": [
                             "721848"
+                        ],
+                        "access_rules": [
+                            "kitchen,pancakesrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2041,6 +2356,9 @@
                         "visibility_rules": [
                             "721849"
                         ],
+                        "access_rules": [
+                            "kitchen,salmondinnerrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2063,6 +2381,9 @@
                         ],
                         "visibility_rules": [
                             "721850"
+                        ],
+                        "access_rules": [
+                            "kitchen,fishtacorecipe"
                         ],
                         "map_locations": [
                             {
@@ -2087,6 +2408,9 @@
                         "visibility_rules": [
                             "721851"
                         ],
+                        "access_rules": [
+                            "kitchen,crispybassrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2109,6 +2433,9 @@
                         ],
                         "visibility_rules": [
                             "721852"
+                        ],
+                        "access_rules": [
+                            "kitchen,pepperpoppersrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2133,6 +2460,9 @@
                         "visibility_rules": [
                             "721853"
                         ],
+                        "access_rules": [
+                            "kitchen,breadrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2155,6 +2485,9 @@
                         ],
                         "visibility_rules": [
                             "721854"
+                        ],
+                        "access_rules": [
+                            "kitchen,tomkhasouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2179,6 +2512,9 @@
                         "visibility_rules": [
                             "721855"
                         ],
+                        "access_rules": [
+                            "kitchen,troutsouprecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2201,6 +2537,9 @@
                         ],
                         "visibility_rules": [
                             "721856"
+                        ],
+                        "access_rules": [
+                            "kitchen,chocolatecakerecipe"
                         ],
                         "map_locations": [
                             {
@@ -2225,6 +2564,9 @@
                         "visibility_rules": [
                             "721857"
                         ],
+                        "access_rules": [
+                            "kitchen,pinkcakerecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2247,6 +2589,9 @@
                         ],
                         "visibility_rules": [
                             "721858"
+                        ],
+                        "access_rules": [
+                            "kitchen,rhubarbpierecipe"
                         ],
                         "map_locations": [
                             {
@@ -2271,6 +2616,9 @@
                         "visibility_rules": [
                             "721859"
                         ],
+                        "access_rules": [
+                            "kitchen,cookiesrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2293,6 +2641,9 @@
                         ],
                         "visibility_rules": [
                             "721860"
+                        ],
+                        "access_rules": [
+                            "kitchen,spaghettirecipe"
                         ],
                         "map_locations": [
                             {
@@ -2317,6 +2668,9 @@
                         "visibility_rules": [
                             "721861"
                         ],
+                        "access_rules": [
+                            "kitchen,friedeelrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2339,6 +2693,9 @@
                         ],
                         "visibility_rules": [
                             "721862"
+                        ],
+                        "access_rules": [
+                            "kitchen,spicyeelrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2363,6 +2720,9 @@
                         "visibility_rules": [
                             "721863"
                         ],
+                        "access_rules": [
+                            "kitchen,sashimirecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2385,6 +2745,9 @@
                         ],
                         "visibility_rules": [
                             "721864"
+                        ],
+                        "access_rules": [
+                            "kitchen,makirollrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2409,6 +2772,9 @@
                         "visibility_rules": [
                             "721865"
                         ],
+                        "access_rules": [
+                            "kitchen,tortillarecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2431,6 +2797,9 @@
                         ],
                         "visibility_rules": [
                             "721866"
+                        ],
+                        "access_rules": [
+                            "kitchen,redplaterecipe"
                         ],
                         "map_locations": [
                             {
@@ -2455,6 +2824,9 @@
                         "visibility_rules": [
                             "721867"
                         ],
+                        "access_rules": [
+                            "kitchen,eggplantparmesanrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2477,6 +2849,9 @@
                         ],
                         "visibility_rules": [
                             "721868"
+                        ],
+                        "access_rules": [
+                            "kitchen,ricepuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2501,6 +2876,9 @@
                         "visibility_rules": [
                             "721869"
                         ],
+                        "access_rules": [
+                            "kitchen,icecreamrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2523,6 +2901,9 @@
                         ],
                         "visibility_rules": [
                             "721870"
+                        ],
+                        "access_rules": [
+                            "kitchen,blueberrytartrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2547,6 +2928,9 @@
                         "visibility_rules": [
                             "721871"
                         ],
+                        "access_rules": [
+                            "kitchen,autumnsbountyrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2569,6 +2953,9 @@
                         ],
                         "visibility_rules": [
                             "721872"
+                        ],
+                        "access_rules": [
+                            "kitchen,pumpkinsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2593,6 +2980,9 @@
                         "visibility_rules": [
                             "721873"
                         ],
+                        "access_rules": [
+                            "kitchen,supermealrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2615,6 +3005,9 @@
                         ],
                         "visibility_rules": [
                             "721874"
+                        ],
+                        "access_rules": [
+                            "kitchen,cranberrysaucerecipe"
                         ],
                         "map_locations": [
                             {
@@ -2639,6 +3032,9 @@
                         "visibility_rules": [
                             "721875"
                         ],
+                        "access_rules": [
+                            "kitchen,stuffingrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2661,6 +3057,9 @@
                         ],
                         "visibility_rules": [
                             "721876"
+                        ],
+                        "access_rules": [
+                            "kitchen,farmerslunchrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2685,6 +3084,9 @@
                         "visibility_rules": [
                             "721877"
                         ],
+                        "access_rules": [
+                            "kitchen,survivalburgerrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2707,6 +3109,9 @@
                         ],
                         "visibility_rules": [
                             "721878"
+                        ],
+                        "access_rules": [
+                            "kitchen,dishothesearecipe"
                         ],
                         "map_locations": [
                             {
@@ -2731,6 +3136,9 @@
                         "visibility_rules": [
                             "721879"
                         ],
+                        "access_rules": [
+                            "kitchen,minerstreatrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2753,6 +3161,9 @@
                         ],
                         "visibility_rules": [
                             "721880"
+                        ],
+                        "access_rules": [
+                            "kitchen,rootsplatterrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2777,6 +3188,9 @@
                         "visibility_rules": [
                             "721881"
                         ],
+                        "access_rules": [
+                            "kitchen,tripleshotespressorecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2799,6 +3213,9 @@
                         ],
                         "visibility_rules": [
                             "721882"
+                        ],
+                        "access_rules": [
+                            "foraging:1"
                         ],
                         "map_locations": [
                             {
@@ -2823,6 +3240,9 @@
                         "visibility_rules": [
                             "721883"
                         ],
+                        "access_rules": [
+                            "kitchen,algaesouprecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2845,6 +3265,9 @@
                         ],
                         "visibility_rules": [
                             "721884"
+                        ],
+                        "access_rules": [
+                            "kitchen,palebrothrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2869,6 +3292,9 @@
                         "visibility_rules": [
                             "721885"
                         ],
+                        "access_rules": [
+                            "kitchen,plumpuddingrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2891,6 +3317,9 @@
                         ],
                         "visibility_rules": [
                             "721886"
+                        ],
+                        "access_rules": [
+                            "kitchen,artichokediprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2915,6 +3344,9 @@
                         "visibility_rules": [
                             "721887"
                         ],
+                        "access_rules": [
+                            "kitchen,stirfryrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2937,6 +3369,9 @@
                         ],
                         "visibility_rules": [
                             "721888"
+                        ],
+                        "access_rules": [
+                            "kitchen,roastedhazelnutsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2961,6 +3396,9 @@
                         "visibility_rules": [
                             "721889"
                         ],
+                        "access_rules": [
+                            "kitchen,pumpkinpierecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -2983,6 +3421,9 @@
                         ],
                         "visibility_rules": [
                             "721890"
+                        ],
+                        "access_rules": [
+                            "kitchen,radishsaladrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3007,6 +3448,9 @@
                         "visibility_rules": [
                             "721891"
                         ],
+                        "access_rules": [
+                            "kitchen,fruitsaladrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3029,6 +3473,9 @@
                         ],
                         "visibility_rules": [
                             "721892"
+                        ],
+                        "access_rules": [
+                            "kitchen,blackberrycobblerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3053,6 +3500,9 @@
                         "visibility_rules": [
                             "721893"
                         ],
+                        "access_rules": [
+                            "kitchen,cranberrycandyrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3075,6 +3525,9 @@
                         ],
                         "visibility_rules": [
                             "721894"
+                        ],
+                        "access_rules": [
+                            "kitchen,bruschettarecipe"
                         ],
                         "map_locations": [
                             {
@@ -3099,6 +3552,9 @@
                         "visibility_rules": [
                             "721895"
                         ],
+                        "access_rules": [
+                            "kitchen,coleslawrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3121,6 +3577,9 @@
                         ],
                         "visibility_rules": [
                             "721896"
+                        ],
+                        "access_rules": [
+                            "kitchen,fiddleheadrisottorecipe"
                         ],
                         "map_locations": [
                             {
@@ -3145,6 +3604,9 @@
                         "visibility_rules": [
                             "721897"
                         ],
+                        "access_rules": [
+                            "kitchen,poppyseedmuffinrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3167,6 +3629,9 @@
                         ],
                         "visibility_rules": [
                             "721898"
+                        ],
+                        "access_rules": [
+                            "kitchen,chowderrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3191,6 +3656,9 @@
                         "visibility_rules": [
                             "721899"
                         ],
+                        "access_rules": [
+                            "kitchen,lobsterbisquerecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3213,6 +3681,9 @@
                         ],
                         "visibility_rules": [
                             "721900"
+                        ],
+                        "access_rules": [
+                            "kitchen,fishstewrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3237,6 +3708,9 @@
                         "visibility_rules": [
                             "721901"
                         ],
+                        "access_rules": [
+                            "kitchen,escargotrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3259,6 +3733,9 @@
                         ],
                         "visibility_rules": [
                             "721902"
+                        ],
+                        "access_rules": [
+                            "kitchen,maplebarrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3283,6 +3760,9 @@
                         "visibility_rules": [
                             "721903"
                         ],
+                        "access_rules": [
+                            "kitchen,crabcakesrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3305,6 +3785,9 @@
                         ],
                         "visibility_rules": [
                             "721904"
+                        ],
+                        "access_rules": [
+                            "kitchen,shrimpcocktailrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3329,6 +3812,9 @@
                         "visibility_rules": [
                             "721905"
                         ],
+                        "access_rules": [
+                            "combat:6"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3352,6 +3838,9 @@
                         "visibility_rules": [
                             "721906"
                         ],
+                        "access_rules": [
+                            "combat:2"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3374,6 +3863,9 @@
                         ],
                         "visibility_rules": [
                             "721907"
+                        ],
+                        "access_rules": [
+                            "kitchen,seafoampuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3421,6 +3913,9 @@
                         "visibility_rules": [
                             "721909"
                         ],
+                        "access_rules": [
+                            "kitchen,gingeralerecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3443,6 +3938,9 @@
                         ],
                         "visibility_rules": [
                             "721910"
+                        ],
+                        "access_rules": [
+                            "kitchen,bananapuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3467,6 +3965,9 @@
                         "visibility_rules": [
                             "721911"
                         ],
+                        "access_rules": [
+                            "kitchen,mangostickyricerecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3489,6 +3990,9 @@
                         ],
                         "visibility_rules": [
                             "721912"
+                        ],
+                        "access_rules": [
+                            "kitchen,poirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3513,6 +4017,9 @@
                         "visibility_rules": [
                             "721913"
                         ],
+                        "access_rules": [
+                            "kitchen,tropicalcurryrecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3535,6 +4042,9 @@
                         ],
                         "visibility_rules": [
                             "721914"
+                        ],
+                        "access_rules": [
+                            "kitchen,squidinkraviolirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3559,6 +4069,9 @@
                         "visibility_rules": [
                             "721915"
                         ],
+                        "access_rules": [
+                            "kitchen,mosssouprecipe"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Cooksanity",
@@ -3571,6 +4084,9 @@
             },
             {
                 "name": "Egg",
+                "access_rules": [
+                    "chicken"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -3600,6 +4116,9 @@
                         "visibility_rules": [
                             "719403"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3612,6 +4131,9 @@
             },
             {
                 "name": "Large Egg",
+                "access_rules": [
+                    "chicken"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -3641,6 +4163,9 @@
                         "visibility_rules": [
                             "719407"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3653,6 +4178,9 @@
             },
             {
                 "name": "Egg (Brown)",
+                "access_rules": [
+                    "chicken"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -3682,6 +4210,9 @@
                         "visibility_rules": [
                             "719404"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3694,6 +4225,9 @@
             },
             {
                 "name": "Large Egg (Brown)",
+                "access_rules": [
+                    "chicken"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -3723,6 +4257,9 @@
                         "visibility_rules": [
                             "719408"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3735,6 +4272,9 @@
             },
             {
                 "name": "Milk",
+                "access_rules": [
+                    "cow"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -3764,6 +4304,9 @@
                         "visibility_rules": [
                             "719410"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3776,6 +4319,9 @@
             },
             {
                 "name": "Large Milk",
+                "access_rules": [
+                    "cow"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -3805,6 +4351,9 @@
                         "visibility_rules": [
                             "719409"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3817,6 +4366,10 @@
             },
             {
                 "name": "Pale Ale",
+                "access_rules": [
+                    "summer,hops,keg",
+                    "$season_free_harvest,hops,keg"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -3846,6 +4399,9 @@
                         "visibility_rules": [
                             "719466"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3858,6 +4414,9 @@
             },
             {
                 "name": "Mayonnaise",
+                "access_rules": [
+                    "chicken,mayonnaisemachine"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -3887,6 +4446,9 @@
                         "visibility_rules": [
                             "719463"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3899,6 +4461,9 @@
             },
             {
                 "name": "Duck Mayonnaise",
+                "access_rules": [
+                    "duck,mayonnaisemachine"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -3928,6 +4493,9 @@
                         "visibility_rules": [
                             "719456"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3940,6 +4508,11 @@
             },
             {
                 "name": "Beer",
+                "access_rules": [
+                    "summer,wheat,keg",
+                    "$season_free_harvest,wheat,keg",
+                    "fall,wheat,keg"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -3969,6 +4542,9 @@
                         "visibility_rules": [
                             "719450"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -3981,6 +4557,10 @@
             },
             {
                 "name": "Wine",
+                "access_rules": [
+                    "$not_winter,keg",
+                    "fruits,keg"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4010,6 +4590,9 @@
                         "visibility_rules": [
                             "719471"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4022,6 +4605,9 @@
             },
             {
                 "name": "Juice",
+                "access_rules": [
+                    "preservesjar"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4050,6 +4636,9 @@
                         ],
                         "visibility_rules": [
                             "719461"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -4092,6 +4681,9 @@
                         "visibility_rules": [
                             "719454"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4104,6 +4696,9 @@
             },
             {
                 "name": "Cheese",
+                "access_rules": [
+                    "cow,cheesepress"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4133,6 +4728,9 @@
                         "visibility_rules": [
                             "719452"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4145,6 +4743,9 @@
             },
             {
                 "name": "Goat Cheese",
+                "access_rules": [
+                    "goat,cheesepress"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4174,6 +4775,9 @@
                         "visibility_rules": [
                             "719457"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4186,6 +4790,9 @@
             },
             {
                 "name": "Truffle",
+                "access_rules": [
+                    "$not_winter,pig"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4215,6 +4822,9 @@
                         "visibility_rules": [
                             "719413"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4227,6 +4837,9 @@
             },
             {
                 "name": "Truffle Oil",
+                "access_rules": [
+                    "$not_winter,pig,oilmaker"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4256,6 +4869,9 @@
                         "visibility_rules": [
                             "719469"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4268,6 +4884,9 @@
             },
             {
                 "name": "Goat Milk",
+                "access_rules": [
+                    "goat"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4297,6 +4916,9 @@
                         "visibility_rules": [
                             "719405"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4309,6 +4931,9 @@
             },
             {
                 "name": "Large Goat Milk",
+                "access_rules": [
+                    "goat"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4338,6 +4963,9 @@
                         "visibility_rules": [
                             "719406"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4350,6 +4978,9 @@
             },
             {
                 "name": "Duck Egg",
+                "access_rules": [
+                    "duck"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4391,6 +5022,10 @@
             },
             {
                 "name": "Aged Roe",
+                "access_rules": [
+                    "pond,preservesjar",
+                    "rod,jewelsofthesea,preservesjar"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4420,6 +5055,9 @@
                         "visibility_rules": [
                             "719449"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4432,6 +5070,9 @@
             },
             {
                 "name": "Mead",
+                "access_rules": [
+                    "$not_winter,beehouse,keg"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4461,6 +5102,9 @@
                         "visibility_rules": [
                             "719464"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4473,6 +5117,9 @@
             },
             {
                 "name": "Green Tea",
+                "access_rules": [
+                    "$not_winter,keg"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4502,6 +5149,9 @@
                         "visibility_rules": [
                             "719458"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4514,6 +5164,10 @@
             },
             {
                 "name": "Maple Syrup",
+                "access_rules": [
+                    "tapper",
+                    "heavytapper"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4555,6 +5209,9 @@
             },
             {
                 "name": "Dinosaur Mayonnaise",
+                "access_rules": [
+                    "desert,skullkey,duck,mayonnaisemachine"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4584,6 +5241,9 @@
                         "visibility_rules": [
                             "719455"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4596,6 +5256,10 @@
             },
             {
                 "name": "Roe",
+                "access_rules": [
+                    "pond",
+                    "rod,jewelsofthesea"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4625,6 +5289,9 @@
                         "visibility_rules": [
                             "719412"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4637,6 +5304,12 @@
             },
             {
                 "name": "Caviar",
+                "access_rules": [
+                    "pond,preservesjar,summer",
+                    "pond,preservesjar,winter",
+                    "rod,jewelsofthesea,preservesjar,summer",
+                    "rod,jewelsofthesea,preservesjar,winter"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4666,6 +5339,9 @@
                         "visibility_rules": [
                             "719451"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4678,6 +5354,10 @@
             },
             {
                 "name": "Ostrich Egg",
+                "access_rules": [
+                    "island,turtlen",
+                    "island,parrots"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4706,6 +5386,9 @@
                         ],
                         "visibility_rules": [
                             "719921"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -4748,6 +5431,9 @@
                         "visibility_rules": [
                             "719920"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4760,6 +5446,10 @@
             },
             {
                 "name": "Mystic Syrup",
+                "access_rules": [
+                    "foragingmastery,tapper",
+                    "foragingmastery,heavytapper"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4789,6 +5479,9 @@
                         "visibility_rules": [
                             "720816"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4801,6 +5494,11 @@
             },
             {
                 "name": "Raisins",
+                "access_rules": [
+                    "dehydrator,grape,$seasonfree_harvest",
+                    "dehydrator,grape,fall",
+                    "dehydrator,summer"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -4830,6 +5528,9 @@
                         "visibility_rules": [
                             "720817"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4842,6 +5543,9 @@
             },
             {
                 "name": "Jelly",
+                "access_rules": [
+                    "$not_winter,preservesjar"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4871,6 +5575,9 @@
                         "visibility_rules": [
                             "719460"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4883,6 +5590,9 @@
             },
             {
                 "name": "Pickles",
+                "access_rules": [
+                    "preservesjar"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -4911,6 +5621,9 @@
                         ],
                         "visibility_rules": [
                             "719467"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -4953,6 +5666,9 @@
                         "visibility_rules": [
                             "719757"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -4993,6 +5709,9 @@
                         ],
                         "visibility_rules": [
                             "719760"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -5035,6 +5754,9 @@
                         "visibility_rules": [
                             "719762"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -5075,6 +5797,9 @@
                         ],
                         "visibility_rules": [
                             "719755"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -5117,6 +5842,9 @@
                         "visibility_rules": [
                             "719761"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -5129,6 +5857,9 @@
             },
             {
                 "name": "Smoked Fish",
+                "access_rules": [
+                    "rod,fishsmoker"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -5158,6 +5889,9 @@
                         "visibility_rules": [
                             "720832"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -5170,6 +5904,10 @@
             },
             {
                 "name": "Dried Fruit",
+                "access_rules": [
+                    "$not_winter,dehydrator",
+                    "fruits,dehydrator"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -5211,6 +5949,11 @@
             },
             {
                 "name": "Dried Mushrooms",
+                "access_rules": [
+                    "mushrooms,dehydrator",
+                    "fall,dehydrator",
+                    "spring,SteelAxe,dehydrator"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -5269,6 +6012,10 @@
                                 "x": 531,
                                 "y": 173
                             }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,fall"
                         ]
                     }
                 ]
@@ -5292,6 +6039,10 @@
                                 "x": 531,
                                 "y": 943
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -5315,6 +6066,11 @@
                                 "x": 531,
                                 "y": 668
                             }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,fall",
+                            "rod,winter"
                         ]
                     }
                 ]
@@ -5338,6 +6094,9 @@
                                 "x": 1156,
                                 "y": 118
                             }
+                        ],
+                        "access_rules": [
+                            "rod"
                         ]
                     }
                 ]
@@ -5361,6 +6120,9 @@
                                 "x": 1781,
                                 "y": 228
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod"
                         ]
                     }
                 ]
@@ -5384,6 +6146,10 @@
                                 "x": 1156,
                                 "y": 503
                             }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,fall"
                         ]
                     }
                 ]
@@ -5407,6 +6173,9 @@
                                 "x": 1156,
                                 "y": 888
                             }
+                        ],
+                        "access_rules": [
+                            "rod,summer"
                         ]
                     }
                 ]
@@ -5430,6 +6199,9 @@
                                 "x": 1156,
                                 "y": 393
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall"
                         ]
                     }
                 ]
@@ -5453,6 +6225,9 @@
                                 "x": 1156,
                                 "y": 943
                             }
+                        ],
+                        "access_rules": [
+                            "rod,fall"
                         ]
                     }
                 ]
@@ -5476,6 +6251,9 @@
                                 "x": 1156,
                                 "y": 833
                             }
+                        ],
+                        "access_rules": [
+                            "rod,winter"
                         ]
                     }
                 ]
@@ -5499,6 +6277,11 @@
                                 "x": 1781,
                                 "y": 173
                             }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,summer",
+                            "rod,fall"
                         ]
                     }
                 ]
@@ -5522,6 +6305,10 @@
                                 "x": 1156,
                                 "y": 173
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,fall"
                         ]
                     }
                 ]
@@ -5545,6 +6332,10 @@
                                 "x": 1156,
                                 "y": 338
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -5568,6 +6359,10 @@
                                 "x": 1156,
                                 "y": 558
                             }
+                        ],
+                        "access_rules": [
+                            "rod,summer",
+                            "rod,spring"
                         ]
                     }
                 ]
@@ -5591,6 +6386,10 @@
                                 "x": 531,
                                 "y": 558
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -5614,6 +6413,10 @@
                                 "x": 531,
                                 "y": 393
                             }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,winter"
                         ]
                     }
                 ]
@@ -5637,6 +6440,10 @@
                                 "x": 531,
                                 "y": 228
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,fall"
                         ]
                     }
                 ]
@@ -5660,6 +6467,10 @@
                                 "x": 531,
                                 "y": 613
                             }
+                        ],
+                        "access_rules": [
+                            "rod,summer",
+                            "rod,fall"
                         ]
                     }
                 ]
@@ -5683,12 +6494,18 @@
                                 "x": 531,
                                 "y": 778
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
             },
             {
                 "name": "Seaweed",
+                "access_rules": [
+                    "rod"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -5718,6 +6535,9 @@
                         "visibility_rules": [
                             "719853"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -5730,6 +6550,9 @@
             },
             {
                 "name": "Green Algae",
+                "access_rules": [
+                    "rod"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -5758,6 +6581,9 @@
                         ],
                         "visibility_rules": [
                             "719847"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -5788,6 +6614,11 @@
                                 "x": 531,
                                 "y": 833
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -5811,12 +6642,18 @@
                                 "x": 1781,
                                 "y": 448
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e20"
                         ]
                     }
                 ]
             },
             {
                 "name": "White Algae",
+                "access_rules": [
+                    "landslideremoved"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -5827,6 +6664,9 @@
                         ],
                         "visibility_rules": [
                             "721994"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -5845,6 +6685,9 @@
                         ],
                         "visibility_rules": [
                             "719855"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -5875,6 +6718,9 @@
                                 "x": 1781,
                                 "y": 998
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:5,summer"
                         ]
                     }
                 ]
@@ -5898,6 +6744,9 @@
                                 "x": 1781,
                                 "y": 943
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:3,fall"
                         ]
                     }
                 ]
@@ -5921,6 +6770,9 @@
                                 "x": 1781,
                                 "y": 558
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e60"
                         ]
                     }
                 ]
@@ -5944,6 +6796,9 @@
                                 "x": 1781,
                                 "y": 613
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,e100"
                         ]
                     }
                 ]
@@ -5967,6 +6822,9 @@
                                 "x": 1781,
                                 "y": 1108
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:10,spring"
                         ]
                     }
                 ]
@@ -5990,6 +6848,9 @@
                                 "x": 531,
                                 "y": 1053
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,desert"
                         ]
                     }
                 ]
@@ -6013,6 +6874,9 @@
                                 "x": 1781,
                                 "y": 1163
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,sewerkey"
                         ]
                     }
                 ]
@@ -6036,6 +6900,10 @@
                                 "x": 1781,
                                 "y": 338
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6059,6 +6927,10 @@
                                 "x": 1156,
                                 "y": 613
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6082,6 +6954,9 @@
                                 "x": 1781,
                                 "y": 118
                             }
+                        ],
+                        "access_rules": [
+                            "rod"
                         ]
                     }
                 ]
@@ -6105,6 +6980,10 @@
                                 "x": 531,
                                 "y": 888
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer",
+                            "Bamboorod,fall"
                         ]
                     }
                 ]
@@ -6128,6 +7007,9 @@
                                 "x": 1156,
                                 "y": 723
                             }
+                        ],
+                        "access_rules": [
+                            "rod"
                         ]
                     }
                 ]
@@ -6151,6 +7033,9 @@
                                 "x": 1156,
                                 "y": 228
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer"
                         ]
                     }
                 ]
@@ -6174,6 +7059,10 @@
                                 "x": 531,
                                 "y": 118
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6197,6 +7086,11 @@
                                 "x": 1156,
                                 "y": 448
                             }
+                        ],
+                        "access_rules": [
+                            "rod,spring",
+                            "rod,summer",
+                            "rod,fall"
                         ]
                     }
                 ]
@@ -6220,6 +7114,9 @@
                                 "x": 1156,
                                 "y": 778
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6243,6 +7140,11 @@
                                 "x": 531,
                                 "y": 338
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,summer",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6266,6 +7168,9 @@
                                 "x": 2406,
                                 "y": 833
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,SteelAxe"
                         ]
                     }
                 ]
@@ -6289,6 +7194,9 @@
                                 "x": 1781,
                                 "y": 1053
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:6,winter"
                         ]
                     }
                 ]
@@ -6312,6 +7220,9 @@
                                 "x": 2406,
                                 "y": 778
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,railroad,darktalisman"
                         ]
                     }
                 ]
@@ -6335,6 +7246,9 @@
                                 "x": 2406,
                                 "y": 723
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,railroad,sewerkey"
                         ]
                     }
                 ]
@@ -6358,6 +7272,9 @@
                                 "x": 1156,
                                 "y": 1108
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6381,6 +7298,9 @@
                                 "x": 1156,
                                 "y": 1163
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6404,6 +7324,9 @@
                                 "x": 1156,
                                 "y": 1053
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6427,6 +7350,10 @@
                                 "x": 531,
                                 "y": 283
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,spring",
+                            "Bamboorod,summer"
                         ]
                     }
                 ]
@@ -6450,6 +7377,10 @@
                                 "x": 1781,
                                 "y": 283
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fall",
+                            "Bamboorod,winter"
                         ]
                     }
                 ]
@@ -6473,6 +7404,9 @@
                                 "x": 1781,
                                 "y": 833
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,island,resort"
                         ]
                     }
                 ]
@@ -6496,6 +7430,10 @@
                                 "x": 1781,
                                 "y": 778
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,$can_reach_ifarm",
+                            "Bamboorod,island,resort"
                         ]
                     }
                 ]
@@ -6519,6 +7457,10 @@
                                 "x": 1781,
                                 "y": 723
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,island,turtlen",
+                            "Bamboorod,$can_reach_ifarm"
                         ]
                     }
                 ]
@@ -6542,6 +7484,9 @@
                                 "x": 2406,
                                 "y": 998
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:5,$can_reach_ifarm,walnutroom"
                         ]
                     }
                 ]
@@ -6565,6 +7510,9 @@
                                 "x": 2406,
                                 "y": 943
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:3,$can_reach_ifarm,walnutroom"
                         ]
                     }
                 ]
@@ -6588,6 +7536,9 @@
                                 "x": 2406,
                                 "y": 1108
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:10,$can_reach_ifarm,walnutroom"
                         ]
                     }
                 ]
@@ -6611,6 +7562,9 @@
                                 "x": 2406,
                                 "y": 1163
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,sewerkey,$can_reach_ifarm,walnutroom"
                         ]
                     }
                 ]
@@ -6634,12 +7588,18 @@
                                 "x": 2406,
                                 "y": 1053
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:6,$can_reach_ifarm,walnutroom"
                         ]
                     }
                 ]
             },
             {
                 "name": "Sea Jelly",
+                "access_rules": [
+                    "rod"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -6669,6 +7629,9 @@
                         "visibility_rules": [
                             "720858"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -6681,6 +7644,9 @@
             },
             {
                 "name": "Cave Jelly",
+                "access_rules": [
+                    "rod,e20"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -6710,6 +7676,9 @@
                         "visibility_rules": [
                             "720859"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -6722,6 +7691,9 @@
             },
             {
                 "name": "River Jelly",
+                "access_rules": [
+                    "rod"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -6750,6 +7722,9 @@
                         ],
                         "visibility_rules": [
                             "720860"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -6792,6 +7767,9 @@
                         "visibility_rules": [
                             "719916"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -6832,6 +7810,9 @@
                         ],
                         "visibility_rules": [
                             "719849"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -6874,6 +7855,9 @@
                         "visibility_rules": [
                             "719845"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -6915,6 +7899,9 @@
                         "visibility_rules": [
                             "719850"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -6927,6 +7914,9 @@
             },
             {
                 "name": "Pina Colada",
+                "access_rules": [
+                    "island,resort"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -6955,6 +7945,9 @@
                         ],
                         "visibility_rules": [
                             "719934"
+                        ],
+                        "access_rules": [
+                            "shipping"
                         ],
                         "map_locations": [
                             {
@@ -6991,6 +7984,9 @@
             },
             {
                 "name": "Sap",
+                "access_rules": [
+                    "Axe"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -7020,6 +8016,9 @@
                         "visibility_rules": [
                             "719758"
                         ],
+                        "access_rules": [
+                            "shipping"
+                        ],
                         "map_locations": [
                             {
                                 "map": "Eatsanity",
@@ -7032,6 +8031,9 @@
             },
             {
                 "name": "Holly",
+                "access_rules": [
+                    "winter"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -7078,6 +8080,9 @@
             },
             {
                 "name": "Void Egg",
+                "access_rules": [
+                    "sewerkey"
+                ],
                 "children": [
                     {
                         "name": "Eat it!",
@@ -7119,6 +8124,9 @@
             },
             {
                 "name": "Void Mayonnaise",
+                "access_rules": [
+                    "sewerkey,mayonnaisemachine"
+                ],
                 "children": [
                     {
                         "name": "Drink it!",
@@ -7177,6 +8185,9 @@
                                 "x": 531,
                                 "y": 503
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,summer"
                         ]
                     }
                 ]
@@ -7200,6 +8211,10 @@
                                 "x": 531,
                                 "y": 723
                             }
+                        ],
+                        "access_rules": [
+                            "rod,fall",
+                            "rod,winter"
                         ]
                     }
                 ]
@@ -7223,6 +8238,9 @@
                                 "x": 1156,
                                 "y": 283
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,fishing:4"
                         ]
                     }
                 ]
@@ -7246,6 +8264,9 @@
                                 "x": 531,
                                 "y": 1108
                             }
+                        ],
+                        "access_rules": [
+                            "Bamboorod,desert,fishing:4"
                         ]
                     }
                 ]

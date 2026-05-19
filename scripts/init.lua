@@ -56,6 +56,7 @@ Tracker:AddLayouts("layouts/tool_grid.json")
 Tracker:AddLayouts("layouts/misc.json")
 Tracker:AddLayouts("layouts/island_grid.json")
 Tracker:AddLayouts("layouts/settings.json")
+Tracker:AddLayouts("layouts/powers.json")
 --Tracker:AddLayouts("layouts/layouts.json")
 
 Tracker:AddMaps("maps/maps.json")

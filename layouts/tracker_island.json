@@ -54,6 +54,15 @@
                                 "type": "layout",
                                 "key": "misc"
                             }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Powers",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "powers"
+                            }
                         }
                     ]
                 },

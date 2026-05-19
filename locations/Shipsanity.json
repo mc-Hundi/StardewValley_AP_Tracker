@@ -3,6 +3,9 @@
         "name": "Shipsanity",
         "chest_unopened_img": "images/QuestNew.png",
         "chest_opened_img": "images/QuestDone.png",
+        "access_rules": [
+            "shipping"
+        ],
         "children": [
             {
                 "name": "Bat Wing",

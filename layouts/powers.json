@@ -1,0 +1,46 @@
+{
+    "powers": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1",
+                "rows": [
+                    [
+                        "pricecatalogue",
+                        "mappingcavesystems",
+                        "wayofthewindpt.1",
+                        "wayofthewindpt.2"
+                    ],
+                    [
+                        "monstercompendium",
+                        "friendship101",
+                        "jackbenimble_jackbethick",
+                        "woodyssecret"
+                    ],
+                    [
+                        "raccoonjournal",
+                        "jewelsofthesea",
+                        "dwarvishsafetymanual",
+                        "theartocrabbing"
+                    ],
+                    [
+                        "thealleywaybuffet",
+                        "thediamondhunter",
+                        "bookofmysteries",
+                        "horse_thebook"
+                        
+                    ],
+                    [
+                        "treasureappraisalguide",
+                        "olslitherlegs",
+                        "animalcatalogue",
+                        "progressivelostbook"
+                    ]
+                ]
+            }
+        ]
+    }
+}

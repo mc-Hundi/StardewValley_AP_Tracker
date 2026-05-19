@@ -569,3 +569,7 @@ end
 function can_reach_ifarm()
     return ((has("turtlew") and has("island")) or (has("parrots") and has("island")))
 end
+
+function not_winter()
+    return (has("spring") or has("summer") or has("fall"))
+end
