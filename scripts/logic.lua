@@ -8,6 +8,15 @@ function has(item, amount)
     end
 end
 
+function has_done(code)
+    local obj = Tracker:FindObjectForCode(code)
+    if obj.AvailableChestCount == 0 then
+        return 1
+    else
+        return 0
+    end
+end
+
 function spring()
     return has("spring")
 end
@@ -135,6 +144,10 @@ end
 
 function tmsun()
     return has("sunday")
+end
+
+function has_a_tm_day()
+    return (has("sunday") or has("monday") or has("tuesday") or has("wednesday") or has("thursday") or has("friday") or has("saturday"))
 end
 
 function quests1()
@@ -572,4 +585,21 @@ end
 
 function not_winter()
     return (has("spring") or has("summer") or has("fall"))
+end
+
+
+function finished_cc()
+    return (has_done("@Community Center/Complete Rooms/Complete Crafts Room") and has_done("@Community Center/Complete Rooms/Complete Pantry") and has_done("@Community Center/Complete Rooms/Complete Fish Tank") and has_done("@Community Center/Complete Rooms/Complete Boiler Room") and has_done("@Community Center/Complete Rooms/Complete Bulletin Board") and has_done("@Community Center/Complete Rooms/Complete Vault"))
+end
+
+function has_ink()
+    return has_done("@Quests/Magic Ink/Find the Magic Ink!")
+end
+
+function getting_started()
+    return has_done("@Quests/Getting Started/Cultivate and Harvest a Parsnip")
+end
+
+function forging_ahead()
+    return has_done("@Quests/Forging Ahead/Craft a Furnace")
 end

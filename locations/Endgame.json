@@ -1,0 +1,1067 @@
+[
+    {
+        "name": "Endgame",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Earth Obelisk Blueprint",
+                "children": [
+                    {
+                        "name": "Earth Obelisk Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722101"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_ink,$can_mine_iridium,landslideremoved"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Water Obelisk Blueprint",
+                "children": [
+                    {
+                        "name": "Water Obelisk Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722102"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_ink,$can_mine_iridium"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 126
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Desert Obelisk Blueprint",
+                "children": [
+                    {
+                        "name": "Desert Obelisk Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722103"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_ink,$can_mine_iridium,desert"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 192
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Island Obelisk Blueprint",
+                "children": [
+                    {
+                        "name": "Island Obelisk Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722104"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_ink,$can_mine_iridium,banana,island,turtlen",
+                            "$has_ink,$can_mine_iridium,banana,island,parrots"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 258
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Junimo Hut Blueprint",
+                "children": [
+                    {
+                        "name": "Junimo Hut Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722105"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_ink,$can_mine_iridium,starfruit"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 324
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Gold Clock Blueprint",
+                "children": [
+                    {
+                        "name": "Gold Clock Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722106"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_ink"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 390
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Return Scepter",
+                "children": [
+                    {
+                        "name": "Purchase Return Scepter",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722107"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "sewerkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pam House Blueprint",
+                "children": [
+                    {
+                        "name": "Pam House Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722108"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "cask,$finished_cc"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 456
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Forest To Beach Shortcut Blueprint",
+                "children": [
+                    {
+                        "name": "Forest To Beach Shortcut Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722109"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "cask,$finished_cc"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 522
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mountain Shortcuts Blueprint",
+                "children": [
+                    {
+                        "name": "Mountain Shortcuts Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722110"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "cask,$finished_cc"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 588
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Town To Tide Pools Shortcut Blueprint",
+                "children": [
+                    {
+                        "name": "Town To Tide Pools Shortcut Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722112"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "cask,$finished_cc"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 654
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tunnel To Backwoods Shortcut Blueprint",
+                "children": [
+                    {
+                        "name": "Tunnel To Backwoods Shortcut Blueprint",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722113"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "cask,$finished_cc"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 478,
+                                "y": 720
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Horse Flute",
+                "children": [
+                    {
+                        "name": "Purchase Horse Flute",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722115"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "stable,island,$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 126
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Pierres Missing Stocklist",
+                "children": [
+                    {
+                        "name": "Purchase Pierres Missing Stocklist",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722116"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 192
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Key To The Town",
+                "children": [
+                    {
+                        "name": "Purchase Key To The Town",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722117"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 258
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Mini-Shipping Bin",
+                "children": [
+                    {
+                        "name": "Purchase Mini-Shipping Bin",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722118"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 324
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Exotic Double Bed",
+                "children": [
+                    {
+                        "name": "Purchase Exotic Double Bed",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722119"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 390
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Golden Egg",
+                "children": [
+                    {
+                        "name": "Purchase Golden Egg",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722120"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "island,$can_reach_ifarm,walnutroom"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 456
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Statue Of Endless Fortune",
+                "children": [
+                    {
+                        "name": "Purchase Statue Of Endless Fortune",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722121"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "desert,clubcard"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 522
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Catalogue",
+                "children": [
+                    {
+                        "name": "Purchase Catalogue",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722122"
+                                ]
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 588
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Furniture Catalogue",
+                "children": [
+                    {
+                        "name": "Purchase Furniture Catalogue",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722123"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "kitchen"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 654
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Joja Furniture Catalogue",
+                "children": [
+                    {
+                        "name": "Purchase Joja Furniture Catalogue",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722124"
+                                ]
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1001,
+                                "y": 720
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Junimo Catalogue",
+                "children": [
+                    {
+                        "name": "Purchase Junimo Catalogue",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722125"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$finished_cc,$has_a_tm_day"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Retro Catalogue",
+                "children": [
+                    {
+                        "name": "Purchase Retro Catalogue",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722126"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 126
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Find Trash Catalogue",
+                "children": [
+                    {
+                        "name": "Find Trash Catalogue",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722127"
+                                ]
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 192
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Wizard Catalogue",
+                "children": [
+                    {
+                        "name": "Purchase Wizard Catalogue",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722128"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "sewerkey"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 258
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Spouse Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Spouse Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722129"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 324
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Abigail Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Abigail Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722130"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,abigail<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 390
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Alex Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Alex Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722131"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,alex<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 456
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Elliott Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Elliott Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722132"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,elliott<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 522
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Emily Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Emily Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722133"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,emily<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 588
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Haley Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Haley Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722134"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,haley<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 654
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Harvey Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Harvey Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722135"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,harvey<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 1524,
+                                "y": 720
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Krobus Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Krobus Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722136"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,krobus<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Leah Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Leah Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722137"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,leah<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 126
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Maru Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Maru Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722138"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,maru<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 192
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Penny Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Penny Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722139"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,penny<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 258
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Sam Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Sam Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722140"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,sam<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 324
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Sebastian Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Sebastian Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722141"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,sebastian<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 390
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Shane Portrait",
+                "children": [
+                    {
+                        "name": "Purchase Shane Portrait",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722142"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day,shane<3:14"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 456
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purchase Tea Set",
+                "children": [
+                    {
+                        "name": "Purchase Tea Set",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "722143"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "$has_a_tm_day"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Endgame",
+                                "x": 2047,
+                                "y": 522
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

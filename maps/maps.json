@@ -220,5 +220,11 @@
         "location_size": 10,
         "location_border_thickness": 3,
         "img": "images/Ginger_Island_Items.png"
+    },
+    {
+        "name": "Endgame",
+        "location_size": 10,
+        "location_border_thickness": 3,
+        "img": "images/Endgame.png"
     }
 ]

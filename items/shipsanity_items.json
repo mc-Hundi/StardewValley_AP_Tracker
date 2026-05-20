@@ -2639,6 +2639,13 @@
         "codes": "719862"
     },
     {
+        "name": "719863",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719863"
+    },
+    {
         "name": "719864",
         "type": "toggle",
         "loop": false,

@@ -21,6 +21,7 @@ Tracker:AddItems("items/movie_items.json")
 Tracker:AddItems("items/monstersanity_items.json")
 Tracker:AddItems("items/craftsanity_items.json")
 Tracker:AddItems("items/walnutsanity_items.json")
+Tracker:AddItems("items/endgame_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 
@@ -50,6 +51,7 @@ Tracker:AddLocations("locations/Eatsanity.json")
 Tracker:AddLocations("locations/Secretsanity.json")
 Tracker:AddLocations("locations/Shipsanity.json")
 Tracker:AddLocations("locations/Moviesanity.json")
+Tracker:AddLocations("locations/Endgame.json")
 
 Tracker:AddLayouts("layouts/item_grids.json")
 Tracker:AddLayouts("layouts/tool_grid.json")

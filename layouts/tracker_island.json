@@ -439,6 +439,15 @@
                                     }
                                 ]
                             }
+                        },
+                        {
+                            "title": "Endgame Locations",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Endgame"
+                                ]
+                            }
                         }
                     ]
                 }

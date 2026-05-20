@@ -177,7 +177,7 @@
                     "717505"
                 ],
                 "access_rules": [
-                    "$farming1,parsnip"
+                    "$farming1,parsnip,$getting_started"
                 ],
                 "sections": [
                     {
@@ -243,7 +243,7 @@
                     "717509"
                 ],
                 "access_rules": [
-                    "$has_furnacerecipe"
+                    "$has_furnacerecipe,$forging_ahead"
                 ],
                 "sections": [
                     {

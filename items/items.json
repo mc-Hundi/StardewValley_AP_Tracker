@@ -1510,5 +1510,291 @@
         "allow_disabled": true,
         "img": "images/powers/Lost_Book.png",
         "codes": "progressivelostbook"
+    },
+    {
+        "name": "Magic Ink",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "magicink"
+    },
+    {
+        "name": "Alex <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Alex.png",
+        "codes": "alex<3"
+    },
+    {
+        "name": "Elliott <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Elliott.png",
+        "codes": "elliott<3"
+    },
+    {
+        "name": "Harvey <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Harvey.png",
+        "codes": "harvey<3"
+    },
+    {
+        "name": "Sam <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Sam.png",
+        "codes": "sam<3"
+    },
+    {
+        "name": "Sebastian <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Sebastian.png",
+        "codes": "sebastian<3"
+    },
+    {
+        "name": "Shane <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Shane.png",
+        "codes": "shane<3"
+    },
+    {
+        "name": "Abigail <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Abigail.png",
+        "codes": "abigail<3"
+    },
+    {
+        "name": "Emily <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Emily.png",
+        "codes": "emily<3"
+    },
+    {
+        "name": "Haley <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Haley.png",
+        "codes": "haley<3"
+    },
+    {
+        "name": "Leah <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Leah.png",
+        "codes": "leah<3"
+    },
+    {
+        "name": "Maru <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Maru.png",
+        "codes": "maru<3"
+    },
+    {
+        "name": "Penny <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Penny.png",
+        "codes": "penny<3"
+    },
+    {
+        "name": "Caroline <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Caroline.png",
+        "codes": "caroline<3"
+    },
+    {
+        "name": "Clint <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Clint.png",
+        "codes": "clint<3"
+    },
+    {
+        "name": "Demetrius <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Demetrius.png",
+        "codes": "demetrius<3"
+    },
+    {
+        "name": "Dwarf <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Dwarf.png",
+        "codes": "dwarf<3"
+    },
+    {
+        "name": "Evelyn <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Evelyn.png",
+        "codes": "evelyn<3"
+    },
+    {
+        "name": "George <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/George.png",
+        "codes": "george<3"
+    },
+    {
+        "name": "Gus <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Gus.png",
+        "codes": "gus<3"
+    },
+    {
+        "name": "Jas <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Jas.png",
+        "codes": "jas<3"
+    },
+    {
+        "name": "Jodi <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Jodi.png",
+        "codes": "jodi<3"
+    },
+    {
+        "name": "Kent <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Kent.png",
+        "codes": "kent<3"
+    },
+    {
+        "name": "Krobus <3",
+        "type": "consumable",
+        "max_quantity": 14,
+        "allow_disabled": true,
+        "img": "images/People/Krobus.png",
+        "codes": "krobus<3"
+    },
+    {
+        "name": "Leo <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Leo.png",
+        "codes": "leo<3"
+    },
+    {
+        "name": "Lewis <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Lewis.png",
+        "codes": "lewis<3"
+    },
+    {
+        "name": "Linus <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Linus.png",
+        "codes": "linus<3"
+    },
+    {
+        "name": "Marnie <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Marnie.png",
+        "codes": "marnie<3"
+    },
+    {
+        "name": "Pam <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Pam.png",
+        "codes": "pam<3"
+    },
+    {
+        "name": "Pierre <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Pierre.png",
+        "codes": "pierre<3"
+    },
+    {
+        "name": "Robin <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Robin.png",
+        "codes": "robin<3"
+    },
+    {
+        "name": "Sandy <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Sandy.png",
+        "codes": "sandy<3"
+    },
+    {
+        "name": "Vincent <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Vincent.png",
+        "codes": "vincent<3"
+    },
+    {
+        "name": "Willy <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Willy.png",
+        "codes": "willy<3"
+    },
+    {
+        "name": "Wizard <3",
+        "type": "consumable",
+        "max_quantity": 10,
+        "allow_disabled": true,
+        "img": "images/People/Wizard.png",
+        "codes": "wizard<3"
+    },
+    {
+        "name": "Pet <3",
+        "type": "consumable",
+        "max_quantity": 5,
+        "allow_disabled": true,
+        "img": "images/People/Pet.png",
+        "codes": "pet<3"
     }
 ]   
