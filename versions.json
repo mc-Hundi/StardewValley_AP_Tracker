@@ -1,6 +1,16 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.5",
+			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.5/stardew_valley_ap_tracker.zip",
+			"sha256": "4f15176f848ca62ea1fec6d4a64d08808b9b3af52f1366e68c3284b0d7c0eada",
+			"changelog": [
+				"added Endgamelocations with access_rules",
+				"added function to check if a location is checked and use it for access_rules",
+				"updated some logic rules"
+			]
+		},
+		{
 			"package_version": "1.7.4",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.4/stardew_valley_ap_tracker.zip",
 			"sha256": "951783949da017a169e357b513b7db281f1f55ec4fffcc32370cc739fc349f74",
