@@ -7,8 +7,29 @@
     "author": "Trey Spyre, updated by LuckwurstJoe with help from the poptracker community and updated by mcHundi",
     "versions_url": "https://raw.githubusercontent.com/mc-Hundi/StardewValley_AP_Tracker/refs/heads/main/versions.json",
     "variants": {
-        "itemrando": {
+        "tracker": {
             "display_name": "Archipelago Randomizer",
+            "flags": [
+                "ap",
+                "aphintgame"
+            ]
+        },
+        "tracker_ginger": {
+            "display_name": "Archipelago Randomizer (Ginger Island)",
+            "flags": [
+                "ap",
+                "aphintgame"
+            ]
+        },
+        "tracker_friends": {
+            "display_name": "Archipelago Randomizer (Friendsanity)",
+            "flags": [
+                "ap",
+                "aphintgame"
+            ]
+        },
+        "tracker_ginger_friends": {
+            "display_name": "Archipelago Randomizer (Ginger Island + Friendsanity)",
             "flags": [
                 "ap",
                 "aphintgame"
