@@ -1,0 +1,23 @@
+{
+    "bachelorettes": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1",
+                "rows": [
+                    [
+                        "abigail<3",
+                        "emily<3",
+                        "haley<3",
+                        "leah<3",
+                        "maru<3",
+                        "penny<3"
+                    ]
+                ]
+            }
+        ]
+    }
+}

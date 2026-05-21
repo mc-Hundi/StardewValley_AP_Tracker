@@ -1,0 +1,51 @@
+
+Tracker:AddLayouts("layouts/broadcast.json")
+Tracker:AddLayouts("layouts/settings/settings_popup.json")
+Tracker:AddLayouts("layouts/settings/tracker_slot_data.json")
+Tracker:AddLayouts("layouts/settings/tracker_settings.json")
+
+if Tracker.ActiveVariantUID == 'tracker' then
+	Tracker:AddLayouts("layouts/seeds.json")
+	Tracker:AddLayouts("layouts/item_grids.json")
+	Tracker:AddLayouts("layouts/tool_grid.json")
+	Tracker:AddLayouts("layouts/misc.json")
+	Tracker:AddLayouts("layouts/settings.json")
+	Tracker:AddLayouts("layouts/powers.json")
+	Tracker:AddLayouts("layouts/tracker.json")
+
+elseif Tracker.ActiveVariantUID == 'tracker_ginger' then
+	Tracker:AddLayouts("layouts/seeds.json")
+	Tracker:AddLayouts("layouts/item_grids.json")
+	Tracker:AddLayouts("layouts/tool_grid.json")
+	Tracker:AddLayouts("layouts/misc.json")
+	Tracker:AddLayouts("layouts/island_grid.json")
+	Tracker:AddLayouts("layouts/settings.json")
+	Tracker:AddLayouts("layouts/powers.json")
+	Tracker:AddLayouts("layouts/tracker_island.json")
+
+elseif Tracker.ActiveVariantUID == 'tracker_friends' then
+	Tracker:AddLayouts("layouts/seeds.json")
+	Tracker:AddLayouts("layouts/item_grids.json")
+	Tracker:AddLayouts("layouts/tool_grid.json")
+	Tracker:AddLayouts("layouts/misc.json")
+	Tracker:AddLayouts("layouts/settings.json")
+	Tracker:AddLayouts("layouts/powers.json")
+	Tracker:AddLayouts("layouts/bachelors.json")
+	Tracker:AddLayouts("layouts/bachelorettes.json")
+	Tracker:AddLayouts("layouts/villagers.json")
+	Tracker:AddLayouts("layouts/tracker_friends.json")
+
+
+elseif Tracker.ActiveVariantUID == 'tracker_ginger_friends' then
+	Tracker:AddLayouts("layouts/seeds.json")
+	Tracker:AddLayouts("layouts/item_grids.json")
+	Tracker:AddLayouts("layouts/tool_grid.json")
+	Tracker:AddLayouts("layouts/misc.json")
+	Tracker:AddLayouts("layouts/island_grid.json")
+	Tracker:AddLayouts("layouts/settings.json")
+	Tracker:AddLayouts("layouts/powers.json")
+	Tracker:AddLayouts("layouts/bachelors.json")
+	Tracker:AddLayouts("layouts/bachelorettes.json")
+	Tracker:AddLayouts("layouts/villagers.json")
+	Tracker:AddLayouts("layouts/tracker_island_friends.json")
+end

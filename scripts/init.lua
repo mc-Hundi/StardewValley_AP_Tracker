@@ -53,24 +53,14 @@ Tracker:AddLocations("locations/Shipsanity.json")
 Tracker:AddLocations("locations/Moviesanity.json")
 Tracker:AddLocations("locations/Endgame.json")
 
-Tracker:AddLayouts("layouts/item_grids.json")
-Tracker:AddLayouts("layouts/tool_grid.json")
-Tracker:AddLayouts("layouts/misc.json")
-Tracker:AddLayouts("layouts/island_grid.json")
-Tracker:AddLayouts("layouts/settings.json")
-Tracker:AddLayouts("layouts/powers.json")
---Tracker:AddLayouts("layouts/layouts.json")
+
+require("scripts/layout_manager")
 
 Tracker:AddMaps("maps/maps.json")
 
---Tracker:AddLayouts("layouts/tracker_island.json")
---Tracker:AddLayouts("layouts/tracker.json")
-Tracker:AddLayouts("layouts/seeds.json")
---Tracker:AddLayouts("layouts/broadcast.json")
-
 ScriptHost:LoadScript("scripts/watches.lua")
 
-updateIslandTracking()
+require("scripts/layout_manager")
 
 if PopVersion and PopVersion >= "0.18.0" then
   ScriptHost:LoadScript("scripts/autotracking.lua")

@@ -1,0 +1,433 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#212121",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Bachelors <3",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "bachelors"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Bachelorettes <3",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "bachelorettes"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Villagers <3",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "villagers"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Special Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "item_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Tools and Buildings",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "tool_grid"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Seasons and Seeds",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "Seeds"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Misc.",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "misc"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Powers",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "powers"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Stardew Valley",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Stardew Valley"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Community Center",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Community Center"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Quests and Activities",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Arcade Machines",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Arcades"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Festivals",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Town Festivals",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Town Festivals"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Desert Festival",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Desert Festival"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Fishing Festivals",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Fishing Festivals"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Night Market",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Night Market"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Help Wanted!",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Help Wanted!"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Mail Quests",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Quests"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Special Orders",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Boards"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sanities",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                                    {
+                                        "title": "Booksanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Booksanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Chefsanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Cooksanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Crafting",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Crafting 1",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Craft1"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Crafting 2",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Craft2"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Crops & Foraged Items",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Crops and Foraged Items"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Eatsanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Eatsanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Fishes",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Fishes"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Friends",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Friends"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Hatsanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Hatsanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Monster",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Monstersanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Moviesanity",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Moviesanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Museum",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Artifacts & Minerals",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Museum_Donations"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Milestones",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Museum_Milestones"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Secrets",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Secretsanity"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Shipsanity",
+                                        "content": {
+                                            "type": "tabbed",
+                                            "tabs": [
+                                                {
+                                                    "title": "Material",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Material"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Seed & Trees",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Seeds_Trees"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Special Items",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Special_Items"
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Ginger Island Items",
+                                                    "content": {
+                                                        "type": "map",
+                                                        "maps": [
+                                                            "Ginger_Island_Items"
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Skills and Masteries",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Skills And Masteries"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Endgame Locations",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Endgame"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "tracker_broadcast": {
+        "type": "group",
+        "dock": "left",
+        "content": [
+            {
+                "type": "layout",
+                "key": "item_grid"
+            },
+            {
+                "type": "layout",
+                "key": "tool_grid"
+            }
+        ]
+    }
+}

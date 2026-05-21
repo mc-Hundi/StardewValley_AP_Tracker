@@ -1,0 +1,23 @@
+{
+    "bachelors": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1",
+                "rows": [
+                    [
+                        "alex<3",
+                        "elliott<3",
+                        "harvey<3",
+                        "sam<3",
+                        "sebastian<3",
+                        "shane<3"
+                    ]
+                ]
+            }
+        ]
+    }
+}

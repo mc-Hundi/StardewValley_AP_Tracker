@@ -469,10 +469,6 @@
             {
                 "type": "layout",
                 "key": "island_grid"
-            },
-            {
-                "type": "layout",
-                "key": "misc"
             }
         ]
     }

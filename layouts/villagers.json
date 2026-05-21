@@ -1,0 +1,39 @@
+{
+    "villagers": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "left",
+                "item_margin": "1",
+                "rows": [
+                    [
+                        "caroline<3",
+                        "clint<3",
+                        "demetrius<3",
+                        "dwarf<3",
+                        "george<3",
+                        "gus<3",
+                        "jas<3",
+                        "jodi<3",
+                        "kent<3",
+                        "krobus<3",
+                        "leo<3",
+                        "lewis<3",
+                        "linus<3",
+                        "marnie<3",
+                        "pam<3",
+                        "pierre<3",
+                        "robin<3",
+                        "sandy<3",
+                        "vincent<3",
+                        "willy<3",
+                        "wizard<3",
+                        "pet<3"
+                    ]
+                ]
+            }
+        ]
+    }
+}
