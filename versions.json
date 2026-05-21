@@ -1,6 +1,15 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.7",
+			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.7/stardew_valley_ap_tracker.zip",
+			"sha256": "a6661ba65fcf54755f5a8a54b75a5b254fd9d871113f0f8f69f4f8f2adef7b9e",
+			"changelog": [
+				"fixed logic for some Ginger Island items",
+				"added pictures for different settings"
+			]
+		},
+		{
 			"package_version": "1.7.6",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.6/stardew_valley_ap_tracker.zip",
 			"sha256": "65f01a10a3a88d2364d47c896f9927a45a146b23272501b5541ab14cd9446c0c",
