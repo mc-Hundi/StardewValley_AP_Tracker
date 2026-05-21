@@ -2018,7 +2018,7 @@
                     "island_tracking_on"
                 ],
                 "access_rules": [
-                    "island,turtlew"
+                    "island,turtlen"
                 ],
                 "sections": [
                     {
@@ -2040,7 +2040,7 @@
                     "island_tracking_on"
                 ],
                 "access_rules": [
-                    "island,$can_reach_ifarm,ifarm"
+                    "island,$can_reach_ifarm"
                 ],
                 "sections": [
                     {
@@ -2084,7 +2084,7 @@
                     "island_tracking_on"
                 ],
                 "access_rules": [
-                    "island,$can_reach_ifarm,parrots,imail"
+                    "island,$can_reach_ifarm,imail"
                 ],
                 "sections": [
                     {
@@ -2112,8 +2112,8 @@
                     }
                 ],
                 "access_rules": [
-                    "island,turtlen,imail,turtlew",
-                    "island,parrots,imail,"
+                    "island,turtlen,turtlew",
+                    "island,parrots,turtlew"
                 ],
                 "map_locations": [
                     {
@@ -2152,8 +2152,8 @@
                     "island_tracking_on"
                 ],
                 "access_rules": [
-                    "island,turtlen",
-                    "island,parrots"
+                    "island,turtlen,turtlew",
+                    "island,parrots,turtlew"
                 ],
                 "sections": [
                     {
@@ -2198,8 +2198,8 @@
                     "island_tracking_on"
                 ],
                 "access_rules": [
-                    "island,turtlen",
-                    "island,parrots"
+                    "island,turtlen,turtlew",
+                    "island,parrots,turtlew"
                 ],
                 "sections": [
                     {
@@ -2243,7 +2243,7 @@
                     "island_tracking_on"
                 ],
                 "access_rules": [
-                    "island,parrots"
+                    "island,$can_reach_ifarm"
                 ],
                 "sections": [
                     {

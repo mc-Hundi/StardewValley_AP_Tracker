@@ -181,7 +181,8 @@
                     "721111"
                 ],
                 "access_rules": [
-                    ""
+                    "island,parrots",
+                    "island,turtlen,turtlew"
                 ],
                 "map_locations": [
                     {
@@ -405,7 +406,7 @@
                     "721127"
                 ],
                 "access_rules": [
-                    "$can_reach_ifarm"
+                    "$can_reach_ifarm,IridiumCan"
                 ],
                 "map_locations": [
                     {

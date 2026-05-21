@@ -163,14 +163,9 @@
                 "codes": "special_order_locations, board_on"
             },
             {
-                "img": "images/settings/BoardQi.png",
+                "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_qi"
-            },
-            {
-                "img": "images/settings/Board.png",
-                "inherit_codes": false,
-                "codes": "special_order_locations, board_on"
+                "codes": "special_order_locations"
             },
             {
                 "img": "images/settings/BoardQi.png",
@@ -178,34 +173,44 @@
                 "codes": "special_order_locations, board_qi"
             },
             {
-                "img": "images/settings/Board.png",
+                "img": "images/settings/Vanilla_Short.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_on"
+                "codes": "special_order_locations, board_vanilla_short"
             },
             {
-                "img": "images/settings/BoardQi.png",
+                "img": "images/settings/Board_Short.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_qi"
+                "codes": "special_order_locations, board_short"
             },
             {
-                "img": "images/settings/Board.png",
+                "img": "images/settings/Off.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_on"
+                "codes": "special_order_locations"
             },
             {
-                "img": "images/settings/BoardQi.png",
+                "img": "images/settings/Board_Qi_Short.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_qi"
+                "codes": "special_order_locations, board_qi_short"
             },
             {
-                "img": "images/settings/Board.png",
+                "img": "images/settings/Vanilla_Very_Short.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_on"
+                "codes": "special_order_locations, board_vanilla_very_short"
             },
             {
-                "img": "images/settings/BoardQi.png",
+                "img": "images/settings/Board_Very_Short.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_qi"
+                "codes": "special_order_locations, board_very_short"
+            },
+            {
+                "img": "images/settings/Off.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations"
+            },
+            {
+                "img": "images/settings/Board_Qi_Very_Short.png",
+                "inherit_codes": false,
+                "codes": "special_order_locations, board_qi_very_short"
             }
         ]
     },
@@ -218,32 +223,32 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/settings/Off.png",
+                "img": "images/settings/Vanilla.png",
                 "inherit_codes": false,
                 "codes": "tool_progression"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Progressive.png",
                 "inherit_codes": false,
                 "codes": "tool_progression,tshuffle"
             },
             {
-                "img": "images/settings/Off.png",
+                "img": "images/settings/Vanilla_Cheap.png",
                 "inherit_codes": false,
                 "codes": "tool_progression"
             },
             {
-                "img": "images/settings/Off.png",
+                "img": "images/settings/Vanilla_Very_Cheap.png",
                 "inherit_codes": false,
                 "codes": "tool_progression"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Progressive_Cheap.png",
                 "inherit_codes": false,
                 "codes": "tool_progression,tshuffle"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Progressive_Very_Cheap.png",
                 "inherit_codes": false,
                 "codes": "tool_progression,tshuffle"
             }
@@ -258,32 +263,32 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/settings/Off.png",
+                "img": "images/settings/Vanilla.png",
                 "inherit_codes": false,
                 "codes": "building_progression"
             },
             {
-                "img": "images/settings/Off.png",
+                "img": "images/settings/Vanilla_Cheap.png",
                 "inherit_codes": false,
                 "codes": "building_progression"
             },
             {
-                "img": "images/settings/Off.png",
+                "img": "images/settings/Vanilla_Very_Cheap.png",
                 "inherit_codes": false,
                 "codes": "building_progression"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Progressive.png",
                 "inherit_codes": false,
                 "codes": "building_progression,bshuffle"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Progressive_Cheap.png",
                 "inherit_codes": false,
                 "codes": "building_progression,bshuffle"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Progressive_Very_Cheap.png",
                 "inherit_codes": false,
                 "codes": "building_progression,bshuffle"
             }
@@ -298,7 +303,7 @@
         "initial_stage_idx": 0,
         "stages": [
             {
-                "img": "images/settings/Off.png",
+                "img": "images/settings/Vanilla.png",
                 "inherit_codes": false,
                 "codes": "elevator_progression"
             },
@@ -486,7 +491,7 @@
                 "codes": "museumsanity, museum_rando"
             },
             {
-                "img": "images/settings/Donations.png",
+                "img": "images/settings/All.png",
                 "inherit_codes": false,
                 "codes": "museumsanity, museum_all"
             }
@@ -506,37 +511,37 @@
                 "codes": "fishsanity, fishsanity_off"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Legendaries.png",
                 "inherit_codes": false,
                 "codes": "fishsanity, fishsanity_legend"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Special.png",
                 "inherit_codes": false,
-                "codes": "fishsanity, fishsanity_spezial"
+                "codes": "fishsanity, fishsanity_special"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Random.png",
                 "inherit_codes": false,
                 "codes": "fishsanity, fishsanity_rando"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/All.png",
                 "inherit_codes": false,
                 "codes": "fishsanity, fishsanity_all"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/No_Legendaries.png",
                 "inherit_codes": false,
                 "codes": "fishsanity, fishsanity_no_leg"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/No_Hard.png",
                 "inherit_codes": false,
                 "codes": "fishsanity, fishsanity_no_hard"
             },
             {
-                "img": "images/settings/On.png",
+                "img": "images/settings/Only_Easy.png",
                 "inherit_codes": false,
                 "codes": "fishsanity, fishsanity_only_easy"
             }
