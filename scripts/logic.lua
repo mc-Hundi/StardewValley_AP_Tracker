@@ -603,3 +603,7 @@ end
 function forging_ahead()
     return has_done("@Quests/Forging Ahead/Craft a Furnace")
 end
+
+function goblin_problem()
+    return has_done("@Quests/Goblin Problem/Give the Goblin what he wants!")
+end

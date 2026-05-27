@@ -3424,6 +3424,12 @@
             },
             {
                 "name": "Tea Leaves",
+                "access_rules": [
+                    "spring,carlone<3:2",
+                    "$season_free_harvest,carlone<3:2",
+                    "summer,carlone<3:2",
+                    "fall,caroline<3:2"
+                ],  
                 "children": [
                     {
                         "name": "Harvested",
@@ -3431,12 +3437,6 @@
                             {
                                 "item_count": 1
                             }
-                        ],
-                        "access_rules": [
-                            "spring",
-                            "$season_free_harvest",
-                            "summer",
-                            "fall"
                         ],
                         "visibility_rules": [
                             "cropsanity_on"
@@ -3457,10 +3457,7 @@
                             }
                         ],
                         "access_rules": [
-                            "spring,shipping",
-                            "$season_free_harvest,shipping",
-                            "summer,shipping",
-                            "fall,shipping"
+                            "shipping"
                         ],
                         "visibility_rules": [
                             "719649",

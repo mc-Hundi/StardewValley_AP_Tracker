@@ -1523,7 +1523,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Alex.png",
-        "codes": "alex<3"
+        "codes": "alex<3,levels"
     },
     {
         "name": "Elliott <3",
@@ -1531,7 +1531,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Elliott.png",
-        "codes": "elliott<3"
+        "codes": "elliott<3,levels"
     },
     {
         "name": "Harvey <3",
@@ -1539,7 +1539,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Harvey.png",
-        "codes": "harvey<3"
+        "codes": "harvey<3,levels"
     },
     {
         "name": "Sam <3",
@@ -1547,7 +1547,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Sam.png",
-        "codes": "sam<3"
+        "codes": "sam<3,levels"
     },
     {
         "name": "Sebastian <3",
@@ -1555,7 +1555,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Sebastian.png",
-        "codes": "sebastian<3"
+        "codes": "sebastian<3,levels"
     },
     {
         "name": "Shane <3",
@@ -1563,7 +1563,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Shane.png",
-        "codes": "shane<3"
+        "codes": "shane<3,levels"
     },
     {
         "name": "Abigail <3",
@@ -1571,7 +1571,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Abigail.png",
-        "codes": "abigail<3"
+        "codes": "abigail<3,levels"
     },
     {
         "name": "Emily <3",
@@ -1579,7 +1579,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Emily.png",
-        "codes": "emily<3"
+        "codes": "emily<3,levels"
     },
     {
         "name": "Haley <3",
@@ -1587,7 +1587,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Haley.png",
-        "codes": "haley<3"
+        "codes": "haley<3,levels"
     },
     {
         "name": "Leah <3",
@@ -1595,7 +1595,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Leah.png",
-        "codes": "leah<3"
+        "codes": "leah<3,levels"
     },
     {
         "name": "Maru <3",
@@ -1603,7 +1603,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Maru.png",
-        "codes": "maru<3"
+        "codes": "maru<3,levels"
     },
     {
         "name": "Penny <3",
@@ -1611,7 +1611,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Penny.png",
-        "codes": "penny<3"
+        "codes": "penny<3,levels"
     },
     {
         "name": "Caroline <3",
@@ -1619,7 +1619,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Caroline.png",
-        "codes": "caroline<3"
+        "codes": "caroline<3,levels"
     },
     {
         "name": "Clint <3",
@@ -1627,7 +1627,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Clint.png",
-        "codes": "clint<3"
+        "codes": "clint<3,levels"
     },
     {
         "name": "Demetrius <3",
@@ -1635,7 +1635,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Demetrius.png",
-        "codes": "demetrius<3"
+        "codes": "demetrius<3,levels"
     },
     {
         "name": "Dwarf <3",
@@ -1643,7 +1643,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Dwarf.png",
-        "codes": "dwarf<3"
+        "codes": "dwarf<3,levels"
     },
     {
         "name": "Evelyn <3",
@@ -1651,7 +1651,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Evelyn.png",
-        "codes": "evelyn<3"
+        "codes": "evelyn<3,levels"
     },
     {
         "name": "George <3",
@@ -1659,7 +1659,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/George.png",
-        "codes": "george<3"
+        "codes": "george<3,levels"
     },
     {
         "name": "Gus <3",
@@ -1667,7 +1667,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Gus.png",
-        "codes": "gus<3"
+        "codes": "gus<3,levels"
     },
     {
         "name": "Jas <3",
@@ -1675,7 +1675,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Jas.png",
-        "codes": "jas<3"
+        "codes": "jas<3,levels"
     },
     {
         "name": "Jodi <3",
@@ -1683,7 +1683,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Jodi.png",
-        "codes": "jodi<3"
+        "codes": "jodi<3,levels"
     },
     {
         "name": "Kent <3",
@@ -1691,7 +1691,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Kent.png",
-        "codes": "kent<3"
+        "codes": "kent<3,levels"
     },
     {
         "name": "Krobus <3",
@@ -1699,7 +1699,7 @@
         "max_quantity": 14,
         "allow_disabled": true,
         "img": "images/People/Krobus.png",
-        "codes": "krobus<3"
+        "codes": "krobus<3,levels"
     },
     {
         "name": "Leo <3",
@@ -1707,7 +1707,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Leo.png",
-        "codes": "leo<3"
+        "codes": "leo<3,levels"
     },
     {
         "name": "Lewis <3",
@@ -1715,7 +1715,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Lewis.png",
-        "codes": "lewis<3"
+        "codes": "lewis<3,levels"
     },
     {
         "name": "Linus <3",
@@ -1723,7 +1723,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Linus.png",
-        "codes": "linus<3"
+        "codes": "linus<3,levels"
     },
     {
         "name": "Marnie <3",
@@ -1731,7 +1731,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Marnie.png",
-        "codes": "marnie<3"
+        "codes": "marnie<3,levels"
     },
     {
         "name": "Pam <3",
@@ -1739,7 +1739,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Pam.png",
-        "codes": "pam<3"
+        "codes": "pam<3,levels"
     },
     {
         "name": "Pierre <3",
@@ -1747,7 +1747,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Pierre.png",
-        "codes": "pierre<3"
+        "codes": "pierre<3,levels"
     },
     {
         "name": "Robin <3",
@@ -1755,7 +1755,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Robin.png",
-        "codes": "robin<3"
+        "codes": "robin<3,levels"
     },
     {
         "name": "Sandy <3",
@@ -1763,7 +1763,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Sandy.png",
-        "codes": "sandy<3"
+        "codes": "sandy<3,levels"
     },
     {
         "name": "Vincent <3",
@@ -1771,7 +1771,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Vincent.png",
-        "codes": "vincent<3"
+        "codes": "vincent<3,levels"
     },
     {
         "name": "Willy <3",
@@ -1779,7 +1779,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Willy.png",
-        "codes": "willy<3"
+        "codes": "willy<3,levels"
     },
     {
         "name": "Wizard <3",
@@ -1787,7 +1787,7 @@
         "max_quantity": 10,
         "allow_disabled": true,
         "img": "images/People/Wizard.png",
-        "codes": "wizard<3"
+        "codes": "wizard<3,levels"
     },
     {
         "name": "Pet <3",
@@ -1795,6 +1795,12 @@
         "max_quantity": 5,
         "allow_disabled": true,
         "img": "images/People/Pet.png",
-        "codes": "pet<3"
+        "codes": "pet<3,levels"
+    },
+    {
+        "name": "Slime Incubator",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "slimeincubator"
     }
 ]   
