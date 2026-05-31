@@ -2419,8 +2419,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Bamboorod,$can_reach_ifarm",
-                            "Bamboorod,island,resort"
+                            "Bamboorod,island"
                         ],
                         "visibility_rules": [
                             "718023",
@@ -2442,8 +2441,7 @@
                             }
                         ],
                         "access_rules": [
-                            "Bamboorod,$can_reach_ifarm,shipping",
-                            "Bamboorod,island,resort,shipping"
+                            "Bamboorod,island,shipping"
                         ],
                         "visibility_rules": [
                             "719950",

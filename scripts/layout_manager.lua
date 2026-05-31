@@ -1,8 +1,8 @@
 
-Tracker:AddLayouts("layouts/broadcast.json")
-Tracker:AddLayouts("layouts/settings/settings_popup.json")
-Tracker:AddLayouts("layouts/settings/tracker_slot_data.json")
-Tracker:AddLayouts("layouts/settings/tracker_settings.json")
+-- Tracker:AddLayouts("layouts/broadcast.json")
+-- Tracker:AddLayouts("layouts/settings/settings_popup.json")
+-- Tracker:AddLayouts("layouts/settings/tracker_slot_data.json")
+-- Tracker:AddLayouts("layouts/settings/tracker_settings.json")
 
 if Tracker.ActiveVariantUID == 'tracker' then
 	Tracker:AddLayouts("layouts/seeds.json")
@@ -12,6 +12,10 @@ if Tracker.ActiveVariantUID == 'tracker' then
 	Tracker:AddLayouts("layouts/settings.json")
 	Tracker:AddLayouts("layouts/powers.json")
 	Tracker:AddLayouts("layouts/tracker.json")
+	Tracker:AddLocations("locations/Cooksanity.json")
+	Tracker:AddLocations("locations/Cropsanity.json")
+	Tracker:AddLocations("locations/Craft1.json")
+	Tracker:AddLocations("locations/Craft2.json")
 
 elseif Tracker.ActiveVariantUID == 'tracker_ginger' then
 	Tracker:AddLayouts("layouts/seeds.json")
@@ -22,6 +26,10 @@ elseif Tracker.ActiveVariantUID == 'tracker_ginger' then
 	Tracker:AddLayouts("layouts/settings.json")
 	Tracker:AddLayouts("layouts/powers.json")
 	Tracker:AddLayouts("layouts/tracker_island.json")
+	Tracker:AddLocations("locations/Cooksanity.json")
+	Tracker:AddLocations("locations/Cropsanity.json")
+	Tracker:AddLocations("locations/Craft1.json")
+	Tracker:AddLocations("locations/Craft2.json")
 
 elseif Tracker.ActiveVariantUID == 'tracker_friends' then
 	Tracker:AddLayouts("layouts/seeds.json")
@@ -34,6 +42,10 @@ elseif Tracker.ActiveVariantUID == 'tracker_friends' then
 	Tracker:AddLayouts("layouts/bachelorettes.json")
 	Tracker:AddLayouts("layouts/villagers.json")
 	Tracker:AddLayouts("layouts/tracker_friends.json")
+	Tracker:AddLocations("locations/Cooksanity_friends.json")
+	Tracker:AddLocations("locations/Cropsanity_friends.json")
+	Tracker:AddLocations("locations/Craft1_friends.json")
+	Tracker:AddLocations("locations/Craft2_friends.json")
 
 
 elseif Tracker.ActiveVariantUID == 'tracker_ginger_friends' then
@@ -48,4 +60,8 @@ elseif Tracker.ActiveVariantUID == 'tracker_ginger_friends' then
 	Tracker:AddLayouts("layouts/bachelorettes.json")
 	Tracker:AddLayouts("layouts/villagers.json")
 	Tracker:AddLayouts("layouts/tracker_island_friends.json")
+	Tracker:AddLocations("locations/Cooksanity_friends.json")
+	Tracker:AddLocations("locations/Cropsanity_friends.json")
+	Tracker:AddLocations("locations/Craft1_friends.json")
+	Tracker:AddLocations("locations/Craft2_friends.json")
 end

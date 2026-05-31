@@ -1278,8 +1278,8 @@
                             "720576,craftsanity_on"
                         ],
                         "access_rules": [
-                            "island,parrot,trader",
-                            "island,turtlen,trader"
+                            "island,parrot,719210",
+                            "island,turtlen,719210"
                         ]
                     }
                 ],
@@ -1760,7 +1760,7 @@
                             "720436,craftsanity_on"
                         ],
                         "access_rules": [
-                            ""
+                            "caroline<3:2"
                         ],
                         "map_locations": [
                             {
@@ -3330,7 +3330,7 @@
                             "720460,craftsanity_on"
                         ],
                         "access_rules": [
-                            ""
+                            "linus<3:4"
                         ],
                         "map_locations": [
                             {

@@ -1,0 +1,3841 @@
+[
+    {
+        "name": "Cropsanity",
+        "chest_unopened_img": "images/QuestNew.png",
+        "chest_opened_img": "images/QuestDone.png",
+        "children": [
+            {
+                "name": "Amaranth",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,amaranth",
+                            "season_free_harvest,amaranth"
+                        ],
+                        "visibility_rules": [
+                            "719301",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,amaranth",
+                            "shipping,$season_free_harvest,amaranth"
+                        ],
+                        "visibility_rules": [
+                            "719612",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ancient Fruit",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "$season_free_harvest,ancient",
+                            "spring,ancient",
+                            "summer,ancient",
+                            "fall,ancient"
+                        ],
+                        "visibility_rules": [
+                            "719352",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1648,
+                                "y": 557
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "$season_free_harvest,ancient,shipping",
+                            "spring,ancient,shipping",
+                            "summer,ancient,shipping",
+                            "fall,ancient,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719613",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 557
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Apple",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,apple",
+                            "$season_free_harvest,apple"
+                        ],
+                        "visibility_rules": [
+                            "719339",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1378,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,apple",
+                            "shipping,$season_free_harvest,apple"
+                        ],
+                        "visibility_rules": [
+                            "719614",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Apricot",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,apricot",
+                            "$season_free_harvest,apricot"
+                        ],
+                        "visibility_rules": [
+                            "719340",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 342,
+                                "y": 197
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,apricot",
+                            "shipping,$season_free_harvest,apricot"
+                        ],
+                        "visibility_rules": [
+                            "719615",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Artichoke",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,artichoke",
+                            "$season_free_harvest,artichoke"
+                        ],
+                        "visibility_rules": [
+                            "719302",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 197
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,artichoke",
+                            "shipping,$season_free_harvest,artichoke"
+                        ],
+                        "visibility_rules": [
+                            "719616",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Banana",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "$season_free_harvest,banana",
+                            "summer,banana"
+                        ],
+                        "visibility_rules": [
+                            "719345",
+                            "island_tracking_on,cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1918,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "$season_free_harvest,banana,shipping",
+                            "summer,banana,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719942",
+                            "island_tracking_on,shipsanity_crops",
+                            "island_tracking_on,shipsanity_full",
+                            "island_tracking_on,shipsanity_fullwf",
+                            "island_tracking_on,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Beet",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,beet",
+                            "$season_free_harvest,beet"
+                        ],
+                        "visibility_rules": [
+                            "719303",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,beet",
+                            "shipping,$season_free_harvest,beet"
+                        ],
+                        "visibility_rules": [
+                            "719617",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blackberry",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall"
+                        ],
+                        "visibility_rules": [
+                            "719716",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blue Jazz",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,blueJazz",
+                            "$season_free_harvest,blueJazz"
+                        ],
+                        "visibility_rules": [
+                            "719304",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,blueJazz",
+                            "shipping,$season_free_harvest,blueJazz"
+                        ],
+                        "visibility_rules": [
+                            "719618",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Blueberry",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719305",
+                            "cropsanity_on"
+                        ],
+                        "access_rules": [
+                            "summer,blueberry",
+                            "$season_free_harvest,blueberry"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,blueberry",
+                            "shipping,$season_free_harvest,blueberry"
+                        ],
+                        "visibility_rules": [
+                            "719619",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Bok Choy",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,bokchoy",
+                            "$season_free_harvest,bokchoy"
+                        ],
+                        "visibility_rules": [
+                            "719306",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 317
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "access_rules": [
+                            "shipping,fall,bokchoy",
+                            "shipping,$season_free_harvest,bokchoy"
+                        ],
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "719620",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Broccoli",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,broccoli",
+                            "$season_free_harvest,broccoli"
+                        ],
+                        "visibility_rules": [
+                            "719348",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,broccoli",
+                            "shipping,$season_free_harvest,broccoli"
+                        ],
+                        "visibility_rules": [
+                            "720829",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cactus Fruit",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "cactus"
+                        ],
+                        "visibility_rules": [
+                            "719335",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1648,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,cactus",
+                            "shipping,desert"
+                        ],
+                        "visibility_rules": [
+                            "719717",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Carrot",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,carrot",
+                            "$season_free_harvest,carrot"
+                        ],
+                        "visibility_rules": [
+                            "719349",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 197
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,carrot",
+                            "shipping,$season_free_harvest,carrot"
+                        ],
+                        "visibility_rules": [
+                            "720825",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cauliflower",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,cauliflower",
+                            "$season_free_harvest,cauliflower"
+                        ],
+                        "visibility_rules": [
+                            "719307",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,cauliflower",
+                            "shipping,$season_free_harvest,cauliflower"
+                        ],
+                        "visibility_rules": [
+                            "719621",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cave Carrot",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping"
+                        ],
+                        "visibility_rules": [
+                            "719718",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 677
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Chanterelle",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,SteelAxe,fall",
+                            "shipping,mushrooms"
+                        ],
+                        "visibility_rules": [
+                            "719719",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cherry",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,cherry",
+                            "$season_free_harvest,cherry"
+                        ],
+                        "visibility_rules": [
+                            "719341",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 342,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,cherry",
+                            "shipping,$season_free_harvest,cherry"
+                        ],
+                        "visibility_rules": [
+                            "719622",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coconut",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,desert"
+                        ],
+                        "visibility_rules": [
+                            "719721",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coffee Bean",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,coffee",
+                            "$season_free_harvest,coffee"
+                        ],
+                        "visibility_rules": [
+                            "719347",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 317
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,coffee",
+                            "shipping,$season_free_harvest,coffee"
+                        ],
+                        "visibility_rules": [
+                            "719871",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Common Mushroom",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,SteelAxe",
+                            "shipping,fall",
+                            "shipping,mushrooms"
+                        ],
+                        "visibility_rules": [
+                            "719722",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Coral",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,beachbridge",
+                            "$can_reach_ifarm"
+                        ],
+                        "visibility_rules": [
+                            "719723",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Corn",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,corn",
+                            "$season_free_harvest,corn",
+                            "fall,corn"
+                        ],
+                        "visibility_rules": [
+                            "719308",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 197
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,corn",
+                            "shipping,$season_free_harvest,corn",
+                            "shipping,fall,corn"
+                        ],
+                        "visibility_rules": [
+                            "719623",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Cranberries",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,cranberry",
+                            "$season_free_harvest,cranberry"
+                        ],
+                        "visibility_rules": [
+                            "719309",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,cranberry",
+                            "shipping,$season_free_harvest,cranberry"
+                        ],
+                        "visibility_rules": [
+                            "719624",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Crocus",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,winter"
+                        ],
+                        "visibility_rules": [
+                            "719724",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Crystal Fruit",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,winter"
+                        ],
+                        "visibility_rules": [
+                            "719725",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Daffodil",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring"
+                        ],
+                        "visibility_rules": [
+                            "719726",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dandelion",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring"
+                        ],
+                        "visibility_rules": [
+                            "719727",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Eggplant",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,eggplant",
+                            "$season_free_harvest,eggplant"
+                        ],
+                        "visibility_rules": [
+                            "719310",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,eggplant",
+                            "shipping,$season_free_harvest,eggplant"
+                        ],
+                        "visibility_rules": [
+                            "719625",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fairy Rose",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,fairyrose",
+                            "$season_free_harvest,fairyrose"
+                        ],
+                        "visibility_rules": [
+                            "719311",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 557
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,fairyrose",
+                            "shipping,$season_free_harvest,fairyrose"
+                        ],
+                        "visibility_rules": [
+                            "719626",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 557
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Fiddlehead Fern",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer",
+                            "shipping,island"
+                        ],
+                        "visibility_rules": [
+                            "719728",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 984,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Garlic",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,garlic",
+                            "$season_free_harvest,garlic"
+                        ],
+                        "visibility_rules": [
+                            "719312",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,garlic",
+                            "shipping,$season_free_harvest,garlic"
+                        ],
+                        "visibility_rules": [
+                            "719627",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ginger",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,$can_reach_ifarm"
+                        ],
+                        "visibility_rules": [
+                            "719955",
+                            "island_tracking_on,shipsanity_crops",
+                            "island_tracking_on,shipsanity_full",
+                            "island_tracking_on,shipsanity_fullwf",
+                            "island_tracking_on,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Grape",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,grape",
+                            "$season_free_harvest,grape"
+                        ],
+                        "visibility_rules": [
+                            "719313",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer",
+                            "shipping,fall,grape",
+                            "shipping,$season_free_harvest,grape"
+                        ],
+                        "visibility_rules": [
+                            "719628",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Green Bean",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,bean",
+                            "$season_free_harvest,bean"
+                        ],
+                        "visibility_rules": [
+                            "719314",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,bean",
+                            "shipping,$season_free_harvest,bean"
+                        ],
+                        "visibility_rules": [
+                            "719629",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hazelnut",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall"
+                        ],
+                        "visibility_rules": [
+                            "719729",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Holly",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,winter"
+                        ],
+                        "visibility_rules": [
+                            "719730",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hops",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,hops",
+                            "$season_free_harvest,hops"
+                        ],
+                        "visibility_rules": [
+                            "719315",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,hops",
+                            "shipping,$season_free_harvest,hops"
+                        ],
+                        "visibility_rules": [
+                            "719630",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Hot Pepper",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,pepper",
+                            "$season_free_harvest,pepper"
+                        ],
+                        "visibility_rules": [
+                            "719316",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 317
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,pepper",
+                            "shipping,$season_free_harvest,pepper"
+                        ],
+                        "visibility_rules": [
+                            "719631",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Kale",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,kale",
+                            "$season_free_harvest,kale"
+                        ],
+                        "visibility_rules": [
+                            "719317",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,kale",
+                            "shipping,$season_free_harvest,kale"
+                        ],
+                        "visibility_rules": [
+                            "719632",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Leek",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring"
+                        ],
+                        "visibility_rules": [
+                            "719731",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magma Cap",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,island,turtlen",
+                            "shipping,island,parrots"
+                        ],
+                        "visibility_rules": [
+                            "719956",
+                            "island_tracking_on,shipsanity_crops",
+                            "island_tracking_on,shipsanity_full",
+                            "island_tracking_on,shipsanity_fullwf",
+                            "island_tracking_on,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 797
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mango",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,mango",
+                            "$season_free_harvest,mango"
+                        ],
+                        "visibility_rules": [
+                            "719346",
+                            "cropsanity_on,island_tracking_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1918,
+                                "y": 677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,mango",
+                            "shipping,$season_free_harvest,mango"
+                        ],
+                        "visibility_rules": [
+                            "719943",
+                            "island_tracking_on,shipsanity_crops",
+                            "island_tracking_on,shipsanity_full",
+                            "island_tracking_on,shipsanity_fullwf",
+                            "island_tracking_on,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 677
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Melon",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,melon",
+                            "$season_free_harvest,melon"
+                        ],
+                        "visibility_rules": [
+                            "719318",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,melon",
+                            "shipping,$season_free_harvest,melon"
+                        ],
+                        "visibility_rules": [
+                            "719633",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Morel",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,SteelAxe",
+                            "shipping,mushrooms"
+                        ],
+                        "visibility_rules": [
+                            "719732",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nautilus Shell",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,winter"
+                        ],
+                        "visibility_rules": [
+                            "719733",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orange",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,orange",
+                            "$season_free_harvest,orange"
+                        ],
+                        "visibility_rules": [
+                            "719342",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 860,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,orange",
+                            "shipping,$season_free_harvest,orange"
+                        ],
+                        "visibility_rules": [
+                            "719634",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 984,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Parsnip",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,parsnip",
+                            "$season_free_harvest,parsnip"
+                        ],
+                        "visibility_rules": [
+                            "719319",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 557
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,parsnip",
+                            "shipping,$season_free_harvest,parsnip"
+                        ],
+                        "visibility_rules": [
+                            "719635",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 557
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Peach",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,peach",
+                            "$season_free_harvest,peach"
+                        ],
+                        "visibility_rules": [
+                            "719344",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 860,
+                                "y": 317
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,peach",
+                            "shipping,$season_free_harvest,peach"
+                        ],
+                        "visibility_rules": [
+                            "719636",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 984,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pineapple",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,pineapple",
+                            "$season_free_harvest,pineapple"
+                        ],
+                        "visibility_rules": [
+                            "719336",
+                            "cropsanity_on,island_tracking_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1918,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,pineapple",
+                            "shipping,$season_free_harvest,pineapple"
+                        ],
+                        "visibility_rules": [
+                            "719944",
+                            "island_tracking_on,shipsanity_crops",
+                            "island_tracking_on,shipsanity_full",
+                            "island_tracking_on,shipsanity_fullwf",
+                            "island_tracking_on,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pomegranate",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,pomegranate",
+                            "$season_free_harvest,pomegranate"
+                        ],
+                        "visibility_rules": [
+                            "719343",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1378,
+                                "y": 197
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,pomegranate",
+                            "shipping,$season_free_harvest,pomegranate"
+                        ],
+                        "visibility_rules": [
+                            "719637",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Poppy",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,poppy",
+                            "$season_free_harvest,poppy"
+                        ],
+                        "visibility_rules": [
+                            "719320",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,poppy",
+                            "shipping,$season_free_harvest,poppy"
+                        ],
+                        "visibility_rules": [
+                            "719638",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Potato",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,potato",
+                            "$season_free_harvest,potato"
+                        ],
+                        "visibility_rules": [
+                            "719321",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,potato",
+                            "shipping,$season_free_harvest,potato"
+                        ],
+                        "visibility_rules": [
+                            "719639",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Powdermelon",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "winter,powdermelon",
+                            "$season_free_harvest,powdermelon"
+                        ],
+                        "visibility_rules": [
+                            "719350",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1648,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,winter,powdermelon",
+                            "shipping,$season_free_harvest,powdermelon"
+                        ],
+                        "visibility_rules": [
+                            "720831",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Pumpkin",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,pumpkin",
+                            "$season_free_harvest,pumpkin"
+                        ],
+                        "visibility_rules": [
+                            "719322",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,pumpkin",
+                            "shipping,$season_free_harvest,pumpkin"
+                        ],
+                        "visibility_rules": [
+                            "719640",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 677
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Purple Mushroom",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping"
+                        ],
+                        "visibility_rules": [
+                            "719734",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Qi Fruit",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,walnutroom"
+                        ],
+                        "visibility_rules": [
+                            "719353",
+                            "cropsanity_on,island_tracking_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1918,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "$can_reach_ifarm,walnutroom,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719945",
+                            "island_tracking_on,shipsanity_crops",
+                            "island_tracking_on,shipsanity_full",
+                            "island_tracking_on,shipsanity_fullwf",
+                            "island_tracking_on,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Radish",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,radish",
+                            "$season_free_harvest,radish"
+                        ],
+                        "visibility_rules": [
+                            "719323",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 497
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,radish",
+                            "shipping,$season_free_harvest,radish"
+                        ],
+                        "visibility_rules": [
+                            "719641",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rainbow Shell",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719735",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 257
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Red Cabbage",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,redcabbage",
+                            "$season_free_harvest,redcabbage"
+                        ],
+                        "visibility_rules": [
+                            "719324",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 557
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,redcabbage",
+                            "shipping,$season_free_harvest,redcabbage"
+                        ],
+                        "visibility_rules": [
+                            "719642",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 557
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Red Mushroom",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,SteelAxe",
+                            "shipping,fall,SteelAxe",
+                            "shipping,mushrooms",
+                            "shipping,e80"
+                        ],
+                        "visibility_rules": [
+                            "719736",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 557
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rhubarb",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,rhubarb",
+                            "$season_free_harvest,rhubarb"
+                        ],
+                        "visibility_rules": [
+                            "719325",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,rhubarb",
+                            "shipping,$season_free_harvest,rhubarb"
+                        ],
+                        "visibility_rules": [
+                            "719643",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 677
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Salmonberry",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719737",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 557
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sea Urchin",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,beachbridge,shipping,$can_reach_ifarm"
+                        ],
+                        "visibility_rules": [
+                            "719738",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 317
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Snow Yam",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719739",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 377
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spice Berry",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719740",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 984,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Spring Onion",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719741",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Starfruit",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,starfruit",
+                            "$season_free_harvest,starfruit"
+                        ],
+                        "visibility_rules": [
+                            "719326",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,starfruit",
+                            "shipping,$season_free_harvest,starfruit"
+                        ],
+                        "visibility_rules": [
+                            "719644",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Strawberry",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,strawberry",
+                            "$season_free_harvest,strawberry"
+                        ],
+                        "visibility_rules": [
+                            "719327",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 797
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,strawberry",
+                            "shipping,$season_free_harvest,strawberry"
+                        ],
+                        "visibility_rules": [
+                            "719645",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 797
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Summer Spangle",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,spangle",
+                            "$season_free_harvest,spangle"
+                        ],
+                        "visibility_rules": [
+                            "719328",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,spangle",
+                            "shipping,$season_free_harvest,spangle"
+                        ],
+                        "visibility_rules": [
+                            "719646",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 677
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Summer Squash",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,squash",
+                            "$season_free_harvest,squash"
+                        ],
+                        "visibility_rules": [
+                            "719351",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,squash",
+                            "shipping,$season_free_harvest,squash"
+                        ],
+                        "visibility_rules": [
+                            "720827",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sunflower",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,sunflower",
+                            "$season_free_harvest,sunflower",
+                            "fall,sunflower"
+                        ],
+                        "visibility_rules": [
+                            "719329",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 612,
+                                "y": 797
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,sunflower",
+                            "shipping,$season_free_harvest,sunflower",
+                            "shipping,fall,sunflower"
+                        ],
+                        "visibility_rules": [
+                            "719647",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 736,
+                                "y": 797
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sweet Gem Berry",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,rare",
+                            "$season_free_harvest,rare"
+                        ],
+                        "visibility_rules": [
+                            "719338",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,rare",
+                            "shipping,$season_free_harvest,rare"
+                        ],
+                        "visibility_rules": [
+                            "719648",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Sweet Pea",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719742",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 984,
+                                "y": 497
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Taro Root",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,taro",
+                            "$season_free_harvest,taro"
+                        ],
+                        "visibility_rules": [
+                            "719337",
+                            "cropsanity_on,island_tracking_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1918,
+                                "y": 557
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,taro",
+                            "shipping,$season_free_harvest,taro"
+                        ],
+                        "visibility_rules": [
+                            "719946",
+                            "island_tracking_on,shipsanity_crops",
+                            "island_tracking_on,shipsanity_full",
+                            "island_tracking_on,shipsanity_fullwf",
+                            "island_tracking_on,shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 2042,
+                                "y": 557
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tea Leaves",
+                "access_rules": [
+                    "$season_free_harvest,caroline<3:2",
+                    "$not_winter,caroline<3:2"
+                ],  
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "visibility_rules": [
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1648,
+                                "y": 797
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping"
+                        ],
+                        "visibility_rules": [
+                            "719649",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 797
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tomato",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,tomato",
+                            "$season_free_harvest,tomato"
+                        ],
+                        "visibility_rules": [
+                            "719330",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 860,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,tomato",
+                            "shipping,$season_free_harvest,tomato"
+                        ],
+                        "visibility_rules": [
+                            "719650",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 984,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Tulip",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,tulip",
+                            "$season_free_harvest,tulip"
+                        ],
+                        "visibility_rules": [
+                            "719331",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 342,
+                                "y": 137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,tulip",
+                            "shipping,$season_free_harvest,tulip"
+                        ],
+                        "visibility_rules": [
+                            "719651",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 137
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Unmilled Rice",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,rice",
+                            "$season_free_harvest,rice"
+                        ],
+                        "visibility_rules": [
+                            "719332",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 94,
+                                "y": 737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,spring,rice",
+                            "shipping,$season_free_harvest,rice"
+                        ],
+                        "visibility_rules": [
+                            "719652",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 218,
+                                "y": 737
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wheat",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "summer,wheat",
+                            "$season_free_harvest,wheat",
+                            "fall,wheat"
+                        ],
+                        "visibility_rules": [
+                            "719333",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 860,
+                                "y": 197
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,summer,wheat",
+                            "shipping,$season_free_harvest,wheat",
+                            "shipping,fall,wheat"
+                        ],
+                        "visibility_rules": [
+                            "719653",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 984,
+                                "y": 197
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wild Horseradish",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "spring,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719743",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 466,
+                                "y": 677
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wild Plum",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719744",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1502,
+                                "y": 617
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Winter Root",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "winter,shipping"
+                        ],
+                        "visibility_rules": [
+                            "719745",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1772,
+                                "y": 437
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Yam",
+                "children": [
+                    {
+                        "name": "Harvested",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "fall,yam",
+                            "$season_free_harvest,yam"
+                        ],
+                        "visibility_rules": [
+                            "719334",
+                            "cropsanity_on"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1130,
+                                "y": 797
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1
+                            }
+                        ],
+                        "access_rules": [
+                            "shipping,fall,yam",
+                            "shipping,$season_free_harvest,yam"
+                        ],
+                        "visibility_rules": [
+                            "719654",
+                            "shipsanity_crops",
+                            "shipsanity_full",
+                            "shipsanity_fullwf",
+                            "shipsanity_all"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crops and Foraged Items",
+                                "x": 1254,
+                                "y": 797
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

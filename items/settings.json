@@ -365,7 +365,7 @@
             {
                 "img": "images/settings/Power_Skill.png",
                 "inherit_codes": false,
-                "codes": "booksanity,booksanity_Power Skill"
+                "codes": "booksanity,booksanity_Power,booksanity_Power Skill"
             },
             {
                 "img": "images/settings/All.png",
@@ -1008,27 +1008,27 @@
             {
                 "img": "images/settings/All_Movies.png",
                 "inherit_codes": false,
-                "codes": "moviesanity, moviesanity_am"
+                "codes": "moviesanity, moviesanity_movies, moviesanity_am"
             },
             {
                 "img": "images/settings/All_Movies_Loved.png",
                 "inherit_codes": false,
-                "codes": "moviesanity, moviesanity_aml"
+                "codes": "moviesanity, moviesanity_movies, moviesanity_aml"
             },
             {
                 "img": "images/settings/All_Movies_with_Loved_Snacks.png",
                 "inherit_codes": false,
-                "codes": "moviesanity, moviesanity_amlwls"
+                "codes": "moviesanity, moviesanity_movies, moviesanity_snacks, moviesanity_amlwls"
             },
             {
                 "img": "images/settings/All_Movies_and_All_Snacks.png",
                 "inherit_codes": false,
-                "codes": "moviesanity, moviesanity_amaas"
+                "codes": "moviesanity, moviesanity_movies, moviesanity_snacks, moviesanity_amaas"
             },
             {
                 "img": "images/settings/All_Movies_and_All_Loved_Snacks.png",
                 "inherit_codes": false,
-                "codes": "moviesanity, moviesanity_amaasl"
+                "codes": "moviesanity, moviesanity_movies, moviesanity_snacks, moviesanity_amaasl"
             }
         ]
     },

@@ -15,7 +15,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            ""
+                            "721602",
+                            "hatsanity_RNG"
                         ],
                         "access_rules": [
                             "bus,spring"
@@ -150,7 +151,7 @@
                         ],
                         "visibility_rules": [
                             "721607",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -231,7 +232,7 @@
                         ],
                         "visibility_rules": [
                             "721610",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "fall"
@@ -258,7 +259,7 @@
                         ],
                         "visibility_rules": [
                             "721611",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "island,turtlen,trader",
@@ -340,7 +341,7 @@
                         ],
                         "visibility_rules": [
                             "721614",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "summer"
@@ -394,7 +395,7 @@
                         ],
                         "visibility_rules": [
                             "721616",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -529,7 +530,7 @@
                         ],
                         "visibility_rules": [
                             "721620",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -799,7 +800,7 @@
                         ],
                         "visibility_rules": [
                             "721630",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "island,turtlen,trader",
@@ -882,7 +883,7 @@
                         ],
                         "visibility_rules": [
                             "721633",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -936,7 +937,7 @@
                         ],
                         "visibility_rules": [
                             "721635",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "emily<3:14"
@@ -1153,7 +1154,7 @@
                         ],
                         "visibility_rules": [
                             "721643",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "$can_reach_ifarm,ifarm"
@@ -1234,7 +1235,7 @@
                         ],
                         "visibility_rules": [
                             "721646",
-                            "hatsanity_Near Perfection,include_endgame_locations_on"
+                            "hatsanity_Near Perfection"
                         ],
                         "access_rules": [
                             ""
@@ -1423,7 +1424,7 @@
                         ],
                         "visibility_rules": [
                             "721653",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -1450,7 +1451,7 @@
                         ],
                         "visibility_rules": [
                             "721654",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "desert"
@@ -1531,7 +1532,7 @@
                         ],
                         "visibility_rules": [
                             "721657",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "cask"
@@ -1829,7 +1830,7 @@
                         ],
                         "visibility_rules": [
                             "721668",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -1937,7 +1938,7 @@
                         ],
                         "visibility_rules": [
                             "721672",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "$can_reach_ifarm,walnutroom"
@@ -2045,7 +2046,7 @@
                         ],
                         "visibility_rules": [
                             "721676",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "rod"
@@ -2098,8 +2099,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721678",
-                            "hatsanity_on"
+                            "721678"
                         ],
                         "access_rules": [
                             ""
@@ -2237,8 +2237,8 @@
                             "hatsanity_Easy"
                         ],
                         "access_rules": [
-                            "parrots,island",
-                            "island,turtlen"
+                            "parrots,island,translator",
+                            "island,turtlen,translator"
                         ],
                         "map_locations": [
                             {
@@ -2316,7 +2316,7 @@
                         ],
                         "visibility_rules": [
                             "721686",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -2424,7 +2424,7 @@
                         ],
                         "visibility_rules": [
                             "721690",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -2451,7 +2451,7 @@
                         ],
                         "visibility_rules": [
                             "721691",
-                            "hatsanity_Tailoring,include_endgame_locations_on"
+                            "hatsanity_Tailoring"
                         ],
                         "access_rules": [
                             "sewingmachine"
@@ -2505,7 +2505,7 @@
                         ],
                         "visibility_rules": [
                             "721693",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "monday",
@@ -2565,7 +2565,7 @@
                         ],
                         "visibility_rules": [
                             "721695",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -2592,7 +2592,7 @@
                         ],
                         "visibility_rules": [
                             "721696",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "landslideremoved,e70"
@@ -2619,7 +2619,7 @@
                         ],
                         "visibility_rules": [
                             "721697",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "island,turtlen,trader",
@@ -2728,7 +2728,7 @@
                         ],
                         "visibility_rules": [
                             "721701",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""
@@ -2782,7 +2782,7 @@
                         ],
                         "visibility_rules": [
                             "721703",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "winter,Bamboorod"
@@ -2890,7 +2890,7 @@
                         ],
                         "visibility_rules": [
                             "721707",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             "spring"
@@ -3135,7 +3135,7 @@
                         ],
                         "visibility_rules": [
                             "721716",
-                            "hatsanity_medium"
+                            "hatsanity_Medium"
                         ],
                         "access_rules": [
                             ""

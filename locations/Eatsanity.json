@@ -15,7 +15,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721751"
+                            "721751",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring"
@@ -41,7 +42,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721752"
+                            "721752",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring"
@@ -67,7 +69,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721753"
+                            "721753",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring"
@@ -93,7 +96,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721754"
+                            "721754",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring"
@@ -119,7 +123,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721755"
+                            "721755",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,parsnip",
@@ -146,7 +151,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721756"
+                            "721756",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "landslideremoved"
@@ -172,7 +178,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721757"
+                            "721757",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "desert"
@@ -198,7 +205,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721758"
+                            "721758",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,bean",
@@ -225,7 +233,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721759"
+                            "721759",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,cauliflower",
@@ -252,7 +261,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721760"
+                            "721760",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,potato",
@@ -279,7 +289,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721761"
+                            "721761",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,garlic",
@@ -306,7 +317,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721762"
+                            "721762",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,kale",
@@ -333,7 +345,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721763"
+                            "721763",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,melon",
@@ -360,7 +373,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721764"
+                            "721764",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,tomato",
@@ -387,7 +401,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721765"
+                            "721765",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,SteelAxe",
@@ -414,7 +429,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721766"
+                            "721766",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,blueberry",
@@ -441,7 +457,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721767"
+                            "721767",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer",
@@ -468,7 +485,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721768"
+                            "721768",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,pepper",
@@ -495,7 +513,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721769"
+                            "721769",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,radish",
@@ -522,7 +541,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721770"
+                            "721770",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,redcabbage",
@@ -549,7 +569,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721771"
+                            "721771",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,starfruit",
@@ -576,7 +597,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721772"
+                            "721772",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,corn",
@@ -604,7 +626,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721773"
+                            "721773",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,rice",
@@ -632,7 +655,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721774"
+                            "721774",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,eggplant",
@@ -659,7 +683,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721775"
+                            "721775",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,artichoke",
@@ -686,7 +711,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721776"
+                            "721776",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,bokchoy",
@@ -713,7 +739,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721777"
+                            "721777",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,yam",
@@ -740,7 +767,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721778"
+                            "721778",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "SteelAxe,fall",
@@ -767,7 +795,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721779"
+                            "721779",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,cranberry",
@@ -794,7 +823,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721780"
+                            "721780",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,beet",
@@ -821,7 +851,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721781"
+                            "721781",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring"
@@ -847,7 +878,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721782"
+                            "721782",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,amaranth",
@@ -874,7 +906,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721783"
+                            "721783",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,hops",
@@ -901,7 +934,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721784"
+                            "721784",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer"
@@ -927,7 +961,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721785"
+                            "721785",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,grape",
@@ -954,7 +989,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721786"
+                            "721786",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring"
@@ -980,7 +1016,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721787"
+                            "721787",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,strawberry",
@@ -1007,7 +1044,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721788"
+                            "721788",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer"
@@ -1033,7 +1071,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721789"
+                            "721789",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,SteelAxe",
@@ -1061,7 +1100,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721790"
+                            "721790",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall"
@@ -1087,7 +1127,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721791"
+                            "721791",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall"
@@ -1113,7 +1154,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721792"
+                            "721792",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall"
@@ -1139,7 +1181,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721793"
+                            "721793",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "winter"
@@ -1165,7 +1208,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721794"
+                            "721794",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "winter"
@@ -1191,7 +1235,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721795"
+                            "721795",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "winter"
@@ -1217,7 +1262,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721796"
+                            "721796",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "winter"
@@ -1243,7 +1289,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721797"
+                            "721797",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,sunflower",
@@ -1271,7 +1318,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721798"
+                            "721798",
+                            "eatsanity_Crops"
                         ],
                         "map_locations": [
                             {
@@ -1294,7 +1342,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721799"
+                            "721799",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,tulip",
@@ -1321,7 +1370,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721800"
+                            "721800",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,spangle",
@@ -1348,7 +1398,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721801"
+                            "721801",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,fairyrose",
@@ -1375,7 +1426,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721802"
+                            "721802",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,blueJazz",
@@ -1402,7 +1454,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721803"
+                            "721803",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,poppy",
@@ -1429,7 +1482,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721804"
+                            "721804",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,apple",
@@ -1456,7 +1510,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721805"
+                            "721805",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,apricot",
@@ -1483,7 +1538,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721806"
+                            "721806",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,orange",
@@ -1510,7 +1566,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721807"
+                            "721807",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,peach",
@@ -1537,7 +1594,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721808"
+                            "721808",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,pomegranate",
@@ -1564,7 +1622,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721809"
+                            "721809",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,cherry",
@@ -1591,7 +1650,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721810"
+                            "721810",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "$season_free_harvest,banana",
@@ -1618,7 +1678,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721811"
+                            "721811",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "$can_reach_ifarm"
@@ -1644,7 +1705,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721812"
+                            "721812",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,taro",
@@ -1671,7 +1733,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721813"
+                            "721813",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,pineapple",
@@ -1698,7 +1761,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721814"
+                            "721814",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,mango",
@@ -1725,7 +1789,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721815"
+                            "721815",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "island,turtlen",
@@ -1752,7 +1817,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721816"
+                            "721816",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "$can_reach_ifarm,walnutroom"
@@ -1778,7 +1844,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721817"
+                            "721817",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "spring,carrot",
@@ -1805,7 +1872,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721818"
+                            "721818",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "summer,squash",
@@ -1832,7 +1900,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721819"
+                            "721819",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "fall,broccoli",
@@ -1859,7 +1928,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721820"
+                            "721820",
+                            "eatsanity_Crops"
                         ],
                         "access_rules": [
                             "winter,powdermelon",
@@ -1886,7 +1956,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721831"
+                            "721831",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,friedeggrecipe"
@@ -1912,7 +1983,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721832"
+                            "721832",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,omeletrecipe"
@@ -1938,7 +2010,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721833"
+                            "721833",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,saladrecipe"
@@ -1964,7 +2037,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721834"
+                            "721834",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,cheesecauliflowerrecipe"
@@ -1990,7 +2064,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721835"
+                            "721835",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,bakedfishrecipe"
@@ -2016,7 +2091,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721836"
+                            "721836",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,parsnipsouprecipe"
@@ -2042,7 +2118,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721837"
+                            "721837",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,vegetablemedleyrecipe"
@@ -2068,7 +2145,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721838"
+                            "721838",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,completebreakfastrecipe"
@@ -2094,7 +2172,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721839"
+                            "721839",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,friedcalamarirecipe"
@@ -2120,7 +2199,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721840"
+                            "721840",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,strangebunrecipe"
@@ -2146,7 +2226,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721841"
+                            "721841",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,luckylunchrecipe"
@@ -2172,7 +2253,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721842"
+                            "721842",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,friedmushroomrecipe"
@@ -2198,7 +2280,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721843"
+                            "721843",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,pizzarecipe"
@@ -2224,7 +2307,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721844"
+                            "721844",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,beanhotpotrecipe"
@@ -2250,7 +2334,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721845"
+                            "721845",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,glazedYamsrecipe"
@@ -2276,7 +2361,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721846"
+                            "721846",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,carpsurpriserecipe"
@@ -2302,7 +2388,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721847"
+                            "721847",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,hashbrownsrecipe"
@@ -2328,7 +2415,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721848"
+                            "721848",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,pancakesrecipe"
@@ -2354,7 +2442,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721849"
+                            "721849",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,salmondinnerrecipe"
@@ -2380,7 +2469,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721850"
+                            "721850",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,fishtacorecipe"
@@ -2406,7 +2496,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721851"
+                            "721851",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,crispybassrecipe"
@@ -2432,7 +2523,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721852"
+                            "721852",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,pepperpoppersrecipe"
@@ -2458,7 +2550,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721853"
+                            "721853",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,breadrecipe"
@@ -2484,7 +2577,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721854"
+                            "721854",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,tomkhasouprecipe"
@@ -2510,7 +2604,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721855"
+                            "721855",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,troutsouprecipe"
@@ -2536,7 +2631,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721856"
+                            "721856",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,chocolatecakerecipe"
@@ -2562,7 +2658,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721857"
+                            "721857",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,pinkcakerecipe"
@@ -2588,7 +2685,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721858"
+                            "721858",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,rhubarbpierecipe"
@@ -2614,7 +2712,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721859"
+                            "721859",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,cookiesrecipe"
@@ -2640,7 +2739,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721860"
+                            "721860",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,spaghettirecipe"
@@ -2666,7 +2766,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721861"
+                            "721861",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,friedeelrecipe"
@@ -2692,7 +2793,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721862"
+                            "721862",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,spicyeelrecipe"
@@ -2718,7 +2820,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721863"
+                            "721863",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,sashimirecipe"
@@ -2744,7 +2847,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721864"
+                            "721864",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,makirollrecipe"
@@ -2770,7 +2874,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721865"
+                            "721865",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,tortillarecipe"
@@ -2796,7 +2901,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721866"
+                            "721866",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,redplaterecipe"
@@ -2822,7 +2928,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721867"
+                            "721867",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,eggplantparmesanrecipe"
@@ -2848,7 +2955,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721868"
+                            "721868",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,ricepuddingrecipe"
@@ -2874,7 +2982,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721869"
+                            "721869",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,icecreamrecipe"
@@ -2900,7 +3009,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721870"
+                            "721870",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,blueberrytartrecipe"
@@ -2926,7 +3036,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721871"
+                            "721871",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,autumnsbountyrecipe"
@@ -2952,7 +3063,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721872"
+                            "721872",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,pumpkinsouprecipe"
@@ -2978,7 +3090,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721873"
+                            "721873",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,supermealrecipe"
@@ -3004,7 +3117,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721874"
+                            "721874",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,cranberrysaucerecipe"
@@ -3030,7 +3144,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721875"
+                            "721875",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,stuffingrecipe"
@@ -3056,7 +3171,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721876"
+                            "721876",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,farmerslunchrecipe"
@@ -3082,7 +3198,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721877"
+                            "721877",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,survivalburgerrecipe"
@@ -3108,7 +3225,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721878"
+                            "721878",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,dishothesearecipe"
@@ -3134,7 +3252,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721879"
+                            "721879",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,minerstreatrecipe"
@@ -3160,7 +3279,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721880"
+                            "721880",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,rootsplatterrecipe"
@@ -3186,7 +3306,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721881"
+                            "721881",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,tripleshotespressorecipe"
@@ -3212,7 +3333,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721882"
+                            "721882",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "foraging:1"
@@ -3238,7 +3360,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721883"
+                            "721883",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,algaesouprecipe"
@@ -3264,7 +3387,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721884"
+                            "721884",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,palebrothrecipe"
@@ -3290,7 +3414,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721885"
+                            "721885",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,plumpuddingrecipe"
@@ -3316,7 +3441,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721886"
+                            "721886",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,artichokediprecipe"
@@ -3342,7 +3468,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721887"
+                            "721887",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,stirfryrecipe"
@@ -3368,7 +3495,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721888"
+                            "721888",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,roastedhazelnutsrecipe"
@@ -3394,7 +3522,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721889"
+                            "721889",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,pumpkinpierecipe"
@@ -3420,7 +3549,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721890"
+                            "721890",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,radishsaladrecipe"
@@ -3446,7 +3576,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721891"
+                            "721891",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,fruitsaladrecipe"
@@ -3472,7 +3603,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721892"
+                            "721892",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,blackberrycobblerrecipe"
@@ -3498,7 +3630,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721893"
+                            "721893",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,cranberrycandyrecipe"
@@ -3524,7 +3657,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721894"
+                            "721894",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,bruschettarecipe"
@@ -3550,7 +3684,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721895"
+                            "721895",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,coleslawrecipe"
@@ -3576,7 +3711,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721896"
+                            "721896",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,fiddleheadrisottorecipe"
@@ -3602,7 +3738,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721897"
+                            "721897",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,poppyseedmuffinrecipe"
@@ -3628,7 +3765,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721898"
+                            "721898",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,chowderrecipe"
@@ -3654,7 +3792,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721899"
+                            "721899",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,lobsterbisquerecipe"
@@ -3680,7 +3819,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721900"
+                            "721900",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,fishstewrecipe"
@@ -3706,7 +3846,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721901"
+                            "721901",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,escargotrecipe"
@@ -3732,7 +3873,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721902"
+                            "721902",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,maplebarrecipe"
@@ -3758,7 +3900,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721903"
+                            "721903",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,crabcakesrecipe"
@@ -3784,7 +3927,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721904"
+                            "721904",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,shrimpcocktailrecipe"
@@ -3810,7 +3954,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721905"
+                            "721905",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "combat:6"
@@ -3836,7 +3981,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721906"
+                            "721906",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "combat:2"
@@ -3862,7 +4008,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721907"
+                            "721907",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,seafoampuddingrecipe"
@@ -3888,7 +4035,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721908"
+                            "721908",
+                            "eatsanity_Cooking"
                         ],
                         "map_locations": [
                             {
@@ -3911,7 +4059,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721909"
+                            "721909",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,gingeralerecipe"
@@ -3937,7 +4086,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721910"
+                            "721910",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,bananapuddingrecipe"
@@ -3963,7 +4113,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721911"
+                            "721911",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,mangostickyricerecipe"
@@ -3989,7 +4140,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721912"
+                            "721912",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,poirecipe"
@@ -4015,7 +4167,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721913"
+                            "721913",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,tropicalcurryrecipe"
@@ -4041,7 +4194,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721914"
+                            "721914",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,squidinkraviolirecipe"
@@ -4067,7 +4221,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721915"
+                            "721915",
+                            "eatsanity_Cooking"
                         ],
                         "access_rules": [
                             "kitchen,mosssouprecipe"
@@ -4096,7 +4251,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721921"
+                            "721921",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4143,7 +4299,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721922"
+                            "721922",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4190,7 +4347,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721923"
+                            "721923",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4237,7 +4395,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721924"
+                            "721924",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4284,7 +4443,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721925"
+                            "721925",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4331,7 +4491,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721926"
+                            "721926",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4379,7 +4540,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721927"
+                            "721927",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4426,7 +4588,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721928"
+                            "721928",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4473,7 +4636,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721929"
+                            "721929",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4522,7 +4686,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721930"
+                            "721930",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4570,7 +4735,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721931"
+                            "721931",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4617,7 +4783,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721932"
+                            "721932",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4661,7 +4828,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721933"
+                            "721933",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4708,7 +4876,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721934"
+                            "721934",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4755,7 +4924,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721935"
+                            "721935",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4802,7 +4972,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721936"
+                            "721936",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4849,7 +5020,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721937"
+                            "721937",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4896,7 +5068,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721938"
+                            "721938",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4943,7 +5116,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721939"
+                            "721939",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -4990,7 +5164,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721940"
+                            "721940",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5035,7 +5210,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721941"
+                            "721941",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5082,7 +5258,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721942"
+                            "721942",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5129,7 +5306,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721943"
+                            "721943",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5177,7 +5355,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721944"
+                            "721944",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5221,7 +5400,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721945"
+                            "721945",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5269,7 +5449,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721946"
+                            "721946",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5319,7 +5500,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721947"
+                            "721947",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5367,7 +5549,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721948"
+                            "721948",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5411,7 +5594,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721949"
+                            "721949",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5459,7 +5643,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721950"
+                            "721950",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5508,7 +5693,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721951"
+                            "721951",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5555,7 +5741,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721952"
+                            "721952",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5602,7 +5789,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721953"
+                            "721953",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5646,7 +5834,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721954"
+                            "721954",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5690,7 +5879,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721955"
+                            "721955",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5734,7 +5924,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721956"
+                            "721956",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5778,7 +5969,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721957"
+                            "721957",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5822,7 +6014,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721958"
+                            "721958",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5869,7 +6062,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721959"
+                            "721959",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5917,7 +6111,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721960"
+                            "721960",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -5963,7 +6158,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721961"
+                            "721961",
+                            "eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -6004,7 +6200,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721971"
+                            "721971",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6031,7 +6228,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721972"
+                            "721972",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6058,7 +6256,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721973"
+                            "721973",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6086,7 +6285,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721974"
+                            "721974",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6112,7 +6312,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721975"
+                            "721975",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6138,7 +6339,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721976"
+                            "721976",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6165,7 +6367,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721977"
+                            "721977",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6191,7 +6394,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721978"
+                            "721978",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6217,7 +6421,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721979"
+                            "721979",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6243,7 +6448,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721980"
+                            "721980",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6269,7 +6475,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721981"
+                            "721981",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6297,7 +6504,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721982"
+                            "721982",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6324,7 +6532,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721983"
+                            "721983",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6351,7 +6560,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721984"
+                            "721984",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6378,7 +6588,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721985"
+                            "721985",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6405,7 +6616,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721986"
+                            "721986",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6432,7 +6644,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721987"
+                            "721987",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6459,7 +6672,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721988"
+                            "721988",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6486,7 +6700,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721989"
+                            "721989",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6515,7 +6730,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721990"
+                            "721990",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6562,7 +6778,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721991"
+                            "721991",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6606,7 +6823,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721992"
+                            "721992",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6634,7 +6852,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721993"
+                            "721993",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6663,7 +6882,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721994"
+                            "721994",
+                            "eatsanity_Fish"
                         ],
                         "access_rules": [
                             "shipping"
@@ -6710,7 +6930,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721995"
+                            "721995",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6736,7 +6957,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721996"
+                            "721996",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6762,7 +6984,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721997"
+                            "721997",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6788,7 +7011,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721998"
+                            "721998",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6814,7 +7038,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721999"
+                            "721999",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6840,7 +7065,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722000"
+                            "722000",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6866,7 +7092,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722001"
+                            "722001",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6892,7 +7119,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722002"
+                            "722002",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6919,7 +7147,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722003"
+                            "722003",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6946,7 +7175,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722004"
+                            "722004",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6972,7 +7202,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722005"
+                            "722005",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -6999,7 +7230,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722006"
+                            "722006",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7025,7 +7257,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722007"
+                            "722007",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7051,7 +7284,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722008"
+                            "722008",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7078,7 +7312,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722009"
+                            "722009",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7106,7 +7341,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722010"
+                            "722010",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7132,7 +7368,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722011"
+                            "722011",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7160,7 +7397,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722012"
+                            "722012",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7186,7 +7424,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722013"
+                            "722013",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7212,7 +7451,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722014"
+                            "722014",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7238,7 +7478,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722015"
+                            "722015",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7264,7 +7505,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722016"
+                            "722016",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7290,7 +7532,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722017"
+                            "722017",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7316,7 +7559,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722018"
+                            "722018",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7342,7 +7586,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722019"
+                            "722019",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7369,7 +7614,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722020"
+                            "722020",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7396,7 +7642,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722021"
+                            "722021",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7422,7 +7669,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722022"
+                            "722022",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7449,7 +7697,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722023"
+                            "722023",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7476,7 +7725,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722024"
+                            "722024",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7502,7 +7752,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722025"
+                            "722025",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7528,7 +7779,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722026"
+                            "722026",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7554,7 +7806,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722027"
+                            "722027",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7580,7 +7833,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722028"
+                            "722028",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7609,7 +7863,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722029"
+                            "722029",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7656,7 +7911,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722030"
+                            "722030",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7703,7 +7959,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722031"
+                            "722031",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7747,7 +8004,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722032"
+                            "722032",
+                            "eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -7791,7 +8049,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722041"
+                            "722041",
+                            "eatsanity_Shop"
                         ],
                         "map_locations": [
                             {
@@ -7835,7 +8094,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722042"
+                            "722042",
+                            "eatsanity_Shop"
                         ],
                         "map_locations": [
                             {
@@ -7879,7 +8139,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722043"
+                            "722043",
+                            "eatsanity_Shop"
                         ],
                         "map_locations": [
                             {
@@ -7926,7 +8187,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722044"
+                            "722044",
+                            "eatsanity_Shop"
                         ],
                         "map_locations": [
                             {
@@ -7970,7 +8232,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722045"
+                            "722045",
+                            "eatsanity_Shop"
                         ],
                         "map_locations": [
                             {
@@ -7996,7 +8259,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722051"
+                            "722051",
+                            "eatsanity_Poisonous,eatsanity_Crops"
                         ],
                         "map_locations": [
                             {
@@ -8043,7 +8307,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722052"
+                            "722052",
+                            "eatsanity_Poisonous,eatsanity_Crop"
                         ],
                         "map_locations": [
                             {
@@ -8066,7 +8331,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722053"
+                            "722053",
+                            "eatsanity_Poisonous,eatsanity_Crop"
                         ],
                         "map_locations": [
                             {
@@ -8092,7 +8358,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722054"
+                            "722054",
+                            "eatsanity_Poisonous,eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -8136,7 +8403,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722055"
+                            "722055",
+                            "eatsanity_Poisonous,eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {
@@ -8177,7 +8445,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722056"
+                            "722056",
+                            "eatsanity_Poisonous,eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -8203,7 +8472,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722057"
+                            "722057",
+                            "eatsanity_Poisonous,eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -8230,7 +8500,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722058"
+                            "722058",
+                            "eatsanity_Poisonous,eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -8256,7 +8527,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722059"
+                            "722059",
+                            "eatsanity_Poisonous,eatsanity_Fish"
                         ],
                         "map_locations": [
                             {
@@ -8282,7 +8554,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "722060"
+                            "722060",
+                            "eatsanity_Poisonous,eatsanity_Artisan"
                         ],
                         "map_locations": [
                             {

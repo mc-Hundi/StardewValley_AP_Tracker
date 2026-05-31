@@ -276,8 +276,8 @@
                             "720563,craftsanity_on"
                         ],
                         "access_rules": [
-                            "island,parrot,translator",
-                            "island,turtlen,translator"
+                            "island,parrot",
+                            "island,turtlen"
                         ]
                     }
                 ],
@@ -1680,7 +1680,7 @@
                             "720512,craftsanity_on"
                         ],
                         "access_rules": [
-                            ""
+                            "robin<3:6"
                         ],
                         "map_locations": [
                             {
@@ -1728,7 +1728,7 @@
                             "720513,craftsanity_on"
                         ],
                         "access_rules": [
-                            ""
+                            "robin<3:6"
                         ],
                         "map_locations": [
                             {
@@ -1998,7 +1998,7 @@
                             "720518,craftsanity_on"
                         ],
                         "access_rules": [
-                            "sewerkey"
+                            "sewerkey,krobus<3:3"
                         ],
                         "map_locations": [
                             {
@@ -2276,7 +2276,7 @@
                             "720454,craftsanity_on"
                         ],
                         "access_rules": [
-                            ""
+                            "gus<3:5"
                         ],
                         "map_locations": [
                             {

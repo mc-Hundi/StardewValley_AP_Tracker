@@ -15,7 +15,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721013"
+                            "721013",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -56,7 +58,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721019"
+                            "721019",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -97,7 +101,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721012"
+                            "721012",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -138,7 +144,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721015"
+                            "721015",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -179,7 +187,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721014"
+                            "721014",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -220,7 +230,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721011"
+                            "721011",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -261,7 +273,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721006"
+                            "721006",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -302,7 +316,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721016"
+                            "721016",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -343,7 +359,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721007"
+                            "721007",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -384,7 +402,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721010"
+                            "721010",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -425,7 +445,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721002"
+                            "721002",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -466,7 +488,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721005"
+                            "721005",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -507,7 +531,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721018"
+                            "721018",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -548,7 +574,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721001"
+                            "721001",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -589,7 +617,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721009"
+                            "721009",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -630,7 +660,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721017"
+                            "721017",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -671,7 +703,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721003"
+                            "721003",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -712,7 +746,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721004"
+                            "721004",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -753,7 +789,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721008"
+                            "721008",
+                            "booksanity_Power",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -794,7 +832,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721031"
+                            "721031",
+                            "booksanity_Power Skill",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -835,7 +875,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721032"
+                            "721032",
+                            "booksanity_Power Skill",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -876,7 +918,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721033"
+                            "721033",
+                            "booksanity_Power Skill",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -917,7 +961,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721034"
+                            "721034",
+                            "booksanity_Power Skill",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -958,7 +1004,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721035"
+                            "721035",
+                            "booksanity_Power Skill",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -999,7 +1047,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721036"
+                            "721036",
+                            "booksanity_Power Skill",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1040,7 +1090,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721037"
+                            "721037",
+                            "booksanity_Power Skill",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1081,7 +1133,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721051"
+                            "721051",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1099,7 +1152,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721052"
+                            "721052",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1117,7 +1171,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721053"
+                            "721053",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1135,7 +1190,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721054"
+                            "721054",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1153,7 +1209,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721055"
+                            "721055",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1171,7 +1228,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721056"
+                            "721056",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1189,7 +1247,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721057"
+                            "721057",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1207,7 +1266,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721058"
+                            "721058",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1225,7 +1285,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721059"
+                            "721059",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1243,7 +1304,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721060"
+                            "721060",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1261,7 +1323,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721061"
+                            "721061",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1279,7 +1342,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721062"
+                            "721062",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1297,7 +1361,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721063"
+                            "721063",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1315,7 +1380,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721064"
+                            "721064",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1333,7 +1399,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721065"
+                            "721065",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1351,7 +1418,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721066"
+                            "721066",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1369,7 +1437,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721067"
+                            "721067",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1387,7 +1456,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721068"
+                            "721068",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1405,7 +1475,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721069"
+                            "721069",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1423,7 +1494,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721070"
+                            "721070",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
@@ -1441,7 +1513,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "721071"
+                            "721071",
+                            "booksanity_All"
                         ],
                         "map_locations": [
                             {
