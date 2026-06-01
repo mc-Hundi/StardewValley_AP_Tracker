@@ -1,6 +1,16 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.10",
+			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.10/stardew_valley_ap_tracker.zip",
+			"sha256": "600d4cf61e48977a74a990c38a265bcf266abffc7aa038de8c6fedd8d36d35c3",
+			"changelog": [
+				"added separate access rules for Friendsanity",
+				"fixed some logic problems",
+				"added some visibility rules for Moviesanity, Secretsanity and Eatsanity"
+			]
+		},
+		{
 			"package_version": "1.7.9",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.9/stardew_valley_ap_tracker.zip",
 			"sha256": "3f92a3b5b1b8793b4de4e3dad0bf18089ed57b3357a3b091a96e0bfbaf254ac3",
