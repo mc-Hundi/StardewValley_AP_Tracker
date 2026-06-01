@@ -1635,7 +1635,7 @@
                             "craftsanity_on"
                         ],
                         "access_rules": [
-                            "718218"
+                            ""
                         ]
                     }
                 ],
@@ -1779,7 +1779,7 @@
                             "craftsanity_on"
                         ],
                         "access_rules": [
-                            "$can_reach_ifarm"
+                            "$can_reach_ifarm,walnutroom"
                         ]
                     }
                 ],
@@ -3094,7 +3094,7 @@
                             "craftsanity_on"
                         ],
                         "access_rules": [
-                            "717228"
+                            "specialorderboard"
                         ]
                     }
                 ],
