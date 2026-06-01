@@ -15,7 +15,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720476,craftsanity_on"
+                            "720476",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:6"
@@ -63,7 +64,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720477,craftsanity_on"
+                            "720477",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:7"
@@ -111,7 +113,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720478,craftsanity_on"
+                            "720478",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:8"
@@ -159,7 +162,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720479,craftsanity_on"
+                            "720479",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_warptotemdesertrecipe"
@@ -203,7 +207,8 @@
                         "name": "Desert Trader for 10 Iridium Bars",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720575,craftsanity_on"
+                            "720575",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "desert"
@@ -229,7 +234,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720480,craftsanity_on"
+                            "720480",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_warptotemislandrecipe"
@@ -273,7 +279,8 @@
                         "name": "Volcano Dwarf shop for 10.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720563,craftsanity_on"
+                            "720563",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "island,parrot,translator",
@@ -300,7 +307,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720481,craftsanity_on"
+                            "720481",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:9"
@@ -348,7 +356,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720537,craftsanity_on"
+                            "720537",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$can_get_mastery"
@@ -396,7 +405,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720482,craftsanity_on"
+                            "720482",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_torchrecipe"
@@ -444,7 +454,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720483,craftsanity_on"
+                            "720483",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_campfirerecipe"
@@ -470,7 +481,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720484,craftsanity_on"
+                            "720484",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_woodenbrazierrecipe"
@@ -492,7 +504,8 @@
                         "name": "Carpenter's Shop for 250g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720564,craftsanity_on"
+                            "720564",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -518,7 +531,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720485,craftsanity_on"
+                            "720485",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_stonebrazierrecipe"
@@ -540,7 +554,8 @@
                         "name": "Carpenter's Shop for 400g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720565,craftsanity_on"
+                            "720565",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -566,7 +581,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720486,craftsanity_on"
+                            "720486",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_goldbrazierrecipe"
@@ -588,7 +604,8 @@
                         "name": "Carpenter's Shop for 1.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720566,craftsanity_on"
+                            "720566",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -614,7 +631,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720487,craftsanity_on"
+                            "720487",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_carvedbrazierrecipe"
@@ -636,7 +654,8 @@
                         "name": "Carpenter's Shop for 2.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720567,craftsanity_on"
+                            "720567",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -662,7 +681,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720488,craftsanity_on"
+                            "720488",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_stumpbrazierrecipe"
@@ -684,7 +704,8 @@
                         "name": "Carpenter's Shop for 800g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720568,craftsanity_on"
+                            "720568",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -710,7 +731,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720489,craftsanity_on"
+                            "720489",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_barrelbrazierrecipe"
@@ -732,7 +754,8 @@
                         "name": "Carpenter's Shop for 800g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720569,craftsanity_on"
+                            "720569",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -758,7 +781,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720490,craftsanity_on"
+                            "720490",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_skullbrazierrecipe"
@@ -780,7 +804,8 @@
                         "name": "Carpenter's Shop for 3.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720570,craftsanity_on"
+                            "720570",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -806,7 +831,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720491,craftsanity_on"
+                            "720491",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_marblebrazierrecipe"
@@ -828,7 +854,8 @@
                         "name": "Carpenter's Shop for 5.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720571,craftsanity_on"
+                            "720571",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -854,7 +881,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720492,craftsanity_on"
+                            "720492",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_woodlamppostrecipe"
@@ -876,7 +904,8 @@
                         "name": "Carpenter's Shop for 500g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720572,craftsanity_on"
+                            "720572",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -902,7 +931,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720493,craftsanity_on"
+                            "720493",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_ironlamppostrecipe"
@@ -924,7 +954,8 @@
                         "name": "Carpenter's Shop for 1.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720573,craftsanity_on"
+                            "720573",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -950,7 +981,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720494,craftsanity_on"
+                            "720494",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_jackolanternrecipe"
@@ -998,7 +1030,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720496,craftsanity_on"
+                            "720496",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:3"
@@ -1024,7 +1057,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720497,craftsanity_on"
+                            "720497",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "mining:9"
@@ -1050,7 +1084,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720498,craftsanity_on"
+                            "720498",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_furnacerecipe"
@@ -1072,7 +1107,8 @@
                         "name": "Clint (Morning after collecting 1+ Copper Ore)",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717457,craftsanity_on"
+                            "717457",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -1098,7 +1134,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720538,craftsanity_on"
+                            "720538",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$can_get_mastery"
@@ -1124,7 +1161,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720501,craftsanity_on"
+                            "720501",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:6"
@@ -1150,7 +1188,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720507,craftsanity_on"
+                            "720507",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_solarpanelrecipe"
@@ -1172,7 +1211,8 @@
                         "name": "Caroline Special Order",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717229,craftsanity_on"
+                            "717229",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "717228"
@@ -1198,7 +1238,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720503,craftsanity_on"
+                            "720503",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "fishing:4"
@@ -1224,7 +1265,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720504,craftsanity_on"
+                            "720504",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "farming:9"
@@ -1250,7 +1292,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720506,craftsanity_on"
+                            "720506",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "combat:8"
@@ -1276,7 +1319,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720502,craftsanity_on"
+                            "720502",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_ostrichincubatorrecipe"
@@ -1298,7 +1342,8 @@
                         "name": "Complete the Island Field Office Collection",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717283,craftsanity_on"
+                            "717283",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "island,parrot,snailcave",
@@ -1325,7 +1370,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720505,craftsanity_on"
+                            "720505",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "combat:6"
@@ -1351,7 +1397,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720508,craftsanity_on"
+                            "720508",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:4"
@@ -1377,7 +1424,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720500,craftsanity_on,include_endgame_locations_on"
+                            "720500",
+                            "craftsanity_on",
+                            "include_endgame_locations_on"
                         ],
                         "access_rules": [
                             "$has_heavytapperrecipe"
@@ -1403,7 +1452,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720509,craftsanity_on"
+                            "720509",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "fishing:4"
@@ -1429,7 +1479,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720539,craftsanity_on"
+                            "720539",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "fishing:8"
@@ -1455,7 +1506,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720495,craftsanity_on"
+                            "720495",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_bonemillrecipe"
@@ -1477,7 +1529,8 @@
                         "name": "Gunter Special Order",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717232,craftsanity_on"
+                            "717232",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "717228"
@@ -1503,7 +1556,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720499,craftsanity_on"
+                            "720499",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_geodecrusherrecipe"
@@ -1525,7 +1579,8 @@
                         "name": "Clint Special Order",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717230,craftsanity_on"
+                            "717230",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "717228"
@@ -1551,7 +1606,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720540,craftsanity_on"
+                            "720540",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:4"
@@ -1577,7 +1633,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720550,craftsanity_on"
+                            "720550",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "fishing:6"
@@ -1603,7 +1660,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720510,craftsanity_on"
+                            "720510",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_tuboflowersrecipe"
@@ -1629,7 +1687,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720511,craftsanity_on"
+                            "720511",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_wickedstatuerecipe"
@@ -1651,7 +1710,8 @@
                         "name": "Krobus' Shop for 1.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720574,craftsanity_on"
+                            "720574",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "sewerkey"
@@ -1677,7 +1737,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720512,craftsanity_on"
+                            "720512",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -1725,7 +1786,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720513,craftsanity_on"
+                            "720513",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -1773,7 +1835,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720514,craftsanity_on"
+                            "720514",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_chestrecipe"
@@ -1799,7 +1862,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720515,craftsanity_on"
+                            "720515",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_stonechestrecipe"
@@ -1821,7 +1885,8 @@
                         "name": "Robin special order",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717234,craftsanity_on"
+                            "717234",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "717228"
@@ -1847,7 +1912,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720541,craftsanity_on"
+                            "720541",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_bigchestrecipe"
@@ -1869,7 +1935,8 @@
                         "name": "Carpenter's Shop for 5.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720579,craftsanity_on"
+                            "720579",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -1895,7 +1962,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720542,craftsanity_on"
+                            "720542",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_bigstonechestrecipe"
@@ -1917,7 +1985,8 @@
                         "name": "Dwarf for 5.000g",
                         "item_count": 1,
                         "visibility_rules": [
-                            "720580,craftsanity_on"
+                            "720580",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "translator"
@@ -1943,7 +2012,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720516,craftsanity_on"
+                            "720516",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_woodsignrecipe"
@@ -1969,7 +2039,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720517,craftsanity_on"
+                            "720517",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_stonesignrecipe"
@@ -1995,7 +2066,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720518,craftsanity_on"
+                            "720518",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "sewerkey"
@@ -2021,7 +2093,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720543,craftsanity_on"
+                            "720543",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_textsignrecipe"
@@ -2047,7 +2120,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720519,craftsanity_on"
+                            "720519",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "greenhouse"
@@ -2073,7 +2147,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720520,craftsanity_on"
+                            "720520",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "farming:1"
@@ -2099,7 +2174,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720521,craftsanity_on"
+                            "720521",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_deluxescarecrowrecipe"
@@ -2121,7 +2197,8 @@
                         "name": "Mail the day after collecting all rarecrows",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717286,craftsanity_on"
+                            "717286",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "719031"
@@ -2147,7 +2224,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720522,craftsanity_on"
+                            "720522",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "mining:2"
@@ -2173,7 +2251,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720523,craftsanity_on"
+                            "720523",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "combat:8"
@@ -2221,7 +2300,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720524,craftsanity_on"
+                            "720524",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "mining:4"
@@ -2247,7 +2327,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720525,craftsanity_on"
+                            "720525",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "mining:7"
@@ -2273,7 +2354,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720454,craftsanity_on"
+                            "720454",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             ""
@@ -2299,7 +2381,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720527,craftsanity_on"
+                            "720527",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_miniobeliskrecipe"
@@ -2321,7 +2404,8 @@
                         "name": "Wizard special order",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717236,craftsanity_on"
+                            "717236",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "717228"
@@ -2347,7 +2431,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720528,craftsanity_on"
+                            "720528",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$has_farmcomputerrecipe"
@@ -2369,7 +2454,8 @@
                         "name": "Demetrius special order",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717231,craftsanity_on"
+                            "717231",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "717228"
@@ -2395,7 +2481,9 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720529,craftsanity_on,include_endgame_locations_on"
+                            "720529",
+                            "craftsanity_on",
+                            "include_endgame_locations_on"
                         ],
                         "access_rules": [
                             "$has_hopperrecipe"
@@ -2421,7 +2509,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720530,craftsanity_on"
+                            "720530",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:3"
@@ -2447,7 +2536,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720544,craftsanity_on"
+                            "720544",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "foraging:8"
@@ -2473,7 +2563,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720545,craftsanity_on"
+                            "720545",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$can_get_mastery"
@@ -2499,7 +2590,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720546,craftsanity_on"
+                            "720546",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$can_get_mastery"
@@ -2525,7 +2617,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720547,craftsanity_on"
+                            "720547",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$can_get_mastery"
@@ -2551,7 +2644,8 @@
                             }
                         ],
                         "visibility_rules": [
-                            "720548,craftsanity_on"
+                            "720548",
+                            "craftsanity_on"
                         ],
                         "access_rules": [
                             "$can_get_mastery"

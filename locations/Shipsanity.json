@@ -830,7 +830,8 @@
                             }
                         ],
                         "access_rules": [
-                            "landslideremoved,e90"
+                            "landslideremoved,e90",
+                            "Bamboorod,winter,pond"
                         ],
                         "map_locations": [
                             {

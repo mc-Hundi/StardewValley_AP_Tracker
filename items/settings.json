@@ -80,7 +80,7 @@
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "chefsanity_Friendship"
+                "codes": "chefsanity, chefsanity_Friendship"
             }
         ]
     },
@@ -100,7 +100,7 @@
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "chefsanity_Purchases"
+                "codes": "chefsanity, chefsanity_Purchases"
             }
         ]
     },
@@ -120,7 +120,7 @@
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "chefsanity_Queen of Sauce"
+                "codes": "chefsanity, chefsanity_Queen of Sauce"
             }
         ]
     },
@@ -140,7 +140,7 @@
             {
                 "img": "images/settings/On.png",
                 "inherit_codes": false,
-                "codes": "chefsanity_Skills"
+                "codes": "chefsanity, chefsanity_Skills"
             }
         ]
     },
