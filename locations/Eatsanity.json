@@ -630,9 +630,8 @@
                             "eatsanity_Crops"
                         ],
                         "access_rules": [
-                            "summer,rice",
                             "$season_free_harvest,rice",
-                            "fall,rice"
+                            "spring,rice"
                         ],
                         "map_locations": [
                             {
@@ -5680,7 +5679,7 @@
             {
                 "name": "Raisins",
                 "access_rules": [
-                    "dehydrator,grape,$seasonfree_harvest",
+                    "dehydrator,grape,$season_free_harvest",
                     "dehydrator,grape,fall",
                     "dehydrator,summer"
                 ],

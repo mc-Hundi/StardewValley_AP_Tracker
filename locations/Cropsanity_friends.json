@@ -3430,24 +3430,6 @@
                 ],  
                 "children": [
                     {
-                        "name": "Harvested",
-                        "sections": [
-                            {
-                                "item_count": 1
-                            }
-                        ],
-                        "visibility_rules": [
-                            "cropsanity_on"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Crops and Foraged Items",
-                                "x": 1648,
-                                "y": 797
-                            }
-                        ]
-                    },
-                    {
                         "name": "Shipped",
                         "sections": [
                             {
