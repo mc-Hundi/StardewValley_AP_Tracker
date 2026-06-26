@@ -1443,7 +1443,7 @@
                 "name": "Green Turban",
                 "children": [
                     {
-                        "name": "Green Turban/Desert Trader in exchange for 50 Omni Geodes",
+                        "name": "Desert Trader in exchange for 50 Omni Geodes",
                         "sections": [
                             {
                                 "item_count": 1
@@ -3208,7 +3208,7 @@
                 "name": "Wearable Dwarf Helm",
                 "children": [
                     {
-                        "name": "Tailoring (Dwarvish Helm/Dwarf Gadget) or random drop/",
+                        "name": "Tailoring (Dwarvish Helm/Dwarf Gadget) or random drop",
                         "sections": [
                             {
                                 "item_count": 1

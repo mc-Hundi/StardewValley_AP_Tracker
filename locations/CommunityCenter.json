@@ -1111,6 +1111,27 @@
                         "visibility_rules": [
                             "721499"
                         ]
+                    },
+                    {
+                        "name": "Trap Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "721453"
+                        ]
+                    },
+                    {
+                        "name": "Vocaloid Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "721456"
+                        ]
+                    },
+                    {
+                        "name": "Commitment Bundle",
+                        "item_count": 1,
+                        "visibility_rules": [
+                            "721418"
+                        ]
                     }
                 ],
                 "map_locations": [

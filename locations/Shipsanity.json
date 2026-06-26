@@ -3190,6 +3190,112 @@
                 ]
             },
             {
+                "name": "Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719788"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Special_Items",
+                                "x": 1126,
+                                "y": 486
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Frozen Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719785"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide,e40"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 546
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magma Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719804"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide,e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 606
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Omni Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719804"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide",
+                            "Pick,desert,skullkey",
+                            "Hoe,island"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Special_Items",
+                                "x": 1125,
+                                "y": 366
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Cinder Shard",
                 "children": [
                     {

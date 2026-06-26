@@ -73,14 +73,16 @@ function dump_table(o, depth)
 end
 
 function onClear(slot_data)
-    print(dump_table(slot_data))
+    -- print(dump_table(slot_data))
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     end
     SLOT_DATA = slot_data
     CUR_INDEX = -1
     -- reset items
+    print("Reset items here!")
     for _, v in pairs(ITEM_MAPPING) do
+        print(v)
         if v[1][1] and v[1][2] then
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
                 print(string.format("onClear: clearing item %s of type %s", v[1][1], v[1][2]))
@@ -102,15 +104,22 @@ function onClear(slot_data)
             end
         end
     end
+    print("Reset done!")
     -- reset locations
+    print("Reset locations here!")
     for _, v in pairs(LOCATION_MAPPING) do
-        if v[1][1] then
+        for _, v_obj in pairs(v) do
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-                print(string.format("onClear: clearing location %s", v[1][1]))
+                print(string.format("onClear: clearing location %s", v_obj))
             end
-            local obj = Tracker:FindObjectForCode(v[1][1])
+            print(v_obj)
+            local obj = Tracker:FindObjectForCode(v_obj)
+            print(obj.Active)
+            print(obj.ChestCount)
+            print(obj.AvailableChestCount)
             if obj then
-                if v[1][1]:sub(1, 1) == "@" then
+                print(obj)
+                if v_obj:sub(1, 1) == "@" then
                     obj.AvailableChestCount = obj.ChestCount
                 else
                     obj.Active = false
@@ -120,6 +129,7 @@ function onClear(slot_data)
             end
         end
     end
+    print("Reset done!")
 
     -- Copied form AHIT poptracker package; Used to try and read settings form slotData to set them automatically.
     local function setFromSlotData(slot_data_key, item_code_or_location, offset)

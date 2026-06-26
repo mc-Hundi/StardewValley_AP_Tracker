@@ -18,7 +18,7 @@
                             "720201"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,algaesouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -40,7 +40,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,algaesouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -66,7 +66,7 @@
                             "720202"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,artichokediprecipe"
                         ],
                         "map_locations": [
                             {
@@ -88,7 +88,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,artichokediprecipe"
                         ],
                         "map_locations": [
                             {
@@ -114,7 +114,7 @@
                             "720203"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,autumnsbountyrecipe"
                         ],
                         "map_locations": [
                             {
@@ -136,7 +136,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,autumnsbountyrecipe"
                         ],
                         "map_locations": [
                             {
@@ -162,7 +162,7 @@
                             "720204"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,summer"
+                            "kitchen,bakedfishrecipe"
                         ],
                         "map_locations": [
                             {
@@ -184,7 +184,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,summer"
+                            "shipping,kitchen,bakedfishrecipe"
                         ],
                         "map_locations": [
                             {
@@ -210,7 +210,7 @@
                             "720205"
                         ],
                         "access_rules": [
-                            "kitchen,island,turtlen,trader"
+                            "kitchen,island,turtlen,trader,bananapuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -232,7 +232,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,island,turtlen,trader"
+                            "shipping,kitchen,island,turtlen,trader,bananapuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -258,7 +258,7 @@
                             "720206"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,beanhotpotrecipe"
                         ],
                         "map_locations": [
                             {
@@ -280,7 +280,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,beanhotpotrecipe"
                         ],
                         "map_locations": [
                             {
@@ -306,7 +306,7 @@
                             "720207"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,artichokediprecipe"
                         ],
                         "map_locations": [
                             {
@@ -328,7 +328,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,artichokediprecipe"
                         ],
                         "map_locations": [
                             {
@@ -354,7 +354,7 @@
                             "720208"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,blueberrytartrecipe"
                         ],
                         "map_locations": [
                             {
@@ -376,7 +376,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,blueberrytartrecipe"
                         ],
                         "map_locations": [
                             {
@@ -402,7 +402,7 @@
                             "720209"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,breadrecipe"
                         ],
                         "map_locations": [
                             {
@@ -450,7 +450,7 @@
                             "720210"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,winter"
+                            "kitchen,bruschettarecipe"
                         ],
                         "map_locations": [
                             {
@@ -472,7 +472,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,winter"
+                            "shipping,kitchen,bruschettarecipe"
                         ],
                         "map_locations": [
                             {
@@ -498,7 +498,7 @@
                             "720211"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,summer"
+                            "kitchen,carpsurpriserecipe"
                         ],
                         "map_locations": [
                             {
@@ -520,7 +520,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,summer"
+                            "shipping,kitchen,carpsurpriserecipe"
                         ],
                         "map_locations": [
                             {
@@ -546,7 +546,7 @@
                             "720212"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,cheesecauliflowerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -568,7 +568,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,cheesecauliflowerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -594,7 +594,7 @@
                             "720213"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,winter"
+                            "kitchen,chocolatecakeresipe"
                         ],
                         "map_locations": [
                             {
@@ -616,7 +616,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,winter"
+                            "shipping,kitchen,chocolatecakeresipe"
                         ],
                         "map_locations": [
                             {
@@ -642,7 +642,7 @@
                             "720214"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,chowderrecipe"
                         ],
                         "map_locations": [
                             {
@@ -664,7 +664,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,chowderrecipe"
                         ],
                         "map_locations": [
                             {
@@ -690,7 +690,7 @@
                             "720215"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,spring"
+                            "kitchen,coleslawrecipe"
                         ],
                         "map_locations": [
                             {
@@ -712,7 +712,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,spring"
+                            "shipping,kitchen,coleslawrecipe"
                         ],
                         "map_locations": [
                             {
@@ -738,7 +738,7 @@
                             "720216"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,spring"
+                            "kitchen,completebreakfastrecipe"
                         ],
                         "map_locations": [
                             {
@@ -760,7 +760,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,spring"
+                            "shipping,kitchen,completebreakfastrecipe"
                         ],
                         "map_locations": [
                             {
@@ -786,7 +786,7 @@
                             "720217"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,cookiesrecipe"
                         ],
                         "map_locations": [
                             {
@@ -808,7 +808,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,cookiesrecipe"
                         ],
                         "map_locations": [
                             {
@@ -834,7 +834,7 @@
                             "720218"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,crabcakesrecipe"
                         ],
                         "map_locations": [
                             {
@@ -856,7 +856,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,crabcakesrecipe"
                         ],
                         "map_locations": [
                             {
@@ -882,7 +882,7 @@
                             "720219"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,winter"
+                            "kitchen,cranberrycandyrecipe"
                         ],
                         "map_locations": [
                             {
@@ -904,7 +904,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,winter"
+                            "shipping,kitchen,cranberrycandyrecipe"
                         ],
                         "map_locations": [
                             {
@@ -930,7 +930,7 @@
                             "720220"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,cranberrysaucerecipe"
                         ],
                         "map_locations": [
                             {
@@ -952,7 +952,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,cranberrysaucerecipe"
                         ],
                         "map_locations": [
                             {
@@ -978,7 +978,7 @@
                             "720221"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,crispybassrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1000,7 +1000,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,crispybassrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1026,7 +1026,7 @@
                             "720222"
                         ],
                         "access_rules": [
-                            "kitchen,fishing:3"
+                            "kitchen,dishothesearecipe"
                         ],
                         "map_locations": [
                             {
@@ -1048,7 +1048,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,dishothesearecipe"
                         ],
                         "map_locations": [
                             {
@@ -1074,7 +1074,7 @@
                             "720223"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,eggplantparmesanrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1096,7 +1096,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,eggplantparmesanrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1122,7 +1122,7 @@
                             "720224"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,escargotrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1144,7 +1144,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,escargotrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1170,7 +1170,7 @@
                             "720225"
                         ],
                         "access_rules": [
-                            "kitchen,farming:3"
+                            "kitchen,farmerslunchrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1192,7 +1192,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,farming:3"
+                            "shipping,kitchen,farmerslunchrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1218,7 +1218,7 @@
                             "720226"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,fiddleheadrisottorecipe"
                         ],
                         "map_locations": [
                             {
@@ -1240,7 +1240,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,fiddleheadrisottorecipe"
                         ],
                         "map_locations": [
                             {
@@ -1266,7 +1266,7 @@
                             "720227"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,fishstewrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1288,7 +1288,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,fishstewrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1314,7 +1314,7 @@
                             "720228"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,fishtacorecipe"
                         ],
                         "map_locations": [
                             {
@@ -1336,7 +1336,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,fishtacorecipe"
                         ],
                         "map_locations": [
                             {
@@ -1362,7 +1362,7 @@
                             "720229"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,friedcalamarirecipe"
                         ],
                         "map_locations": [
                             {
@@ -1384,7 +1384,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,friedcalamarirecipe"
                         ],
                         "map_locations": [
                             {
@@ -1410,7 +1410,7 @@
                             "720230"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,friedeelrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1432,7 +1432,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,friedeelrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1458,7 +1458,7 @@
                             "720231"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,friedeggrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1480,7 +1480,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,friedeggrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1506,7 +1506,7 @@
                             "720232"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,friedmushroomrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1528,7 +1528,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,friedmushroomrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1554,7 +1554,7 @@
                             "720233"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,fruitsaladrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1576,7 +1576,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,fruitsaladrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1602,7 +1602,7 @@
                             "720234"
                         ],
                         "access_rules": [
-                            "kitchen,island,turtlen"
+                            "kitchen,island,turtlen,gingeralerecipe"
                         ],
                         "map_locations": [
                             {
@@ -1624,7 +1624,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,island,turtlen"
+                            "shipping,kitchen,island,turtlen,gingeralerecipe"
                         ],
                         "map_locations": [
                             {
@@ -1650,7 +1650,7 @@
                             "720235"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,glazedyamsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1672,7 +1672,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,glazedyamsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1698,7 +1698,7 @@
                             "720236"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,hashbrownsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1720,7 +1720,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,hashbrownsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1746,7 +1746,7 @@
                             "720237"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,icecreamrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1768,7 +1768,8 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,icecreamrecipe",
+                            "summer"
                         ],
                         "map_locations": [
                             {
@@ -1794,7 +1795,7 @@
                             "720238"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,lobsterbisquerecipe"
                         ],
                         "map_locations": [
                             {
@@ -1816,7 +1817,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,lobsterbisquerecipe"
                         ],
                         "map_locations": [
                             {
@@ -1842,7 +1843,7 @@
                             "720239"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,spring"
+                            "kitchen,luckylunchrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1864,7 +1865,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,spring"
+                            "shipping,kitchen,luckylunchrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1890,7 +1891,7 @@
                             "720240"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,makirollrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1912,7 +1913,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,makirollrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1938,7 +1939,7 @@
                             "720241"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,mangostickyricerecipe"
                         ],
                         "map_locations": [
                             {
@@ -1960,7 +1961,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,mangostickyricerecipe"
                         ],
                         "map_locations": [
                             {
@@ -1986,7 +1987,7 @@
                             "720242"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,summer"
+                            "kitchen,maplebarrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2008,7 +2009,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,summer"
+                            "shipping,kitchen,maplebarrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2034,7 +2035,7 @@
                             "720243"
                         ],
                         "access_rules": [
-                            "kitchen,mining:3"
+                            "kitchen,minerstreatrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2056,7 +2057,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,mining:3"
+                            "shipping,kitchen,minerstreatrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2082,7 +2083,7 @@
                             "720281"
                         ],
                         "access_rules": [
-                            "kitchen,foraging:3"
+                            "kitchen,mosssouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2104,7 +2105,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,foraging:3"
+                            "shipping,kitchen,mosssouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2130,7 +2131,7 @@
                             "720244"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,omeletrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2152,7 +2153,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,omeletrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2178,7 +2179,7 @@
                             "720245"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,palebrothrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2200,7 +2201,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,palebrothrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2226,7 +2227,7 @@
                             "720246"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,pancakesrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2248,7 +2249,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,pancakesrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2274,7 +2275,7 @@
                             "720247"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,parsnipsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2296,7 +2297,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,parsnipsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2322,7 +2323,7 @@
                             "720248"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,pepperpoppersrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2344,7 +2345,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,pepperpoppersrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2370,7 +2371,7 @@
                             "720249"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,summer"
+                            "kitchen,pinkcakerecipe"
                         ],
                         "map_locations": [
                             {
@@ -2392,7 +2393,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,summer"
+                            "shipping,kitchen,pinkcakerecipe"
                         ],
                         "map_locations": [
                             {
@@ -2418,7 +2419,7 @@
                             "720250"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,pizzarecipe"
                         ],
                         "map_locations": [
                             {
@@ -2466,7 +2467,7 @@
                             "720251"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,winter"
+                            "kitchen,plumpuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2488,7 +2489,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,winter"
+                            "shipping,kitchen,plumpuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2514,7 +2515,7 @@
                             "720252"
                         ],
                         "access_rules": [
-                            "kitchen,island"
+                            "kitchen,island,poisouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2536,7 +2537,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,island"
+                            "shipping,kitchen,island,poisouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2562,7 +2563,7 @@
                             "720253"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,winter"
+                            "kitchen,poppyseedmuffinrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2584,7 +2585,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,winter"
+                            "shipping,kitchen,poppyseedmuffinrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2610,7 +2611,7 @@
                             "720254"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,winter"
+                            "kitchen,pumpkinpierecipe"
                         ],
                         "map_locations": [
                             {
@@ -2632,7 +2633,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,winter"
+                            "shipping,kitchen,pumpkinpierecipe"
                         ],
                         "map_locations": [
                             {
@@ -2658,7 +2659,7 @@
                             "720255"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,pumpkinsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2680,7 +2681,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,pumpkinsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -2706,7 +2707,7 @@
                             "720256"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,spring"
+                            "kitchen,radishsaladrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2728,7 +2729,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,spring"
+                            "shipping,kitchen,radishsaladrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2754,7 +2755,7 @@
                             "720257"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,redplaterecipe"
                         ],
                         "map_locations": [
                             {
@@ -2776,7 +2777,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,redplaterecipe"
                         ],
                         "map_locations": [
                             {
@@ -2802,7 +2803,7 @@
                             "720258"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,rhubarbpierecipe"
                         ],
                         "map_locations": [
                             {
@@ -2824,7 +2825,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,rhubarbpierecipe"
                         ],
                         "map_locations": [
                             {
@@ -2850,7 +2851,7 @@
                             "720259"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,ricepuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2872,7 +2873,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,ricepuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2898,7 +2899,7 @@
                             "720260"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,summer"
+                            "kitchen,roastedhazelnutsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2920,7 +2921,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,summer"
+                            "shipping,kitchen,roastedhazelnutsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2946,7 +2947,7 @@
                             "720261"
                         ],
                         "access_rules": [
-                            "kitchen,combat:3"
+                            "kitchen,rootsplatterrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2968,7 +2969,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,combat:3"
+                            "shipping,kitchen,rootsplatterrecipe"
                         ],
                         "map_locations": [
                             {
@@ -2994,7 +2995,7 @@
                             "720262"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,saladrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3042,7 +3043,7 @@
                             "720263"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,salmondinnerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3064,7 +3065,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,salmondinnerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3090,7 +3091,7 @@
                             "720264"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,sashimirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3112,7 +3113,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,sashimirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3138,7 +3139,7 @@
                             "720265"
                         ],
                         "access_rules": [
-                            "kitchen,fishing:9"
+                            "kitchen,seafoampuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3160,7 +3161,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,fishing:9"
+                            "shipping,kitchen,seafoampuddingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3186,7 +3187,7 @@
                             "720266"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,winter"
+                            "kitchen,shrimpcocktailrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3208,7 +3209,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,winter"
+                            "shipping,kitchen,shrimpcocktailrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3234,7 +3235,7 @@
                             "720267"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,spaghettirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3256,7 +3257,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping"
+                            "shipping,spaghettirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3282,7 +3283,7 @@
                             "720268"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,spicyeelrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3304,7 +3305,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,spicyeelrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3330,7 +3331,7 @@
                             "720269"
                         ],
                         "access_rules": [
-                            "kitchen,combat:9"
+                            "kitchen,squidinkraviolirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3352,7 +3353,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,combat:9"
+                            "shipping,kitchen,squidinkraviolirecipe"
                         ],
                         "map_locations": [
                             {
@@ -3378,7 +3379,7 @@
                             "720270"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,spring"
+                            "kitchen,stirfryrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3400,7 +3401,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,spring"
+                            "shipping,kitchen,stirfryrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3426,7 +3427,7 @@
                             "720271"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,strangebunrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3448,7 +3449,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,strangebunrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3474,7 +3475,7 @@
                             "720272"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,stuffingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3496,7 +3497,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,stuffingrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3522,7 +3523,7 @@
                             "720273"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,supermealrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3544,7 +3545,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,supermealrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3570,7 +3571,7 @@
                             "720274"
                         ],
                         "access_rules": [
-                            "kitchen,foraging:8"
+                            "kitchen,survivalburgerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3592,7 +3593,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,foraging:8"
+                            "shipping,kitchen,survivalburgerrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3618,7 +3619,7 @@
                             "720275"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,tomkhasouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -3640,7 +3641,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,tomkhasouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -3666,7 +3667,7 @@
                             "720276"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,tortillarecipe"
                         ],
                         "map_locations": [
                             {
@@ -3688,7 +3689,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,tortillarecipe"
                         ],
                         "map_locations": [
                             {
@@ -3714,7 +3715,7 @@
                             "720277"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,tripleshotespressorecipe"
                         ],
                         "map_locations": [
                             {
@@ -3736,7 +3737,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,tripleshotespressorecipe"
                         ],
                         "map_locations": [
                             {
@@ -3762,7 +3763,7 @@
                             "720278"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,tropicalcurryrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3784,7 +3785,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,tropicalcurryrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3810,7 +3811,7 @@
                             "720279"
                         ],
                         "access_rules": [
-                            "kitchen,queenofsauce,fall"
+                            "kitchen,troutsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -3832,7 +3833,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen,queenofsauce,fall"
+                            "shipping,kitchen,troutsouprecipe"
                         ],
                         "map_locations": [
                             {
@@ -3858,7 +3859,7 @@
                             "720280"
                         ],
                         "access_rules": [
-                            "kitchen"
+                            "kitchen,vegetablemedleyrecipe"
                         ],
                         "map_locations": [
                             {
@@ -3880,7 +3881,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,kitchen"
+                            "shipping,kitchen,vegetablemedleyrecipe"
                         ],
                         "map_locations": [
                             {
@@ -4593,7 +4594,7 @@
                             "720331"
                         ],
                         "access_rules": [
-                            ""
+                            "pierre<3:3"
                         ]
                     }
                 ],
@@ -4662,7 +4663,7 @@
                             "720334"
                         ],
                         "access_rules": [
-                            "island,turtlen"
+                            "island,turtlen,translator"
                         ]
                     }
                 ],
@@ -5100,7 +5101,7 @@
                             "720352"
                         ],
                         "access_rules": [
-                            "island,leo<3:3"
+                            "leo<3:3"
                         ]
                     }
                 ],
@@ -5215,7 +5216,7 @@
                             "720357"
                         ],
                         "access_rules": [
-                            "emily<3:7"
+                            "e"
                         ]
                     }
                 ],

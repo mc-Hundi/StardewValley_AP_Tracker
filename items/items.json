@@ -1802,5 +1802,11 @@
         "type": "toggle",
         "allow_disabled": true,
         "codes": "slimeincubator"
+    },
+    {
+        "name": "Treehouse",
+        "type": "toggle",
+        "allow_disabled": true,
+        "codes": "treehouse"
     }
 ]   

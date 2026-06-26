@@ -1116,8 +1116,7 @@
                         ],
                         "visibility_rules": [
                             "720425",
-                            "craftsanity_on",
-                            "include_endgame_locations_on"
+                            "craftsanity_on,include_endgame_locations_on"
                         ],
                         "access_rules": [
                             "$has_hyperspeedgrorecipe"
@@ -1138,7 +1137,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "719549,include_endgame_locations_on",
+                            "719549",
                             "shipsanity_all,include_endgame_locations_on"
                         ],
                         "access_rules": [
@@ -1582,10 +1581,10 @@
                         ],
                         "visibility_rules": [
                             "720434",
-                            "craftsanity_on"
+                            "craftsanity_on,museum_milestone"
                         ],
                         "access_rules": [
-                            "$has_ancientseedsrecipe"
+                            "ancientseedsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1607,7 +1606,7 @@
                             "shipsanity_all"
                         ],
                         "access_rules": [
-                            "shipping,$has_ancientseedsrecipe"
+                            "shipping,ancientseedsrecipe"
                         ],
                         "map_locations": [
                             {
@@ -1632,7 +1631,7 @@
                         "item_count": 1,
                         "visibility_rules": [
                             "717164",
-                            "craftsanity_on"
+                            "craftsanity_on,museum_milestone"
                         ],
                         "access_rules": [
                             ""
@@ -1731,7 +1730,7 @@
                         ],
                         "visibility_rules": [
                             "720533",
-                            "craftsanity_on"
+                            "craftsanity_on,include_endgame_locations_on"
                         ],
                         "access_rules": [
                             "$has_bluegrassstarterrecipe"
@@ -1752,7 +1751,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "719562,include_endgame_locations_on",
+                            "719562",
                             "shipsanity_all,include_endgame_locations_on"
                         ],
                         "access_rules": [
@@ -1775,8 +1774,7 @@
                         "name": "Purchase from Mr Qi for 40 Qi Gems",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717491",
-                            "craftsanity_on"
+                            "717491"
                         ],
                         "access_rules": [
                             "$can_reach_ifarm,walnutroom"
@@ -3461,8 +3459,7 @@
                         ],
                         "visibility_rules": [
                             "720461",
-                            "craftsanity_on",
-                            "include_endgame_locations_on"
+                            "craftsanity_on,include_endgame_locations_on"
                         ],
                         "access_rules": [
                             "$has_magicbaitrecipe"
@@ -3483,7 +3480,7 @@
                             }
                         ],
                         "visibility_rules": [
-                            "719941,include_endgame_locations_on",
+                            "719941,",
                             "shipsanity_all,include_endgame_locations_on"
                         ],
                         "access_rules": [
@@ -3885,11 +3882,6 @@
                                 "map": "Craft1",
                                 "x": 1543,
                                 "y": 265
-                            },
-                            {
-                                "map": "Eatsanity",
-                                "x": 1578,
-                                "y": 197
                             }
                         ]
                     },
@@ -3912,6 +3904,11 @@
                                 "map": "Craft1",
                                 "x": 1576,
                                 "y": 265
+                            },
+                            {
+                                "map": "Eatsanity",
+                                "x": 1578,
+                                "y": 197
                             }
                         ]
                     }

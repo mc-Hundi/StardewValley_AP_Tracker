@@ -1107,8 +1107,7 @@
                         "name": "Clint (Morning after collecting 1+ Copper Ore)",
                         "item_count": 1,
                         "visibility_rules": [
-                            "717457",
-                            "craftsanity_on"
+                            "717457"
                         ],
                         "access_rules": [
                             ""
@@ -1425,8 +1424,7 @@
                         ],
                         "visibility_rules": [
                             "720500",
-                            "craftsanity_on",
-                            "include_endgame_locations_on"
+                            "craftsanity_on,include_endgame_locations_on"
                         ],
                         "access_rules": [
                             "$has_heavytapperrecipe"
@@ -2482,8 +2480,7 @@
                         ],
                         "visibility_rules": [
                             "720529",
-                            "craftsanity_on",
-                            "include_endgame_locations_on"
+                            "craftsanity_on,include_endgame_locations_on"
                         ],
                         "access_rules": [
                             "$has_hopperrecipe"

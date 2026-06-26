@@ -7725,7 +7725,7 @@
                         ],
                         "visibility_rules": [
                             "722024",
-                            "eatsanity_Fish"
+                            "eatsanity_Fish,qi_orders"
                         ],
                         "map_locations": [
                             {
@@ -7752,7 +7752,7 @@
                         ],
                         "visibility_rules": [
                             "722025",
-                            "eatsanity_Fish"
+                            "eatsanity_Fish,qi_orders"
                         ],
                         "map_locations": [
                             {
@@ -7779,7 +7779,7 @@
                         ],
                         "visibility_rules": [
                             "722026",
-                            "eatsanity_Fish"
+                            "eatsanity_Fish,qi_orders"
                         ],
                         "map_locations": [
                             {
@@ -7806,7 +7806,7 @@
                         ],
                         "visibility_rules": [
                             "722027",
-                            "eatsanity_Fish"
+                            "eatsanity_Fish,qi_orders"
                         ],
                         "map_locations": [
                             {
@@ -7833,7 +7833,7 @@
                         ],
                         "visibility_rules": [
                             "722028",
-                            "eatsanity_Fish"
+                            "eatsanity_Fish,qi_orders"
                         ],
                         "map_locations": [
                             {

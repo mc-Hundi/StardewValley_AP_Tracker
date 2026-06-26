@@ -170,7 +170,7 @@
             {
                 "img": "images/settings/BoardQi.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_qi"
+                "codes": "special_order_locations, board_qi, qi_orders"
             },
             {
                 "img": "images/settings/Vanilla_Short.png",
@@ -190,7 +190,7 @@
             {
                 "img": "images/settings/Board_Qi_Short.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_qi_short"
+                "codes": "special_order_locations, board_qi_short, qi_orders"
             },
             {
                 "img": "images/settings/Vanilla_Very_Short.png",
@@ -210,7 +210,7 @@
             {
                 "img": "images/settings/Board_Qi_Very_Short.png",
                 "inherit_codes": false,
-                "codes": "special_order_locations, board_qi_very_short"
+                "codes": "special_order_locations, board_qi_very_short, qi_orders"
             }
         ]
     },
