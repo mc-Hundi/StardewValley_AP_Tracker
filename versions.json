@@ -1,6 +1,14 @@
 {
 	"versions": [
 		{
+			"package_version": "1.7.12",
+			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.12/stardew_valley_ap_tracker.zip",
+			"sha256": "1952b561e7a5397afc6523db1f774ecf6144ccb19885420a007b7cf46e36d3fa",
+			"changelog": [
+				"some bug fixing"
+			]
+		},
+		{
 			"package_version": "1.7.11",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.11/stardew_valley_ap_tracker.zip",
 			"sha256": "91f4ffbc301bb0a40703dae8276316c43f081cfd09fe06f637c7cbf7448f363e",
