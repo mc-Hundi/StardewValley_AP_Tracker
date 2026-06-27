@@ -163,11 +163,208 @@
         "stages": [
             {
                 "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "img_mods": "dim",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
+                "codes": "pack"
+            },
+            {
+                "img": "images/Backpack.png",
                 "codes": "pack"
             },
             {
                 "img": "images/36_Backpack.png",
                 "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/36_Backpack.png",
+                "codes": "pack,bigpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
+            },
+            {
+                "img": "images/48_Backpack.png",
+                "codes": "pack,biggerpack"
             },
             {
                 "img": "images/48_Backpack.png",
@@ -645,6 +842,46 @@
             {
                 "img": "images/Elevator/120.png",
                 "codes": "elevator,e120"
+            }
+        ]
+    },
+    {
+        "name": "Skull Cavern Elevator Level",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "stages": [
+            {
+                "img": "images/Elevator/skull_25.png",
+                "codes": "progressiveskullcavernelevator"
+            },
+            {
+                "img": "images/Elevator/skull_50.png",
+                "codes": "progressiveskullcavernelevator"
+            },
+            {
+                "img": "images/Elevator/skull_75.png",
+                "codes": "progressiveskullcavernelevator"
+            },
+            {
+                "img": "images/Elevator/skull_100.png",
+                "codes": "progressiveskullcavernelevator"
+            },
+            {
+                "img": "images/Elevator/skull_125.png",
+                "codes": "progressiveskullcavernelevator"
+            },
+            {
+                "img": "images/Elevator/skull_150.png",
+                "codes": "progressiveskullcavernelevator"
+            },
+            {
+                "img": "images/Elevator/skull_175.png",
+                "codes": "progressiveskullcavernelevator"
+            },
+            {
+                "img": "images/Elevator/skull_200.png",
+                "codes": "progressiveskullcavernelevator"
             }
         ]
     },

@@ -224,16 +224,314 @@
             },
             {
                 "name": "Backpack Upgrades",
-                "visibility_rules": [
-                    "bpshuffle_on"
-                ],
                 "sections": [
                     {
+                        "name": "Small Pack",
+                        "visibility_rules": [
+                            "717161"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 1",
+                        "visibility_rules": [
+                            "717162"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 2",
+                        "visibility_rules": [
+                            "717163"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 3",
+                        "visibility_rules": [
+                            "717164"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 4",
+                        "visibility_rules": [
+                            "717165"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 5",
+                        "visibility_rules": [
+                            "717166"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 6",
+                        "visibility_rules": [
+                            "717167"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 7",
+                        "visibility_rules": [
+                            "717168"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 8",
+                        "visibility_rules": [
+                            "717169"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 9",
+                        "visibility_rules": [
+                            "717170"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 10",
+                        "visibility_rules": [
+                            "717171"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 11",
+                        "visibility_rules": [
+                            "717172"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Small Pack 12",
+                        "visibility_rules": [
+                            "717174"
+                        ],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Large Pack",
+                        "visibility_rules": [
+                            "717101"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 1",
+                        "visibility_rules": [
+                            "717175"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 2",
+                        "visibility_rules": [
+                            "717176"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 3",
+                        "visibility_rules": [
+                            "717177"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 4",
+                        "visibility_rules": [
+                            "717178"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 5",
+                        "visibility_rules": [
+                            "717179"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 6",
+                        "visibility_rules": [
+                            "717180"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 7",
+                        "visibility_rules": [
+                            "717181"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 8",
+                        "visibility_rules": [
+                            "717182"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 9",
+                        "visibility_rules": [
+                            "717183"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 10",
+                        "visibility_rules": [
+                            "717184"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 11",
+                        "visibility_rules": [
+                            "717185"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Large Pack 12",
+                        "visibility_rules": [
+                            "717187"
+                        ],
                         "item_count": 1
                     },
                     {
                         "name": "Deluxe Pack",
+                        "visibility_rules": [
+                            "717102"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 1",
+                        "visibility_rules": [
+                            "717188"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 2",
+                        "visibility_rules": [
+                            "717189"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 3",
+                        "visibility_rules": [
+                            "717190"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 4",
+                        "visibility_rules": [
+                            "717191"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 5",
+                        "visibility_rules": [
+                            "717192"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 6",
+                        "visibility_rules": [
+                            "717193"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 7",
+                        "visibility_rules": [
+                            "717194"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 8",
+                        "visibility_rules": [
+                            "717195"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 9",
+                        "visibility_rules": [
+                            "717196"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 10",
+                        "visibility_rules": [
+                            "717197"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 11",
+                        "visibility_rules": [
+                            "717198"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "pack"
+                        ]
+                    },
+                    {
+                        "name": "Deluxe Pack 12",
+                        "visibility_rules": [
+                            "717199"
+                        ],
                         "item_count": 1,
                         "access_rules": [
                             "pack"
@@ -241,6 +539,129 @@
                     },
                     {
                         "name": "Premium Pack",
+                        "visibility_rules": [
+                            "774001"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 1",
+                        "visibility_rules": [
+                            "774101"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 2",
+                        "visibility_rules": [
+                            "774102"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 3",
+                        "visibility_rules": [
+                            "774103"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 4",
+                        "visibility_rules": [
+                            "774104"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 5",
+                        "visibility_rules": [
+                            "774105"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 6",
+                        "visibility_rules": [
+                            "774106"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 7",
+                        "visibility_rules": [
+                            "774107"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 8",
+                        "visibility_rules": [
+                            "774108"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 9",
+                        "visibility_rules": [
+                            "774109"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 10",
+                        "visibility_rules": [
+                            "774110"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 11",
+                        "visibility_rules": [
+                            "774111"
+                        ],
+                        "item_count": 1,
+                        "access_rules": [
+                            "bigpack"
+                        ]
+                    },
+                    {
+                        "name": "Premium Pack 12",
+                        "visibility_rules": [
+                            "774112"
+                        ],
                         "item_count": 1,
                         "access_rules": [
                             "bigpack"

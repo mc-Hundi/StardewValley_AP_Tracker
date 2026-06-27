@@ -3302,5 +3302,33 @@
         "loop": false,
         "allow_disabled": true,
         "codes": "720867"
+    },
+    {
+        "name": "719788",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719788"
+    },
+    {
+        "name": "719785",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719785"
+    },
+    {
+        "name": "719804",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719804"
+    },
+    {
+        "name": "719813",
+        "type": "toggle",
+        "loop": false,
+        "allow_disabled": true,
+        "codes": "719813"
     }
 ]

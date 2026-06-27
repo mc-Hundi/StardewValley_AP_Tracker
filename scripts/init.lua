@@ -22,6 +22,7 @@ Tracker:AddItems("items/monstersanity_items.json")
 Tracker:AddItems("items/craftsanity_items.json")
 Tracker:AddItems("items/walnutsanity_items.json")
 Tracker:AddItems("items/endgame_items.json")
+Tracker:AddItems("items/world_items.json")
 
 ScriptHost:LoadScript("scripts/logic.lua")
 

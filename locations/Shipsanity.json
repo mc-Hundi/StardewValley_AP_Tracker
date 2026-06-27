@@ -379,6 +379,58 @@
                 ]
             },
             {
+                "name": "Frozen Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719785"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide,e40"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Material",
+                                "x": 540,
+                                "y": 306
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719788"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Material",
+                                "x": 540,
+                                "y": 366
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Gold Bar",
                 "children": [
                     {
@@ -399,7 +451,7 @@
                             {
                                 "map": "Material",
                                 "x": 540,
-                                "y": 306
+                                "y": 426
                             }
                         ]
                     }
@@ -422,7 +474,7 @@
                             {
                                 "map": "Material",
                                 "x": 540,
-                                "y": 366
+                                "y": 486
                             }
                         ]
                     }
@@ -448,7 +500,7 @@
                             {
                                 "map": "Material",
                                 "x": 540,
-                                "y": 426
+                                "y": 546
                             }
                         ]
                     }
@@ -471,7 +523,7 @@
                             {
                                 "map": "Material",
                                 "x": 540,
-                                "y": 486
+                                "y": 606
                             }
                         ]
                     }
@@ -496,8 +548,8 @@
                         "map_locations": [
                             {
                                 "map": "Material",
-                                "x": 540,
-                                "y": 546
+                                "x": 833,
+                                "y": 66
                             }
                         ]
                     }
@@ -523,8 +575,8 @@
                         "map_locations": [
                             {
                                 "map": "Material",
-                                "x": 540,
-                                "y": 606
+                                "x": 833,
+                                "y": 126
                             }
                         ]
                     }
@@ -550,7 +602,7 @@
                             {
                                 "map": "Material",
                                 "x": 833,
-                                "y": 66
+                                "y": 186
                             }
                         ]
                     }
@@ -577,7 +629,7 @@
                             {
                                 "map": "Material",
                                 "x": 833,
-                                "y": 126
+                                "y": 246
                             }
                         ]
                     }
@@ -600,7 +652,33 @@
                             {
                                 "map": "Material",
                                 "x": 833,
-                                "y": 186
+                                "y": 306
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Magma Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719804"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide,e80"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Material",
+                                "x": 833,
+                                "y": 366
                             }
                         ]
                     }
@@ -623,7 +701,7 @@
                             {
                                 "map": "Material",
                                 "x": 833,
-                                "y": 246
+                                "y": 426
                             }
                         ]
                     }
@@ -650,7 +728,7 @@
                             {
                                 "map": "Material",
                                 "x": 833,
-                                "y": 306
+                                "y": 486
                             }
                         ]
                     }
@@ -677,7 +755,7 @@
                             {
                                 "map": "Material",
                                 "x": 833,
-                                "y": 366
+                                "y": 546
                             }
                         ]
                     }
@@ -703,7 +781,7 @@
                             {
                                 "map": "Material",
                                 "x": 833,
-                                "y": 426
+                                "y": 606
                             }
                         ]
                     }
@@ -729,8 +807,8 @@
                         "map_locations": [
                             {
                                 "map": "Material",
-                                "x": 833,
-                                "y": 486
+                                "x": 1126,
+                                "y": 66
                             }
                         ]
                     }
@@ -755,8 +833,8 @@
                         "map_locations": [
                             {
                                 "map": "Material",
-                                "x": 833,
-                                "y": 546
+                                "x": 1126,
+                                "y": 126
                             }
                         ]
                     }
@@ -782,8 +860,8 @@
                         "map_locations": [
                             {
                                 "map": "Material",
-                                "x": 833,
-                                "y": 606
+                                "x": 1126,
+                                "y": 186
                             }
                         ]
                     }
@@ -810,7 +888,7 @@
                             {
                                 "map": "Material",
                                 "x": 1126,
-                                "y": 66
+                                "y": 246
                             }
                         ]
                     }
@@ -837,7 +915,7 @@
                             {
                                 "map": "Material",
                                 "x": 1126,
-                                "y": 126
+                                "y": 306
                             }
                         ]
                     }
@@ -860,7 +938,7 @@
                             {
                                 "map": "Material",
                                 "x": 1126,
-                                "y": 186
+                                "y": 366
                             }
                         ]
                     }
@@ -887,7 +965,7 @@
                             {
                                 "map": "Material",
                                 "x": 1126,
-                                "y": 246
+                                "y": 426
                             }
                         ]
                     }
@@ -914,7 +992,7 @@
                             {
                                 "map": "Material",
                                 "x": 1126,
-                                "y": 306
+                                "y": 486
                             }
                         ]
                     }
@@ -937,7 +1015,7 @@
                             {
                                 "map": "Material",
                                 "x": 1126,
-                                "y": 366
+                                "y": 546
                             }
                         ]
                     }
@@ -964,7 +1042,7 @@
                             {
                                 "map": "Material",
                                 "x": 1126,
-                                "y": 426
+                                "y": 606
                             }
                         ]
                     }
@@ -2859,6 +2937,34 @@
                 ]
             },
             {
+                "name": "Omni Geode",
+                "children": [
+                    {
+                        "name": "Shipped",
+                        "sections": [
+                            {
+                                "item_count": 1,
+                                "visibility_rules": [
+                                    "719804"
+                                ]
+                            }
+                        ],
+                        "access_rules": [
+                            "Pick,landslide",
+                            "Pick,desert,skullkey",
+                            "Hoe,island"
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Special_Items",
+                                "x": 832,
+                                "y": 66
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "name": "Pearl",
                 "children": [
                     {
@@ -2875,7 +2981,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 832,
-                                "y": 66
+                                "y": 126
                             }
                         ]
                     }
@@ -2901,7 +3007,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 832,
-                                "y": 126
+                                "y": 186
                             }
                         ]
                     }
@@ -2927,7 +3033,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 832,
-                                "y": 186
+                                "y": 246
                             }
                         ]
                     }
@@ -2953,7 +3059,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 832,
-                                "y": 246
+                                "y": 306
                             }
                         ]
                     }
@@ -2979,7 +3085,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 832,
-                                "y": 306
+                                "y": 366
                             }
                         ]
                     }
@@ -3005,7 +3111,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 832,
-                                "y": 366
+                                "y": 426
                             }
                         ]
                     }
@@ -3032,7 +3138,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 832,
-                                "y": 426
+                                "y": 486
                             }
                         ]
                     }
@@ -3057,8 +3163,8 @@
                         "map_locations": [
                             {
                                 "map": "Special_Items",
-                                "x": 832,
-                                "y": 486
+                                "x": 1125,
+                                "y": 66
                             }
                         ]
                     }
@@ -3081,7 +3187,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 1125,
-                                "y": 66
+                                "y": 126
                             }
                         ]
                     }
@@ -3107,7 +3213,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 1125,
-                                "y": 126
+                                "y": 186
                             }
                         ]
                     }
@@ -3133,7 +3239,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 1125,
-                                "y": 186
+                                "y": 246
                             }
                         ]
                     }
@@ -3156,7 +3262,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 1125,
-                                "y": 246
+                                "y": 326
                             }
                         ]
                     }
@@ -3183,113 +3289,7 @@
                             {
                                 "map": "Special_Items",
                                 "x": 1125,
-                                "y": 306
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Geode",
-                "children": [
-                    {
-                        "name": "Shipped",
-                        "sections": [
-                            {
-                                "item_count": 1,
-                                "visibility_rules": [
-                                    "719788"
-                                ]
-                            }
-                        ],
-                        "access_rules": [
-                            "Pick,landslide"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Special_Items",
-                                "x": 1126,
-                                "y": 486
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Frozen Geode",
-                "children": [
-                    {
-                        "name": "Shipped",
-                        "sections": [
-                            {
-                                "item_count": 1,
-                                "visibility_rules": [
-                                    "719785"
-                                ]
-                            }
-                        ],
-                        "access_rules": [
-                            "Pick,landslide,e40"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Special_Items",
-                                "x": 1125,
-                                "y": 546
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Magma Geode",
-                "children": [
-                    {
-                        "name": "Shipped",
-                        "sections": [
-                            {
-                                "item_count": 1,
-                                "visibility_rules": [
-                                    "719804"
-                                ]
-                            }
-                        ],
-                        "access_rules": [
-                            "Pick,landslide,e80"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Special_Items",
-                                "x": 1125,
-                                "y": 606
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Omni Geode",
-                "children": [
-                    {
-                        "name": "Shipped",
-                        "sections": [
-                            {
-                                "item_count": 1,
-                                "visibility_rules": [
-                                    "719804"
-                                ]
-                            }
-                        ],
-                        "access_rules": [
-                            "Pick,landslide",
-                            "Pick,desert,skullkey",
-                            "Hoe,island"
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Special_Items",
-                                "x": 1125,
-                                "y": 366
+                                "y": 386
                             }
                         ]
                     }
