@@ -3,10 +3,11 @@
 		{
 			"package_version": "1.7.13",
 			"download_url": "https://github.com/mc-Hundi/StardewValley_AP_Tracker/releases/download/1.7.13/stardew_valley_ap_tracker.zip",
-			"sha256": "",
+			"sha256": "bf445bd6e926d765c144d1aa94c4342de09bac80aab83b77d1a41d9cd442264f",
 			"changelog": [
 				"added support for different backpack sizes",
-				"added missing geodes"
+				"added missing geodes",
+				"added skull cavern elevator"
 			]
 		},
 		{
