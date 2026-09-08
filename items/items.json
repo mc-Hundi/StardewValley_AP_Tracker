@@ -2,7 +2,6 @@
   {
     "name": "Pickaxe",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Pickaxe.png",
@@ -29,7 +28,6 @@
   {
     "name": "Axe",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Axe.png",
@@ -56,7 +54,6 @@
   {
     "name": "Hoe",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Hoe.png",
@@ -83,7 +80,6 @@
   {
     "name": "Pan",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Copper_Pan.png",
@@ -106,7 +102,6 @@
   {
     "name": "Watering Can",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Watering_Can.png",
@@ -133,7 +128,6 @@
   {
     "name": "Scythe",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Scythe.png",
@@ -152,7 +146,6 @@
   {
     "name": "Backpack",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Backpack.png",
@@ -368,7 +361,6 @@
   {
     "name": "Trash Can",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Trash_Can_Copper.png",
@@ -391,7 +383,6 @@
   {
     "name": "Fishing Rod",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Training_Rod.png",
@@ -418,28 +409,24 @@
   {
     "name": "Spring",
     "type": "toggle",
-    "loop": false,
     "img": "images/Spring.png",
     "codes": "spring"
   },
   {
     "name": "Summer",
     "type": "toggle",
-    "loop": false,
     "img": "images/Summer.png",
     "codes": "summer"
   },
   {
     "name": "Fall",
     "type": "toggle",
-    "loop": false,
     "img": "images/Fall.png",
     "codes": "fall"
   },
   {
     "name": "Winter",
     "type": "toggle",
-    "loop": false,
     "img": "images/Winter.png",
     "codes": "winter"
   },
@@ -469,7 +456,6 @@
   {
     "name": "Coop",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/White_Chicken.png",
@@ -488,7 +474,6 @@
   {
     "name": "Barn",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/White_Cow.png",
@@ -533,7 +518,6 @@
   {
     "name": "Farming Mastery",
     "type": "toggle",
-    "loop": false,
     "img": "images/Mastery.png",
     "codes": "farmingmastery"
   },
@@ -547,7 +531,6 @@
   {
     "name": "Foraging Mastery",
     "type": "toggle",
-    "loop": false,
     "img": "images/Mastery.png",
     "codes": "foragingmastery"
   },
@@ -561,7 +544,6 @@
   {
     "name": "Mining Mastery",
     "type": "toggle",
-    "loop": false,
     "img": "images/Mastery.png",
     "codes": "miningmastery"
   },
@@ -575,7 +557,6 @@
   {
     "name": "Fishing Mastery",
     "type": "toggle",
-    "loop": false,
     "img": "images/Mastery.png",
     "codes": "fishingmastery"
   },
@@ -589,7 +570,6 @@
   {
     "name": "Combat Mastery",
     "type": "toggle",
-    "loop": false,
     "img": "images/Mastery.png",
     "codes": "combatmastery"
   },
@@ -698,7 +678,6 @@
   {
     "name": "Mines Elevator Level",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Elevator/5.png",
@@ -801,7 +780,6 @@
   {
     "name": "Skull Cavern Elevator Level",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Elevator/skull_25.png",
@@ -840,7 +818,6 @@
   {
     "name": "House",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Mini-Fridge.png",
@@ -859,7 +836,6 @@
   {
     "name": "Theater",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Jojamart.png",
@@ -1298,7 +1274,6 @@
   {
     "name": "Shed",
     "type": "progressive",
-    "loop": false,
     "stages": [
       {
         "img": "images/Shed.png",

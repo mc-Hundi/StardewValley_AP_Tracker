@@ -1,1620 +1,1186 @@
 [
-    {
-        "name": "Community Center",
-        "chest_unopened_img": "images/BundleClosed.png",
-        "chest_opened_img": "images/BundleOpen.png",
-        "children": [
-            {
-                "name": "Crafts Room",
-                "sections": [
-                    {
-                        "name": "Spring Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717001"
-                        ]
-                    },
-                    {
-                        "name": "Summer Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717002"
-                        ]
-                    },
-                    {
-                        "name": "Fall Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717003"
-                        ]
-                    },
-                    {
-                        "name": "Winter Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717004"
-                        ]
-                    },
-                    {
-                        "name": "Construction Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717005"
-                        ]
-                    },
-                    {
-                        "name": "Exotic Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717006"
-                        ]
-                    },
-                    {
-                        "name": "Forest Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717038"
-                        ]
-                    },
-                    {
-                        "name": "Beach Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717040"
-                        ]
-                    },
-                    {
-                        "name": "Mines Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717041"
-                        ]
-                    },
-                    {
-                        "name": "Desert Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717042"
-                        ]
-                    },
-                    {
-                        "name": "Island Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717043"
-                        ]
-                    },
-                    {
-                        "name": "Sticky Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717044"
-                        ]
-                    },
-                    {
-                        "name": "Wild Medicine Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717045"
-                        ]
-                    },
-                    {
-                        "name": "Quality Foraging Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717046"
-                        ]
-                    },
-                    {
-                        "name": "Green Rain Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717159"
-                        ]
-                    },
-                    {
-                        "name": "Totems Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717261"
-                        ]
-                    },
-                    {
-                        "name": "AAAA Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721401"
-                        ]
-                    },
-                    {
-                        "name": "Anything For Beyonce Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721403"
-                        ]
-                    },
-                    {
-                        "name": "Caffeinated Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721412"
-                        ]
-                    },
-                    {
-                        "name": "Chaos Emerald Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721415"
-                        ]
-                    },
-                    {
-                        "name": "Potato Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721440"
-                        ]
-                    },
-                    {
-                        "name": "Reverse Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721441"
-                        ]
-                    },
-                    {
-                        "name": "This Is Fine Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721465"
-                        ]
-                    },
-                    {
-                        "name": "IKEA Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721466"
-                        ]
-                    },
-                    {
-                        "name": "Very Sticky Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721495"
-                        ]
-                    },
-                    {
-                        "name": "Dr Seuss Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721504"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Community Center",
-                        "x": 405,
-                        "y": 680
-                    }
-                ]
-            },
-            {
-                "name": "Pantry",
-                "sections": [
-                    {
-                        "name": "Spring Crops Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717007"
-                        ]
-                    },
-                    {
-                        "name": "Summer Crops Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717008"
-                        ]
-                    },
-                    {
-                        "name": "Fall Crops Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717009"
-                        ]
-                    },
-                    {
-                        "name": "Quality Crops Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717010"
-                        ]
-                    },
-                    {
-                        "name": "Animal Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717011"
-                        ]
-                    },
-                    {
-                        "name": "Artisan Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717012"
-                        ]
-                    },
-                    {
-                        "name": "Slime Farmer Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717049"
-                        ]
-                    },
-                    {
-                        "name": "Rare Crops Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717050"
-                        ]
-                    },
-                    {
-                        "name": "Fish Farmers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717051"
-                        ]
-                    },
-                    {
-                        "name": "Garden Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717052"
-                        ]
-                    },
-                    {
-                        "name": "Brewers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717053"
-                        ]
-                    },
-                    {
-                        "name": "Orchard Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717054"
-                        ]
-                    },
-                    {
-                        "name": "Island Crops Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717055"
-                        ]
-                    },
-                    {
-                        "name": "Sommelier Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717155"
-                        ]
-                    },
-                    {
-                        "name": "Dry Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717156"
-                        ]
-                    },
-                    {
-                        "name": "Big Grapes Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721406"
-                        ]
-                    },
-                    {
-                        "name": "Bun-dle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721408"
-                        ]
-                    },
-                    {
-                        "name": "Eg Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721424"
-                        ]
-                    },
-                    {
-                        "name": "Hurricane Tortilla Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721429"
-                        ]
-                    },
-                    {
-                        "name": "Lemonade Stand Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721433"
-                        ]
-                    },
-                    {
-                        "name": "Look At These Chickens Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721434"
-                        ]
-                    },
-                    {
-                        "name": "Not The Bees Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721437"
-                        ]
-                    },
-                    {
-                        "name": "Speedrunners Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721449"
-                        ]
-                    },
-                    {
-                        "name": "Sunmaid Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721450"
-                        ]
-                    },
-                    {
-                        "name": "What The Rock Is Cooking Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721457"
-                        ]
-                    },
-                    {
-                        "name": "ANIMAL WELL Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721468"
-                        ]
-                    },
-                    {
-                        "name": "Bad Farmer Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721475"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Community Center",
-                        "x": 470,
-                        "y": 170
-                    }
-                ]
-            },
-            {
-                "name": "Fish Tank",
-                "sections": [
-                    {
-                        "name": "River Fish Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717013"
-                        ]
-                    },
-                    {
-                        "name": "Lake Fish Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717014"
-                        ]
-                    },
-                    {
-                        "name": "Ocean Fish Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717015"
-                        ]
-                    },
-                    {
-                        "name": "Night Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717016"
-                        ]
-                    },
-                    {
-                        "name": "Crab Pot Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717017"
-                        ]
-                    },
-                    {
-                        "name": "Specialty Fish Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717018"
-                        ]
-                    },
-                    {
-                        "name": "Deep Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717039"
-                        ]
-                    },
-                    {
-                        "name": "Agronomists Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717056"
-                        ]
-                    },
-                    {
-                        "name": "Tackle Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717057"
-                        ]
-                    },
-                    {
-                        "name": "Trash Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717058"
-                        ]
-                    },
-                    {
-                        "name": "Spring Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717059"
-                        ]
-                    },
-                    {
-                        "name": "Summer Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717060"
-                        ]
-                    },
-                    {
-                        "name": "Fall Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717061"
-                        ]
-                    },
-                    {
-                        "name": "Winter Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717062"
-                        ]
-                    },
-                    {
-                        "name": "Rain Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717063"
-                        ]
-                    },
-                    {
-                        "name": "Quality Fish Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717064"
-                        ]
-                    },
-                    {
-                        "name": "Master Fishers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717065"
-                        ]
-                    },
-                    {
-                        "name": "Legendary Fish Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717066"
-                        ]
-                    },
-                    {
-                        "name": "Island Fish Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717067"
-                        ]
-                    },
-                    {
-                        "name": "Master Baiter Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717068"
-                        ]
-                    },
-                    {
-                        "name": "Fish Smoker Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717157"
-                        ]
-                    },
-                    {
-                        "name": "Specific Fishing Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717160"
-                        ]
-                    },
-                    {
-                        "name": "Crab Rave Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721421"
-                        ]
-                    },
-                    {
-                        "name": "Doctor Angler Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721423"
-                        ]
-                    },
-                    {
-                        "name": "Legendairy Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721432"
-                        ]
-                    },
-                    {
-                        "name": "Mermaid Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721435"
-                        ]
-                    },
-                    {
-                        "name": "Trout Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721454"
-                        ]
-                    },
-                    {
-                        "name": "Schrodingers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721467"
-                        ]
-                    },
-                    {
-                        "name": "Catch And Release Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721501"
-                        ]
-                    },
-                    {
-                        "name": "Pollution Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721502"
-                        ]
-                    },
-                    {
-                        "name": "Bad Fisherman Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721476"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Community Center",
-                        "x": 1285,
-                        "y": 270
-                    }
-                ]
-            },
-            {
-                "name": "Boiler Room",
-                "sections": [
-                    {
-                        "name": "Blacksmiths Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717019"
-                        ]
-                    },
-                    {
-                        "name": "Geologists Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717020"
-                        ]
-                    },
-                    {
-                        "name": "Adventurers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717021"
-                        ]
-                    },
-                    {
-                        "name": "Paleontologists Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717047"
-                        ]
-                    },
-                    {
-                        "name": "Archaeologists Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717048"
-                        ]
-                    },
-                    {
-                        "name": "Recycling Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717069"
-                        ]
-                    },
-                    {
-                        "name": "Treasure Hunters Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717070"
-                        ]
-                    },
-                    {
-                        "name": "Engineers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717071"
-                        ]
-                    },
-                    {
-                        "name": "Demolition Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717072"
-                        ]
-                    },
-                    {
-                        "name": "Amons Fall Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721402"
-                        ]
-                    },
-                    {
-                        "name": "Balls Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721405"
-                        ]
-                    },
-                    {
-                        "name": "Honorable Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721428"
-                        ]
-                    },
-                    {
-                        "name": "Minecraft Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721436"
-                        ]
-                    },
-                    {
-                        "name": "Obelisks Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721438"
-                        ]
-                    },
-                    {
-                        "name": "Rick Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721442"
-                        ]
-                    },
-                    {
-                        "name": "Screw You Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721445"
-                        ]
-                    },
-                    {
-                        "name": "Sisyphus Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721446"
-                        ]
-                    },
-                    {
-                        "name": "Tilesanity Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721452"
-                        ]
-                    },
-                    {
-                        "name": "Automation Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721469"
-                        ]
-                    },
-                    {
-                        "name": "Crap Pot Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721471"
-                        ]
-                    },
-                    {
-                        "name": "DeathLink Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721481"
-                        ]
-                    },
-                    {
-                        "name": "Pool Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721491"
-                        ]
-                    },
-                    {
-                        "name": "Colored Crystals Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721500"
-                        ]
-                    },
-                    {
-                        "name": "Sacrifice Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721503"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Community Center",
-                        "x": 1990,
-                        "y": 520
-                    }
-                ]
-            },
-            {
-                "name": "Bulletin Board",
-                "sections": [
-                    {
-                        "name": "Chefs Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717022"
-                        ]
-                    },
-                    {
-                        "name": "Dye Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717023"
-                        ]
-                    },
-                    {
-                        "name": "Field Research Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717024"
-                        ]
-                    },
-                    {
-                        "name": "Fodder Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717025"
-                        ]
-                    },
-                    {
-                        "name": "Enchanters Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717026"
-                        ]
-                    },
-                    {
-                        "name": "Childrens Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717073"
-                        ]
-                    },
-                    {
-                        "name": "Foragers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717074"
-                        ]
-                    },
-                    {
-                        "name": "Home Cooks Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717075"
-                        ]
-                    },
-                    {
-                        "name": "Bartenders Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717076"
-                        ]
-                    },
-                    {
-                        "name": "Helpers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717151"
-                        ]
-                    },
-                    {
-                        "name": "Spirits Eve Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717152"
-                        ]
-                    },
-                    {
-                        "name": "Winter Star Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717153"
-                        ]
-                    },
-                    {
-                        "name": "Calico Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717154"
-                        ]
-                    },
-                    {
-                        "name": "Raccoon Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717158"
-                        ]
-                    },
-                    {
-                        "name": "Bundle Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721407"
-                        ]
-                    },
-                    {
-                        "name": "Burger King Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721410"
-                        ]
-                    },
-                    {
-                        "name": "Burger Kings Revenge Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721411"
-                        ]
-                    },
-                    {
-                        "name": "Cap Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721413"
-                        ]
-                    },
-                    {
-                        "name": "Fruit Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721426"
-                        ]
-                    },
-                    {
-                        "name": "Hats Off To You Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721427"
-                        ]
-                    },
-                    {
-                        "name": "Journalist Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721430"
-                        ]
-                    },
-                    {
-                        "name": "Kent C. Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721431"
-                        ]
-                    },
-                    {
-                        "name": "Off Your Back Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721439"
-                        ]
-                    },
-                    {
-                        "name": "Romance Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721443"
-                        ]
-                    },
-                    {
-                        "name": "Sappy Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721444"
-                        ]
-                    },
-                    {
-                        "name": "SMAPI Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721447"
-                        ]
-                    },
-                    {
-                        "name": "Snitch Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721448"
-                        ]
-                    },
-                    {
-                        "name": "Celeste Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721470"
-                        ]
-                    },
-                    {
-                        "name": "Emmalution Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721472"
-                        ]
-                    },
-                    {
-                        "name": "Joetg Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721473"
-                        ]
-                    },
-                    {
-                        "name": "Honeywell Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721474"
-                        ]
-                    },
-                    {
-                        "name": "Cooperation Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721485"
-                        ]
-                    },
-                    {
-                        "name": "Pomnut Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721486"
-                        ]
-                    },
-                    {
-                        "name": "Ministry of Madness Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721487"
-                        ]
-                    },
-                    {
-                        "name": "Loser Club Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721488"
-                        ]
-                    },
-                    {
-                        "name": "Frazzleduck Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721489"
-                        ]
-                    },
-                    {
-                        "name": "ArgonMatrix Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721490"
-                        ]
-                    },
-                    {
-                        "name": "Blossom Garden Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721492"
-                        ]
-                    },
-                    {
-                        "name": "Doctor Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721494"
-                        ]
-                    },
-                    {
-                        "name": "TheAlGoreRhythm Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721505"
-                        ]
-                    },
-                    {
-                        "name": "Distracted Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721506"
-                        ]
-                    },
-                    {
-                        "name": "Square Hole Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721498"
-                        ]
-                    },
-                    {
-                        "name": "Hint Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721499"
-                        ]
-                    },
-                    {
-                        "name": "Trap Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721453"
-                        ]
-                    },
-                    {
-                        "name": "Vocaloid Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721456"
-                        ]
-                    },
-                    {
-                        "name": "Commitment Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721418"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Community Center",
-                        "x": 1475,
-                        "y": 348
-                    }
-                ]
-            },
-            {
-                "name": "Vault",
-                "sections": [
-                    {
-                        "name": "250g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717077"
-                        ]
-                    },
-                    {
-                        "name": "500g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717078"
-                        ]
-                    },
-                    {
-                        "name": "1,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717079"
-                        ]
-                    },
-                    {
-                        "name": "1,500g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717082"
-                        ]
-                    },
-                    {
-                        "name": "2,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717080"
-                        ]
-                    },
-                    {
-                        "name": "2,500 G",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717027"
-                        ]
-                    },
-                    {
-                        "name": "3,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717083"
-                        ]
-                    },
-                    {
-                        "name": "3,500g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717084"
-                        ]
-                    },
-                    {
-                        "name": "4,500g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717085"
-                        ]
-                    },
-                    {
-                        "name": "5,000 G",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717028"
-                        ]
-                    },
-                    {
-                        "name": "6,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717086"
-                        ]
-                    },
-                    {
-                        "name": "7,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717087"
-                        ]
-                    },
-                    {
-                        "name": "9,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717088"
-                        ]
-                    },
-                    {
-                        "name": "10,000 G",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717029"
-                        ]
-                    },
-                    {
-                        "name": "14,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717089"
-                        ]
-                    },
-                    {
-                        "name": "15,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717090"
-                        ]
-                    },
-                    {
-                        "name": "18,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717091"
-                        ]
-                    },
-                    {
-                        "name": "20,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717092"
-                        ]
-                    },
-                    {
-                        "name": "25,000 G",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717030"
-                        ]
-                    },
-                    {
-                        "name": "35,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717093"
-                        ]
-                    },
-                    {
-                        "name": "40,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717094"
-                        ]
-                    },
-                    {
-                        "name": "45,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717095"
-                        ]
-                    },
-                    {
-                        "name": "100,000g Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717096"
-                        ]
-                    },
-                    {
-                        "name": "Gamblers Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717097"
-                        ]
-                    },
-                    {
-                        "name": "Carnival Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717098"
-                        ]
-                    },
-                    {
-                        "name": "Walnut Hunter Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717099"
-                        ]
-                    },
-                    {
-                        "name": "Qis Helper Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717100"
-                        ]
-                    },
-                    {
-                        "name": "Archipela-Go! Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721404"
-                        ]
-                    },
-                    {
-                        "name": "Permit A38 Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721409"
-                        ]
-                    },
-                    {
-                        "name": "Capitalists Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721414"
-                        ]
-                    },
-                    {
-                        "name": "Clique Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721417"
-                        ]
-                    },
-                    {
-                        "name": "Communism Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721419"
-                        ]
-                    },
-                    {
-                        "name": "Cookie Clicker Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721420"
-                        ]
-                    },
-                    {
-                        "name": "Death Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721422"
-                        ]
-                    },
-                    {
-                        "name": "Exhaustion Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721425"
-                        ]
-                    },
-                    {
-                        "name": "Tick Tock Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721451"
-                        ]
-                    },
-                    {
-                        "name": "Vampire Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721455"
-                        ]
-                    },
-                    {
-                        "name": "The Floor Is Lava Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721458"
-                        ]
-                    },
-                    {
-                        "name": "Fast Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721459"
-                        ]
-                    },
-                    {
-                        "name": "Restraint Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721460"
-                        ]
-                    },
-                    {
-                        "name": "Firstborn Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721461"
-                        ]
-                    },
-                    {
-                        "name": "NFT Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721462"
-                        ]
-                    },
-                    {
-                        "name": "Connection Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721463"
-                        ]
-                    },
-                    {
-                        "name": "Flashbang Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721464"
-                        ]
-                    },
-                    {
-                        "name": "Gacha Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721477"
-                        ]
-                    },
-                    {
-                        "name": "Hibernation Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721478"
-                        ]
-                    },
-                    {
-                        "name": "Crowdfunding Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721479"
-                        ]
-                    },
-                    {
-                        "name": "Clickbait Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721480"
-                        ]
-                    },
-                    {
-                        "name": "Humble Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721482"
-                        ]
-                    },
-                    {
-                        "name": "ASMR Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721483"
-                        ]
-                    },
-                    {
-                        "name": "Puzzle Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721484"
-                        ]
-                    },
-                    {
-                        "name": "Scam Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721493"
-                        ]
-                    },
-                    {
-                        "name": "Stanley Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721496"
-                        ]
-                    },
-                    {
-                        "name": "Hairy Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721497"
-                        ]
-                    },
-                    {
-                        "name": "Reconnection Bundle",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "721507"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Community Center",
-                        "x": 1770,
-                        "y": 130
-                    }
-                ]
-            },
-            {
-                "name": "Complete Rooms",
-                "sections": [
-                    {
-                        "name": "Complete Crafts Room",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717032"
-                        ]
-                    },
-                    {
-                        "name": "Complete Pantry",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717033"
-                        ]
-                    },
-                    {
-                        "name": "Complete Fish Tank",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717034"
-                        ]
-                    },
-                    {
-                        "name": "Complete Boiler Room",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717035"
-                        ]
-                    },
-                    {
-                        "name": "Complete Bulletin Board",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717036"
-                        ]
-                    },
-                    {
-                        "name": "Complete Vault",
-                        "item_count": 1,
-                        "visibility_rules": [
-                            "717037"
-                        ]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Community Center",
-                        "x": 1042,
-                        "y": 170
-                    }
-                ]
-            },
-            {
-                "name": "The Missing Bundle",
-                "visibility_rules": [
-                    "717031"
-                ],
-                "sections": [
-                    {
-                        "name": "Finish it!",
-                        "access_rules": [
-                            "theater"
-                        ],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Stardew Valley",
-                        "x": 683,
-                        "y": 240
-                    }
-                ]
-            }
+  {
+    "name": "Community Center",
+    "chest_unopened_img": "images/BundleClosed.png",
+    "chest_opened_img": "images/BundleOpen.png",
+    "children": [
+      {
+        "name": "Crafts Room",
+        "sections": [
+          {
+            "name": "Spring Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Summer Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fall Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Winter Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Construction Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Exotic Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Forest Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Beach Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Mines Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Desert Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Island Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Sticky Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Wild Medicine Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Quality Foraging Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Green Rain Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Totems Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "AAAA Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Anything For Beyonce Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Caffeinated Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Chaos Emerald Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Potato Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Reverse Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "This Is Fine Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "IKEA Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Very Sticky Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Dr Seuss Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Community Center",
+            "x": 405,
+            "y": 680
+          }
         ]
-    }
+      },
+      {
+        "name": "Pantry",
+        "sections": [
+          {
+            "name": "Spring Crops Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Summer Crops Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fall Crops Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Quality Crops Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Animal Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Artisan Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Slime Farmer Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Rare Crops Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fish Farmers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Garden Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Brewers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Orchard Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Island Crops Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Sommelier Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Dry Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Big Grapes Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Bun-dle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Eg Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Hurricane Tortilla Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Lemonade Stand Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Look At These Chickens Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Not The Bees Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Speedrunners Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Sunmaid Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "What The Rock Is Cooking Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "ANIMAL WELL Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Bad Farmer Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Community Center",
+            "x": 470,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Fish Tank",
+        "sections": [
+          {
+            "name": "River Fish Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Lake Fish Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Ocean Fish Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Night Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Crab Pot Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Specialty Fish Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Deep Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Agronomists Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Tackle Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Trash Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Spring Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Summer Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fall Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Winter Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Rain Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Quality Fish Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Master Fishers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Legendary Fish Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Island Fish Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Master Baiter Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fish Smoker Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Specific Fishing Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Crab Rave Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Doctor Angler Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Legendairy Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Mermaid Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Trout Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Schrodingers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Catch And Release Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Pollution Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Bad Fisherman Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Community Center",
+            "x": 1285,
+            "y": 270
+          }
+        ]
+      },
+      {
+        "name": "Boiler Room",
+        "sections": [
+          {
+            "name": "Blacksmiths Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Geologists Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Adventurers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Paleontologists Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Archaeologists Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Recycling Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Treasure Hunters Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Engineers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Demolition Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Amons Fall Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Balls Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Honorable Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Minecraft Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Obelisks Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Rick Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Screw You Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Sisyphus Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Tilesanity Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Automation Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Crap Pot Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "DeathLink Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Pool Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Colored Crystals Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Sacrifice Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Community Center",
+            "x": 1990,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "name": "Bulletin Board",
+        "sections": [
+          {
+            "name": "Chefs Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Dye Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Field Research Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fodder Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Enchanters Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Childrens Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Foragers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Home Cooks Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Bartenders Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Helpers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Spirits Eve Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Winter Star Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Calico Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Raccoon Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Bundle Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Burger King Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Burger Kings Revenge Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Cap Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fruit Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Hats Off To You Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Journalist Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Kent C. Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Off Your Back Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Romance Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Sappy Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "SMAPI Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Snitch Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Celeste Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Emmalution Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Joetg Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Honeywell Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Cooperation Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Pomnut Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Ministry of Madness Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Loser Club Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Frazzleduck Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "ArgonMatrix Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Blossom Garden Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Doctor Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "TheAlGoreRhythm Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Distracted Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Square Hole Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Hint Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Trap Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Vocaloid Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Commitment Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Community Center",
+            "x": 1475,
+            "y": 348
+          }
+        ]
+      },
+      {
+        "name": "Vault",
+        "sections": [
+          {
+            "name": "250g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "500g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "1,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "1,500g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "2,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "2,500 G",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "3,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "3,500g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "4,500g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "5,000 G",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "6,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "7,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "9,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "10,000 G",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "14,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "15,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "18,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "20,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "25,000 G",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "35,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "40,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "45,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "100,000g Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Gamblers Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Carnival Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Walnut Hunter Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Qis Helper Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Archipela-Go! Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Permit A38 Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Capitalists Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Clique Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Communism Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Cookie Clicker Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Death Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Exhaustion Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Tick Tock Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Vampire Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "The Floor Is Lava Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Fast Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Restraint Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Firstborn Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "NFT Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Connection Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Flashbang Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Gacha Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Hibernation Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Crowdfunding Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Clickbait Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Humble Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "ASMR Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Puzzle Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Scam Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Stanley Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Hairy Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Reconnection Bundle",
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Community Center",
+            "x": 1770,
+            "y": 130
+          }
+        ]
+      },
+      {
+        "name": "Complete Rooms",
+        "sections": [
+          {
+            "name": "Complete Crafts Room",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Complete Pantry",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Complete Fish Tank",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Complete Boiler Room",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Complete Bulletin Board",
+            "item_count": 1,
+            "item_size": "46, 18"
+          },
+          {
+            "name": "Complete Vault",
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Community Center",
+            "x": 1042,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "The Missing Bundle",
+        "sections": [
+          {
+            "name": "Finish it!",
+            "access_rules": ["theater"],
+            "item_count": 1,
+            "item_size": "46, 18"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Stardew Valley",
+            "x": 683,
+            "y": 240
+          }
+        ]
+      }
+    ]
+  }
 ]
