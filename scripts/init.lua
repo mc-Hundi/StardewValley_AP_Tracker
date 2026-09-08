@@ -56,6 +56,7 @@ Tracker:AddLocations("locations/Endgame.json")
 Tracker:AddMaps("maps/maps.json")
 
 ScriptHost:LoadScript("scripts/watches.lua")
+ScriptHost:LoadScript("scripts/logic_helper.lua")
 
 require("scripts/layout_manager")
 
