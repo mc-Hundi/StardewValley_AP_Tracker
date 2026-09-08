@@ -21,12 +21,12 @@
             "rhubarb",
             "rice",
             "strawberry",
-            "tulip"
-          ],
-          [
+            "tulip",
             "apricot",
             "cherry",
-            "carrot",
+            "carrot"
+          ],
+          [
             "summer",
             "blueberry",
             "corn",
@@ -36,24 +36,22 @@
             "poppy",
             "radish",
             "redcabbage",
-            "spangle"
-          ],
-          [
+            "spangle",
             "starfruit",
             "tomato",
             "wheat",
             "orange",
             "peach",
-            "squash",
+            "squash"
+          ],
+          [
             "fall",
             "amaranth",
             "artichoke",
             "beet",
             "bokchoy",
             "cranberry",
-            "eggplant"
-          ],
-          [
+            "eggplant",
             "fairyrose",
             "grape",
             "pumpkin",
@@ -62,10 +60,9 @@
             "yam",
             "apple",
             "pomegranate",
-            "broccoli",
-            "winter",
-            "powdermelon"
+            "broccoli"
           ],
+          ["winter", "powdermelon"],
           ["ancient", "cactus"]
         ]
       }

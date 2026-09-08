@@ -24,8 +24,16 @@
             {
               "title": "Arcade Machines",
               "content": {
-                "type": "map",
-                "maps": ["Arcades"]
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Junimo Kart",
+                    "content": {
+                      "type": "map",
+                      "maps": ["Arcades"]
+                    }
+                  }
+                ]
               }
             },
             {
@@ -213,14 +221,14 @@
                 "type": "tabbed",
                 "tabs": [
                   {
-                    "title": "Material",
+                    "title": "Materials",
                     "content": {
                       "type": "map",
                       "maps": ["Material"]
                     }
                   },
                   {
-                    "title": "Seed & Trees",
+                    "title": "Seeds & Trees",
                     "content": {
                       "type": "map",
                       "maps": ["Seeds_Trees"]
