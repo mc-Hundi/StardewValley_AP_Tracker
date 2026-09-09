@@ -401,6 +401,7 @@
         "sections": [
           {
             "name": "Collect All Rarecrows",
+            "item_size": "46, 18",
             "item_count": 4
           }
         ],

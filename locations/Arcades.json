@@ -155,7 +155,7 @@
         ]
       },
       {
-        "name": "JotPK Boots",
+        "name": "Boots",
         "sections": [
           {
             "name": "Boots Upgrade 1",
@@ -170,14 +170,14 @@
         ],
         "map_locations": [
           {
-            "map": "Arcades",
+            "map": "JotPK",
             "x": 172,
             "y": 152
           }
         ]
       },
       {
-        "name": "JotPK Guns",
+        "name": "Guns",
         "sections": [
           {
             "name": "Gun Upgrade 1",
@@ -202,14 +202,14 @@
         ],
         "map_locations": [
           {
-            "map": "Arcades",
+            "map": "JotPK",
             "x": 203,
             "y": 152
           }
         ]
       },
       {
-        "name": "JotPK Ammo",
+        "name": "Ammo",
         "sections": [
           {
             "name": "Ammo Upgrade 1",
@@ -229,14 +229,14 @@
         ],
         "map_locations": [
           {
-            "map": "Arcades",
+            "map": "JotPK",
             "x": 234,
             "y": 152
           }
         ]
       },
       {
-        "name": "JotPK Bosses",
+        "name": "Bosses",
         "children": [
           {
             "name": "Boss Cowboy 1",
@@ -248,7 +248,7 @@
             ],
             "map_locations": [
               {
-                "map": "Arcades",
+                "map": "JotPK",
                 "x": 135,
                 "y": 260
               }
@@ -264,7 +264,7 @@
             ],
             "map_locations": [
               {
-                "map": "Arcades",
+                "map": "JotPK",
                 "x": 202,
                 "y": 260
               }
@@ -280,7 +280,7 @@
             ],
             "map_locations": [
               {
-                "map": "Arcades",
+                "map": "JotPK",
                 "x": 268,
                 "y": 260
               }

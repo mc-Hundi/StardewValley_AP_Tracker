@@ -32,6 +32,13 @@
                       "type": "map",
                       "maps": ["Arcades"]
                     }
+                  },
+                  {
+                    "title": "Journey of the Prarie King",
+                    "content": {
+                      "type": "map",
+                      "maps": ["JotPK"]
+                    }
                   }
                 ]
               }
