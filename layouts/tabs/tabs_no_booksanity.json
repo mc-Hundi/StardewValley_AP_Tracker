@@ -58,8 +58,44 @@
                   {
                     "title": "Desert Festival",
                     "content": {
-                      "type": "map",
-                      "maps": ["Desert Festival"]
+                      "type": "tabbed",
+                      "tabs": [
+                        {
+                          "title": "Main Area",
+                          "content": {
+                            "type": "map",
+                            "maps": ["Desert Festival"]
+                          }
+                        },
+                        {
+                          "title": "Emily's Outfit Services",
+                          "content": {
+                            "type": "map",
+                            "maps": ["Emily's Outfit Services"]
+                          }
+                        },
+                        {
+                          "title": "Free Cactis",
+                          "content": {
+                            "type": "map",
+                            "maps": ["Free Cactis"]
+                          }
+                        },
+                        {
+                          "title": "Calico Race",
+                          "content": {
+                            "type": "map",
+                            "maps": ["Calico Race"]
+                          }
+                        },
+                        {
+                          "title": "Chef",
+                          "content": {
+                            "type": "map",
+                            "maps": ["Desert Festival Chef"]
+                          }
+                        }
+                      ]
                     }
                   },
                   {
@@ -109,7 +145,7 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Chefsanity",
+              "title": "Chef/Cooksanity",
               "content": {
                 "type": "map",
                 "maps": ["Cooksanity"]
