@@ -68,10 +68,17 @@
                           }
                         },
                         {
+                          "title": "Calico Race",
+                          "content": {
+                            "type": "map",
+                            "maps": ["Calico Race"]
+                          }
+                        },
+                        {
                           "title": "Emily's Outfit Services",
                           "content": {
                             "type": "map",
-                            "maps": ["Emily's Outfit Services"]
+                            "maps": ["Emilys Outfit Services"]
                           }
                         },
                         {
@@ -79,13 +86,6 @@
                           "content": {
                             "type": "map",
                             "maps": ["Free Cactis"]
-                          }
-                        },
-                        {
-                          "title": "Calico Race",
-                          "content": {
-                            "type": "map",
-                            "maps": ["Calico Race"]
                           }
                         },
                         {

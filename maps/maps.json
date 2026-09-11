@@ -238,5 +238,23 @@
     "location_size": 10,
     "location_border_thickness": 3,
     "img": "images/Emily-Outfit.png"
+  },
+  {
+    "name": "Calico Race",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Calico-Race.png"
+  },
+  {
+    "name": "Free Cactis",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Free-Cactis.png"
+  },
+  {
+    "name": "Desert Festival Chef",
+    "location_size": 10,
+    "location_border_thickness": 3,
+    "img": "images/Chef.png"
   }
 ]
