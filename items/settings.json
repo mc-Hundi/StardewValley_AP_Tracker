@@ -8,12 +8,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "exclude_ginger_island, island_tracking_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "exclude_ginger_island, island_tracking_on"
       }
@@ -28,12 +28,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "cropsanity"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "cropsanity, cropsanity_on"
       }
@@ -48,17 +48,17 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "skill_progression"
       },
       {
-        "img": "images/settings/Skills.png",
+        "img": "images_2/settings/Skills.png",
         "inherit_codes": false,
         "codes": "skill_progression, sshuffle_prog"
       },
       {
-        "img": "images/settings/mastery.png",
+        "img": "images_2/settings/mastery.png",
         "inherit_codes": true,
         "codes": "skill_progression, sshuffle_mastery"
       }
@@ -73,12 +73,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Friendship_Off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Friendship"
       }
@@ -93,12 +93,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Purchases_Off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Purchases"
       }
@@ -113,12 +113,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Queen of Sauce_Off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Queen of Sauce"
       }
@@ -133,12 +133,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Skills_Off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "chefsanity, chefsanity_Skills"
       }
@@ -153,62 +153,62 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Vanilla.png",
+        "img": "images_2/settings/Vanilla.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_off"
       },
       {
-        "img": "images/settings/Board.png",
+        "img": "images_2/settings/Board.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_on"
       },
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "special_order_locations"
       },
       {
-        "img": "images/settings/BoardQi.png",
+        "img": "images_2/settings/BoardQi.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_qi, qi_orders"
       },
       {
-        "img": "images/settings/Vanilla_Short.png",
+        "img": "images_2/settings/Vanilla_Short.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_vanilla_short"
       },
       {
-        "img": "images/settings/Board_Short.png",
+        "img": "images_2/settings/Board_Short.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_short"
       },
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "special_order_locations"
       },
       {
-        "img": "images/settings/Board_Qi_Short.png",
+        "img": "images_2/settings/Board_Qi_Short.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_qi_short, qi_orders"
       },
       {
-        "img": "images/settings/Vanilla_Very_Short.png",
+        "img": "images_2/settings/Vanilla_Very_Short.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_vanilla_very_short"
       },
       {
-        "img": "images/settings/Board_Very_Short.png",
+        "img": "images_2/settings/Board_Very_Short.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_very_short"
       },
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "special_order_locations"
       },
       {
-        "img": "images/settings/Board_Qi_Very_Short.png",
+        "img": "images_2/settings/Board_Qi_Very_Short.png",
         "inherit_codes": false,
         "codes": "special_order_locations, board_qi_very_short, qi_orders"
       }
@@ -223,32 +223,32 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Vanilla.png",
+        "img": "images_2/settings/Vanilla.png",
         "inherit_codes": false,
         "codes": "tool_progression"
       },
       {
-        "img": "images/settings/Progressive.png",
+        "img": "images_2/settings/Progressive.png",
         "inherit_codes": false,
         "codes": "tool_progression,tshuffle"
       },
       {
-        "img": "images/settings/Vanilla_Cheap.png",
+        "img": "images_2/settings/Vanilla_Cheap.png",
         "inherit_codes": false,
         "codes": "tool_progression"
       },
       {
-        "img": "images/settings/Vanilla_Very_Cheap.png",
+        "img": "images_2/settings/Vanilla_Very_Cheap.png",
         "inherit_codes": false,
         "codes": "tool_progression"
       },
       {
-        "img": "images/settings/Progressive_Cheap.png",
+        "img": "images_2/settings/Progressive_Cheap.png",
         "inherit_codes": false,
         "codes": "tool_progression,tshuffle"
       },
       {
-        "img": "images/settings/Progressive_Very_Cheap.png",
+        "img": "images_2/settings/Progressive_Very_Cheap.png",
         "inherit_codes": false,
         "codes": "tool_progression,tshuffle"
       }
@@ -263,32 +263,32 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Vanilla.png",
+        "img": "images_2/settings/Vanilla.png",
         "inherit_codes": false,
         "codes": "building_progression"
       },
       {
-        "img": "images/settings/Vanilla_Cheap.png",
+        "img": "images_2/settings/Vanilla_Cheap.png",
         "inherit_codes": false,
         "codes": "building_progression"
       },
       {
-        "img": "images/settings/Vanilla_Very_Cheap.png",
+        "img": "images_2/settings/Vanilla_Very_Cheap.png",
         "inherit_codes": false,
         "codes": "building_progression"
       },
       {
-        "img": "images/settings/Progressive.png",
+        "img": "images_2/settings/Progressive.png",
         "inherit_codes": false,
         "codes": "building_progression,bshuffle"
       },
       {
-        "img": "images/settings/Progressive_Cheap.png",
+        "img": "images_2/settings/Progressive_Cheap.png",
         "inherit_codes": false,
         "codes": "building_progression,bshuffle"
       },
       {
-        "img": "images/settings/Progressive_Very_Cheap.png",
+        "img": "images_2/settings/Progressive_Very_Cheap.png",
         "inherit_codes": false,
         "codes": "building_progression,bshuffle"
       }
@@ -303,17 +303,17 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Vanilla.png",
+        "img": "images_2/settings/Vanilla.png",
         "inherit_codes": false,
         "codes": "elevator_progression"
       },
       {
-        "img": "images/settings/Progressive.png",
+        "img": "images_2/settings/Progressive.png",
         "inherit_codes": false,
         "codes": "elevator_progression,eshuffleon"
       },
       {
-        "img": "images/settings/Progressive_from_prev_Floor.png",
+        "img": "images_2/settings/Progressive_from_prev_Floor.png",
         "inherit_codes": false,
         "codes": "elevator_progression,eshuffleon"
       }
@@ -328,17 +328,17 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "backpack_progression,bpshuffle_off"
       },
       {
-        "img": "images/settings/Progressive.png",
+        "img": "images_2/settings/Progressive.png",
         "inherit_codes": false,
         "codes": "backpack_progression,bpshuffle_on"
       },
       {
-        "img": "images/settings/Progressive_from_prev_Floor.png",
+        "img": "images_2/settings/Progressive_from_prev_Floor.png",
         "inherit_codes": false,
         "codes": "backpack_progression,bpshuffle_on"
       }
@@ -353,22 +353,22 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "booksanity"
       },
       {
-        "img": "images/settings/Power.png",
+        "img": "images_2/settings/Power.png",
         "inherit_codes": false,
         "codes": "booksanity,booksanity_Power"
       },
       {
-        "img": "images/settings/Power_Skill.png",
+        "img": "images_2/settings/Power_Skill.png",
         "inherit_codes": false,
         "codes": "booksanity,booksanity_Power,booksanity_Power Skill"
       },
       {
-        "img": "images/settings/All.png",
+        "img": "images_2/settings/All.png",
         "inherit_codes": false,
         "codes": "booksanity,booksanity_All"
       }
@@ -383,22 +383,22 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "arcade_machine_locations"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "arcade_machine_locations,ashuffle"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "arcade_machine_locations,ashuffle"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "arcade_machine_locations,ashuffle2"
       }
@@ -408,7 +408,7 @@
     "name": "Help Wanted Quests",
     "type": "consumable",
     "max_quantity": 56,
-    "img": "images/settings/HelpWanted.png",
+    "img": "images_2/settings/HelpWanted.png",
     "codes": "settings,quest_locations"
   },
   {
@@ -420,47 +420,47 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/None.png",
+        "img": "images_2/settings/None.png",
         "inherit_codes": false,
         "codes": "shipsanity"
       },
       {
-        "img": "images/settings/Crops.png",
+        "img": "images_2/settings/Crops.png",
         "inherit_codes": false,
         "codes": "shipsanity, shipsanity_crops"
       },
       {
-        "img": "images/settings/None.png",
+        "img": "images_2/settings/None.png",
         "inherit_codes": false,
         "codes": "shipsanity"
       },
       {
-        "img": "images/settings/Fish.png",
+        "img": "images_2/settings/Fish.png",
         "inherit_codes": false,
         "codes": "shipsanity, shipsanity_fish"
       },
       {
-        "img": "images/settings/Crops_Fish.png",
+        "img": "images_2/settings/Crops_Fish.png",
         "inherit_codes": false,
         "codes": "shipsanity, shipsanity_crops_fish"
       },
       {
-        "img": "images/settings/Full.png",
+        "img": "images_2/settings/Full.png",
         "inherit_codes": false,
         "codes": "shipsanity, shipsanity_full"
       },
       {
-        "img": "images/settings/None.png",
+        "img": "images_2/settings/None.png",
         "inherit_codes": false,
         "codes": "shipsanity"
       },
       {
-        "img": "images/settings/FullwF.png",
+        "img": "images_2/settings/FullwF.png",
         "inherit_codes": false,
         "codes": "shipsanity, shipsanity_fullwf"
       },
       {
-        "img": "images/settings/Everything.png",
+        "img": "images_2/settings/Everything.png",
         "inherit_codes": false,
         "codes": "shipsanity, shipsanity_all"
       }
@@ -475,22 +475,22 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "museumsanity, museum_off"
       },
       {
-        "img": "images/settings/Milestones.png",
+        "img": "images_2/settings/Milestones.png",
         "inherit_codes": false,
         "codes": "museumsanity, museum_milestone"
       },
       {
-        "img": "images/settings/Donations.png",
+        "img": "images_2/settings/Donations.png",
         "inherit_codes": false,
         "codes": "museumsanity, museum_rando"
       },
       {
-        "img": "images/settings/All.png",
+        "img": "images_2/settings/All.png",
         "inherit_codes": false,
         "codes": "museumsanity, museum_all"
       }
@@ -505,42 +505,42 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_off"
       },
       {
-        "img": "images/settings/Legendaries.png",
+        "img": "images_2/settings/Legendaries.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_legend"
       },
       {
-        "img": "images/settings/Special.png",
+        "img": "images_2/settings/Special.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_special"
       },
       {
-        "img": "images/settings/Random.png",
+        "img": "images_2/settings/Random.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_rando"
       },
       {
-        "img": "images/settings/All.png",
+        "img": "images_2/settings/All.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_all"
       },
       {
-        "img": "images/settings/No_Legendaries.png",
+        "img": "images_2/settings/No_Legendaries.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_no_leg"
       },
       {
-        "img": "images/settings/No_Hard.png",
+        "img": "images_2/settings/No_Hard.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_no_hard"
       },
       {
-        "img": "images/settings/Only_Easy.png",
+        "img": "images_2/settings/Only_Easy.png",
         "inherit_codes": false,
         "codes": "fishsanity, fishsanity_only_easy"
       }
@@ -555,12 +555,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "monstersanity, monstersanity_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "monstersanity, monstersanity_on"
       }
@@ -575,12 +575,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "include_endgame_locations, include_endgame_locations_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "include_endgame_locations, include_endgame_locations_on"
       }
@@ -595,12 +595,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "craftsanity, craftsanity_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "craftsanity, craftsanity_on"
       }
@@ -615,12 +615,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "walnutsanity, walnutsanity_Bushes_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "walnutsanity_Bushes"
       }
@@ -635,12 +635,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "walnutsanity, walnutsanity_Dig Spots_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "walnutsanity_Dig Spots"
       }
@@ -655,12 +655,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "walnutsanity, walnutsanity_Puzzles_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "walnutsanity_Puzzles"
       }
@@ -675,12 +675,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "walnutsanity, walnutsanity_Repeatables_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "walnutsanity_Repeatables"
       }
@@ -695,12 +695,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "friendsanity, friendsanity_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "friendsanity, friendsanity_on"
       }
@@ -715,12 +715,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Easy_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Easy"
       }
@@ -735,12 +735,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Medium_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Medium"
       }
@@ -755,12 +755,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Difficult_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Difficult"
       }
@@ -775,12 +775,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Tailoring_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Tailoring"
       }
@@ -795,12 +795,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Near Perfection_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Near Perfection"
       }
@@ -815,12 +815,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Post Perfection_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_Post Perfection"
       }
@@ -835,12 +835,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_RNG_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "hatsanity, hatsanity_RNG"
       }
@@ -855,12 +855,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_Artisan_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_on, eatsanity_Artisan"
       }
@@ -875,12 +875,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_Cooking_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_on, eatsanity_Cooking"
       }
@@ -895,12 +895,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_Crops_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_on, eatsanity_Crops"
       }
@@ -915,12 +915,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_Fish_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_on, eatsanity_Fish"
       }
@@ -935,12 +935,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_Lock Effects_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_on, eatsanity_Lock Effects"
       }
@@ -955,12 +955,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_Poisonous_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_on, eatsanity_Poisonous"
       }
@@ -975,12 +975,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_Shop_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "eatsanity, eatsanity_on, eatsanity_Shop"
       }
@@ -995,37 +995,37 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "moviesanity, moviesanity_off"
       },
       {
-        "img": "images/settings/One_Movie.png",
+        "img": "images_2/settings/One_Movie.png",
         "inherit_codes": false,
         "codes": "moviesanity, moviesanity_one"
       },
       {
-        "img": "images/settings/All_Movies.png",
+        "img": "images_2/settings/All_Movies.png",
         "inherit_codes": false,
         "codes": "moviesanity, moviesanity_movies, moviesanity_am"
       },
       {
-        "img": "images/settings/All_Movies_Loved.png",
+        "img": "images_2/settings/All_Movies_Loved.png",
         "inherit_codes": false,
         "codes": "moviesanity, moviesanity_movies, moviesanity_aml"
       },
       {
-        "img": "images/settings/All_Movies_with_Loved_Snacks.png",
+        "img": "images_2/settings/All_Movies_with_Loved_Snacks.png",
         "inherit_codes": false,
         "codes": "moviesanity, moviesanity_movies, moviesanity_snacks, moviesanity_amlwls"
       },
       {
-        "img": "images/settings/All_Movies_and_All_Snacks.png",
+        "img": "images_2/settings/All_Movies_and_All_Snacks.png",
         "inherit_codes": false,
         "codes": "moviesanity, moviesanity_movies, moviesanity_snacks, moviesanity_amaas"
       },
       {
-        "img": "images/settings/All_Movies_and_All_Loved_Snacks.png",
+        "img": "images_2/settings/All_Movies_and_All_Loved_Snacks.png",
         "inherit_codes": false,
         "codes": "moviesanity, moviesanity_movies, moviesanity_snacks, moviesanity_amaasl"
       }
@@ -1040,12 +1040,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_Secret Notes"
       }
@@ -1060,12 +1060,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_Difficult"
       }
@@ -1080,12 +1080,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_Easy"
       }
@@ -1100,12 +1100,12 @@
     "initial_stage_idx": 0,
     "stages": [
       {
-        "img": "images/settings/Off.png",
+        "img": "images_2/settings/Off.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_off"
       },
       {
-        "img": "images/settings/On.png",
+        "img": "images_2/settings/On.png",
         "inherit_codes": false,
         "codes": "secretsanity, secretsanity_Fishing"
       }

@@ -1,8 +1,8 @@
 [
   {
     "name": "Museum_Donations",
-    "chest_unopened_img": "images/QuestNew.png",
-    "chest_opened_img": "images/QuestDone.png",
+    "chest_unopened_img": "images_2/QuestNew.png",
+    "chest_opened_img": "images_2/QuestDone.png",
     "children": [
       {
         "name": "Aerinite",

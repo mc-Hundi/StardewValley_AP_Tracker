@@ -3,258 +3,258 @@
     "name": "Stardew Valley",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/MapWorld.png"
+    "img": "images/stardew_valley.png"
   },
   {
     "name": "Skills And Masteries",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Skills.png"
+    "img": "images_2/Skills.png"
   },
   {
     "name": "Friends",
     "location_size": 16,
     "location_border_thickness": 3,
-    "img": "images/friendsanity.png"
+    "img": "images_2/friendsanity.png"
   },
   {
     "name": "Community Center",
     "location_size": 30,
     "location_border_thickness": 3,
-    "img": "images/MapCC.png"
+    "img": "images/community_center.png"
   },
   {
     "name": "Quests",
     "location_size": 30,
     "location_border_thickness": 3,
-    "img": "images/Quests.png"
+    "img": "images_2/Quests.png"
   },
   {
     "name": "Help Wanted!",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/HelpWanted.png"
+    "img": "images_2/HelpWanted.png"
   },
   {
     "name": "Crops and Foraged Items",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Croplist.png"
+    "img": "images_2/Croplist.png"
   },
   {
     "name": "Fishes",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Fishsanity.png"
+    "img": "images_2/Fishsanity.png"
   },
   {
     "name": "Fishes Expanded",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Fishsanity.png"
+    "img": "images_2/Fishsanity.png"
   },
   {
     "name": "Boards",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Boards.png"
+    "img": "images_2/Boards.png"
   },
   {
     "name": "Museum_Donations",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Museum_Donations.png"
+    "img": "images_2/Museum_Donations.png"
   },
   {
     "name": "Museum_Milestones",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Museum_Milestones.png"
+    "img": "images_2/Museum_Milestones.png"
   },
   {
     "name": "leer",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/blank.png"
+    "img": "images_2/blank.png"
   },
   {
     "name": "Monstersanity",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Monstersanity.png"
+    "img": "images_2/Monstersanity.png"
   },
   {
     "name": "Town Festivals",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Town_Festivals.png"
+    "img": "images_2/Town_Festivals.png"
   },
   {
     "name": "Night Market",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Night_Market.png"
+    "img": "images_2/Night_Market.png"
   },
   {
     "name": "Desert Festival",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Desert_Festival.png"
+    "img": "images/maps/quests_and_activities/festivals/desert_festival/main_area.png"
   },
   {
     "name": "Fishing Festivals",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Fishing_Festivals.png"
+    "img": "images_2/Fishing_Festivals.png"
   },
   {
     "name": "Arcades",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Arcades.png"
+    "img": "images/maps/quests_and_activities/arcades/jumino_kart.png"
   },
   {
     "name": "Booksanity",
     "location_size": 10,
     "location_border_thickness": 4,
-    "img": "images/Booksanity.png"
+    "img": "images_2/Booksanity.png"
   },
   {
     "name": "Cooksanity",
     "location_size": 16,
     "location_border_thickness": 4,
-    "img": "images/Cooksanity.png"
+    "img": "images_2/Cooksanity.png"
   },
   {
     "name": "Craft1",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Craft1.png"
+    "img": "images_2/Craft1.png"
   },
   {
     "name": "Craft2",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Craft2.png"
+    "img": "images_2/Craft2.png"
   },
   {
     "name": "Eatsanity",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Eatsanity.png"
+    "img": "images_2/Eatsanity.png"
   },
   {
     "name": "Hatsanity",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Hatsanity_new.png"
+    "img": "images_2/Hatsanity_new.png"
   },
   {
     "name": "Ginger_Island_South",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Ginger_Island_South.png"
+    "img": "images_2/Ginger_Island_South.png"
   },
   {
     "name": "Ginger_Island_North",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Ginger_Island_North.png"
+    "img": "images_2/Ginger_Island_North.png"
   },
   {
     "name": "Ginger_Island_West",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Ginger_Island_West.png"
+    "img": "images_2/Ginger_Island_West.png"
   },
   {
     "name": "Ginger_Island_East",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Ginger_Island_East.png"
+    "img": "images_2/Ginger_Island_East.png"
   },
   {
     "name": "Ginger_Island_South_East",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Ginger_Island_South_East.png"
+    "img": "images_2/Ginger_Island_South_East.png"
   },
   {
     "name": "Ginger_Island_Forge",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Ginger_Island_Forge.png"
+    "img": "images_2/Ginger_Island_Forge.png"
   },
   {
     "name": "Moviesanity",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Moviesanity.png"
+    "img": "images_2/Moviesanity.png"
   },
   {
     "name": "Secretsanity",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Secretsanity.png"
+    "img": "images_2/Secretsanity.png"
   },
   {
     "name": "Material",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Material.png"
+    "img": "images_2/Material.png"
   },
   {
     "name": "Seeds_Trees",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Seeds_Trees.png"
+    "img": "images_2/Seeds_Trees.png"
   },
   {
     "name": "Special_Items",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Special_Items.png"
+    "img": "images_2/Special_Items.png"
   },
   {
     "name": "Ginger_Island_Items",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Ginger_Island_Items.png"
+    "img": "images_2/Ginger_Island_Items.png"
   },
   {
     "name": "Endgame",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Endgame.png"
+    "img": "images_2/Endgame.png"
   },
   {
     "name": "JotPK",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/MapJotPK.png"
+    "img": "images/maps/quests_and_activities/arcades/journey_of_the_prarie_king.png"
   },
   {
     "name": "Emilys Outfit Services",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Emily-Outfit.png"
+    "img": "images/maps/quests_and_activities/festivals/desert_festival/emily_s_outfit_services.png"
   },
   {
     "name": "Calico Race",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Calico-Race.png"
+    "img": "images/maps/quests_and_activities/festivals/desert_festival/calico_race.png"
   },
   {
-    "name": "Free Cactis",
+    "name": "Free Cactus",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Free-Cactis.png"
+    "img": "images/maps/quests_and_activities/festivals/desert_festival/free_cactus.png"
   },
   {
-    "name": "Desert Festival Chef",
+    "name": "Chef",
     "location_size": 10,
     "location_border_thickness": 3,
-    "img": "images/Chef.png"
+    "img": "images/maps/quests_and_activities/festivals/desert_festival/chef.png"
   }
 ]

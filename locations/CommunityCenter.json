@@ -1,8 +1,8 @@
 [
   {
     "name": "Community Center",
-    "chest_unopened_img": "images/BundleClosed.png",
-    "chest_opened_img": "images/BundleOpen.png",
+    "chest_unopened_img": "images_2/BundleClosed.png",
+    "chest_opened_img": "images_2/BundleOpen.png",
     "children": [
       {
         "name": "Crafts Room",

@@ -4,23 +4,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Pickaxe.png",
+        "img": "images_2/Pickaxe.png",
         "codes": "Pick"
       },
       {
-        "img": "images/Copper_Pickaxe.png",
+        "img": "images_2/Copper_Pickaxe.png",
         "codes": "Pick,CopperPick"
       },
       {
-        "img": "images/Steel_Pickaxe.png",
+        "img": "images_2/Steel_Pickaxe.png",
         "codes": "Pick,SteelPick"
       },
       {
-        "img": "images/Gold_Pickaxe.png",
+        "img": "images_2/Gold_Pickaxe.png",
         "codes": "Pick,GoldPick"
       },
       {
-        "img": "images/Iridium_Pickaxe.png",
+        "img": "images_2/Iridium_Pickaxe.png",
         "codes": "Pick,IridiumPick"
       }
     ]
@@ -30,23 +30,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Axe.png",
+        "img": "images_2/Axe.png",
         "codes": "Axe"
       },
       {
-        "img": "images/Copper_Axe.png",
+        "img": "images_2/Copper_Axe.png",
         "codes": "Axe,CopperAxe"
       },
       {
-        "img": "images/Steel_Axe.png",
+        "img": "images_2/Steel_Axe.png",
         "codes": "Axe,SteelAxe"
       },
       {
-        "img": "images/Gold_Axe.png",
+        "img": "images_2/Gold_Axe.png",
         "codes": "Axe,GoldAxe"
       },
       {
-        "img": "images/Iridium_Axe.png",
+        "img": "images_2/Iridium_Axe.png",
         "codes": "Axe,IridiumAxe"
       }
     ]
@@ -56,23 +56,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Hoe.png",
+        "img": "images_2/Hoe.png",
         "codes": "Hoe"
       },
       {
-        "img": "images/Copper_Hoe.png",
+        "img": "images_2/Copper_Hoe.png",
         "codes": "Hoe,CopperHoe"
       },
       {
-        "img": "images/Steel_Hoe.png",
+        "img": "images_2/Steel_Hoe.png",
         "codes": "Hoe,SteelHoe"
       },
       {
-        "img": "images/Gold_Hoe.png",
+        "img": "images_2/Gold_Hoe.png",
         "codes": "Hoe,GoldHoe"
       },
       {
-        "img": "images/Iridium_Hoe.png",
+        "img": "images_2/Iridium_Hoe.png",
         "codes": "Hoe,IridiumHoe"
       }
     ]
@@ -82,19 +82,19 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Copper_Pan.png",
+        "img": "images_2/Copper_Pan.png",
         "codes": "pan,CopperPan"
       },
       {
-        "img": "images/Steel_Pan.png",
+        "img": "images_2/Steel_Pan.png",
         "codes": "pan,SteelPan"
       },
       {
-        "img": "images/Gold_Pan.png",
+        "img": "images_2/Gold_Pan.png",
         "codes": "pan,GoldPan"
       },
       {
-        "img": "images/Iridium_Pan.png",
+        "img": "images_2/Iridium_Pan.png",
         "codes": "pan,IridiumPan"
       }
     ]
@@ -104,23 +104,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Watering_Can.png",
+        "img": "images_2/Watering_Can.png",
         "codes": "Can"
       },
       {
-        "img": "images/Copper_Watering_Can.png",
+        "img": "images_2/Copper_Watering_Can.png",
         "codes": "Can,CopperCan"
       },
       {
-        "img": "images/Steel_Watering_Can.png",
+        "img": "images_2/Steel_Watering_Can.png",
         "codes": "Can,SteelCan"
       },
       {
-        "img": "images/Gold_Watering_Can.png",
+        "img": "images_2/Gold_Watering_Can.png",
         "codes": "Can,GoldCan"
       },
       {
-        "img": "images/Iridium_Watering_Can.png",
+        "img": "images_2/Iridium_Watering_Can.png",
         "codes": "Can,IridiumCan"
       }
     ]
@@ -130,15 +130,15 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Scythe.png",
+        "img": "images_2/Scythe.png",
         "codes": "scythe,"
       },
       {
-        "img": "images/Golden_Scythe.png",
+        "img": "images_2/Golden_Scythe.png",
         "codes": "scythe,goldscythe"
       },
       {
-        "img": "images/Iridium_Scythe.png",
+        "img": "images_2/Iridium_Scythe.png",
         "codes": "scythe,iridiumscythe"
       }
     ]
@@ -148,212 +148,212 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "img_mods": "dim",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/Backpack.png",
+        "img": "images_2/Backpack.png",
         "codes": "pack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/36_Backpack.png",
+        "img": "images_2/36_Backpack.png",
         "codes": "pack,bigpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       },
       {
-        "img": "images/48_Backpack.png",
+        "img": "images_2/48_Backpack.png",
         "codes": "pack,biggerpack"
       }
     ]
@@ -363,19 +363,19 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Trash_Can_Copper.png",
+        "img": "images_2/Trash_Can_Copper.png",
         "codes": "trashcan"
       },
       {
-        "img": "images/Trash_Can_Steel.png",
+        "img": "images_2/Trash_Can_Steel.png",
         "codes": "trashcan,steeltrash"
       },
       {
-        "img": "images/Trash_Can_Gold.png",
+        "img": "images_2/Trash_Can_Gold.png",
         "codes": "trashcan,goldtrash"
       },
       {
-        "img": "images/Trash_Can_Iridium.png",
+        "img": "images_2/Trash_Can_Iridium.png",
         "codes": "trashcan,iridiumtrash"
       }
     ]
@@ -385,23 +385,23 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Training_Rod.png",
+        "img": "images_2/Training_Rod.png",
         "codes": "rod"
       },
       {
-        "img": "images/Bamboo_Pole.png",
+        "img": "images_2/Bamboo_Pole.png",
         "codes": "rod,Bamboorod"
       },
       {
-        "img": "images/Fiberglass_Rod.png",
+        "img": "images_2/Fiberglass_Rod.png",
         "codes": "rod,Fiberglassrod"
       },
       {
-        "img": "images/Iridium_Rod.png",
+        "img": "images_2/Iridium_Rod.png",
         "codes": "rod,IridiumRod"
       },
       {
-        "img": "images/Advanced_Iridium_Rod.png",
+        "img": "images_2/Advanced_Iridium_Rod.png",
         "codes": "rod,AdvIridiumRod"
       }
     ]
@@ -409,25 +409,25 @@
   {
     "name": "Spring",
     "type": "toggle",
-    "img": "images/Spring.png",
+    "img": "images_2/Spring.png",
     "codes": "spring"
   },
   {
     "name": "Summer",
     "type": "toggle",
-    "img": "images/Summer.png",
+    "img": "images_2/Summer.png",
     "codes": "summer"
   },
   {
     "name": "Fall",
     "type": "toggle",
-    "img": "images/Fall.png",
+    "img": "images_2/Fall.png",
     "codes": "fall"
   },
   {
     "name": "Winter",
     "type": "toggle",
-    "img": "images/Winter.png",
+    "img": "images_2/Winter.png",
     "codes": "winter"
   },
   {
@@ -436,19 +436,19 @@
     "loop": true,
     "stages": [
       {
-        "img": "images/Spring.png",
+        "img": "images_2/Spring.png",
         "codes": "season"
       },
       {
-        "img": "images/Summer.png",
+        "img": "images_2/Summer.png",
         "codes": "season"
       },
       {
-        "img": "images/Fall.png",
+        "img": "images_2/Fall.png",
         "codes": "season"
       },
       {
-        "img": "images/Winter.png",
+        "img": "images_2/Winter.png",
         "codes": "season"
       }
     ]
@@ -458,15 +458,15 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/White_Chicken.png",
+        "img": "images_2/White_Chicken.png",
         "codes": "coop,chicken"
       },
       {
-        "img": "images/Duck.png",
+        "img": "images_2/Duck.png",
         "codes": "coop,duck"
       },
       {
-        "img": "images/Rabbit.png",
+        "img": "images_2/Rabbit.png",
         "codes": "coop,rabbit"
       }
     ]
@@ -476,15 +476,15 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/White_Cow.png",
+        "img": "images_2/White_Cow.png",
         "codes": "barn,cow"
       },
       {
-        "img": "images/Goat.png",
+        "img": "images_2/Goat.png",
         "codes": "barn,goat"
       },
       {
-        "img": "images/Pig.png",
+        "img": "images_2/Pig.png",
         "codes": "barn,pig"
       }
     ]
@@ -493,186 +493,186 @@
     "name": "Stardrop",
     "type": "consumable",
     "max_quantity": 7,
-    "img": "images/Stardrop.png",
+    "img": "images_2/Stardrop.png",
     "codes": "stardrop"
   },
   {
     "name": "Luck",
     "type": "consumable",
-    "img": "images/Luck.png",
+    "img": "images_2/Luck.png",
     "codes": "luck"
   },
   {
     "name": "Movement",
     "type": "consumable",
-    "img": "images/Speed.png",
+    "img": "images_2/Speed.png",
     "codes": "movement"
   },
   {
     "name": "Farming",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/Farming.png",
+    "img": "images_2/Farming.png",
     "codes": "farming,levels"
   },
   {
     "name": "Farming Mastery",
     "type": "toggle",
-    "img": "images/Mastery.png",
+    "img": "images_2/Mastery.png",
     "codes": "farmingmastery"
   },
   {
     "name": "Foraging",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/Foraging.png",
+    "img": "images_2/Foraging.png",
     "codes": "foraging,levels"
   },
   {
     "name": "Foraging Mastery",
     "type": "toggle",
-    "img": "images/Mastery.png",
+    "img": "images_2/Mastery.png",
     "codes": "foragingmastery"
   },
   {
     "name": "Mining",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/Mining.png",
+    "img": "images_2/Mining.png",
     "codes": "mining,levels"
   },
   {
     "name": "Mining Mastery",
     "type": "toggle",
-    "img": "images/Mastery.png",
+    "img": "images_2/Mastery.png",
     "codes": "miningmastery"
   },
   {
     "name": "Fishing",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/Fishing.png",
+    "img": "images_2/Fishing.png",
     "codes": "fishing,levels"
   },
   {
     "name": "Fishing Mastery",
     "type": "toggle",
-    "img": "images/Mastery.png",
+    "img": "images_2/Mastery.png",
     "codes": "fishingmastery"
   },
   {
     "name": "Combat",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/Combat.png",
+    "img": "images_2/Combat.png",
     "codes": "combat,levels"
   },
   {
     "name": "Combat Mastery",
     "type": "toggle",
-    "img": "images/Mastery.png",
+    "img": "images_2/Mastery.png",
     "codes": "combatmastery"
   },
   {
     "name": "Desert Warp",
     "type": "toggle",
-    "img": "images/Desert_Obelisk.png",
+    "img": "images_2/Desert_Obelisk.png",
     "codes": "desert"
   },
   {
     "name": "Island Warp",
     "type": "toggle",
-    "img": "images/Island_Obelisk.png",
+    "img": "images_2/Island_Obelisk.png",
     "codes": "island"
   },
   {
     "name": "Rusty Key",
     "type": "toggle",
-    "img": "images/Rusty_Key.png",
+    "img": "images_2/Rusty_Key.png",
     "codes": "sewerkey"
   },
   {
     "name": "Skull Key",
     "type": "toggle",
-    "img": "images/Skull_Key.png",
+    "img": "images_2/Skull_Key.png",
     "codes": "skullkey"
   },
   {
     "name": "Shipping Bin",
     "type": "toggle",
-    "img": "images/Shipping_Bin.png",
+    "img": "images_2/Shipping_Bin.png",
     "codes": "shipping"
   },
   {
     "name": "Dwarvish Translation Guide",
     "type": "toggle",
-    "img": "images/Dwarvish_Translation_Guide.png",
+    "img": "images_2/Dwarvish_Translation_Guide.png",
     "codes": "translator"
   },
   {
     "name": "Dark Talisman",
     "type": "toggle",
-    "img": "images/Dark_Talisman.png",
+    "img": "images_2/Dark_Talisman.png",
     "codes": "darktalisman"
   },
   {
     "name": "Key to the town",
     "type": "toggle",
-    "img": "images/Key_To_The_Town.png",
+    "img": "images_2/Key_To_The_Town.png",
     "codes": "townkey"
   },
   {
     "name": "Beach Bridge",
     "type": "toggle",
-    "img": "images/BeachBridge.png",
+    "img": "images_2/BeachBridge.png",
     "codes": "beachbridge"
   },
   {
     "name": "Greenhouse",
     "type": "toggle",
-    "img": "images/Greenhouse.png",
+    "img": "images_2/Greenhouse.png",
     "codes": "greenhouse"
   },
   {
     "name": "Gold Clock",
     "type": "toggle",
-    "img": "images/Gold_Clock.png",
+    "img": "images_2/Gold_Clock.png",
     "codes": "gold"
   },
   {
     "name": "Glittering Boulder",
     "type": "toggle",
-    "img": "images/Glittering.png",
+    "img": "images_2/Glittering.png",
     "codes": "glittering"
   },
   {
     "name": "Horse Flute",
     "type": "toggle",
-    "img": "images/Horse_Flute.png",
+    "img": "images_2/Horse_Flute.png",
     "codes": "flute"
   },
   {
     "name": "Stocklist",
     "type": "toggle",
-    "img": "images/Stocklist.png",
+    "img": "images_2/Stocklist.png",
     "codes": "stocklist"
   },
   {
     "name": "Bus",
     "type": "toggle",
-    "img": "images/Bus.png",
+    "img": "images_2/Bus.png",
     "codes": "bus,desert"
   },
   {
     "name": "Return Scepter",
     "type": "toggle",
-    "img": "images/Return_Scepter.png",
+    "img": "images_2/Return_Scepter.png",
     "codes": "return"
   },
   {
     "name": "Bridge",
     "type": "toggle",
-    "img": "images/BridgeFixed.png",
+    "img": "images_2/BridgeFixed.png",
     "codes": "bridge,fixedbridge"
   },
   {
@@ -680,99 +680,99 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Elevator/5.png",
+        "img": "images_2/Elevator/5.png",
         "codes": "elevator,e5"
       },
       {
-        "img": "images/Elevator/10.png",
+        "img": "images_2/Elevator/10.png",
         "codes": "elevator,e10"
       },
       {
-        "img": "images/Elevator/15.png",
+        "img": "images_2/Elevator/15.png",
         "codes": "elevator,e15"
       },
       {
-        "img": "images/Elevator/20.png",
+        "img": "images_2/Elevator/20.png",
         "codes": "elevator,e20"
       },
       {
-        "img": "images/Elevator/25.png",
+        "img": "images_2/Elevator/25.png",
         "codes": "elevator,e25"
       },
       {
-        "img": "images/Elevator/30.png",
+        "img": "images_2/Elevator/30.png",
         "codes": "elevator,e30"
       },
       {
-        "img": "images/Elevator/35.png",
+        "img": "images_2/Elevator/35.png",
         "codes": "elevator,e35"
       },
       {
-        "img": "images/Elevator/40.png",
+        "img": "images_2/Elevator/40.png",
         "codes": "elevator,e40"
       },
       {
-        "img": "images/Elevator/45.png",
+        "img": "images_2/Elevator/45.png",
         "codes": "elevator,e45"
       },
       {
-        "img": "images/Elevator/50.png",
+        "img": "images_2/Elevator/50.png",
         "codes": "elevator,e50"
       },
       {
-        "img": "images/Elevator/55.png",
+        "img": "images_2/Elevator/55.png",
         "codes": "elevator,e55"
       },
       {
-        "img": "images/Elevator/60.png",
+        "img": "images_2/Elevator/60.png",
         "codes": "elevator,e60"
       },
       {
-        "img": "images/Elevator/65.png",
+        "img": "images_2/Elevator/65.png",
         "codes": "elevator,e65"
       },
       {
-        "img": "images/Elevator/70.png",
+        "img": "images_2/Elevator/70.png",
         "codes": "elevator,e70"
       },
       {
-        "img": "images/Elevator/75.png",
+        "img": "images_2/Elevator/75.png",
         "codes": "elevator,e75"
       },
       {
-        "img": "images/Elevator/80.png",
+        "img": "images_2/Elevator/80.png",
         "codes": "elevator,e80"
       },
       {
-        "img": "images/Elevator/85.png",
+        "img": "images_2/Elevator/85.png",
         "codes": "elevator,e85"
       },
       {
-        "img": "images/Elevator/90.png",
+        "img": "images_2/Elevator/90.png",
         "codes": "elevator,e90"
       },
       {
-        "img": "images/Elevator/95.png",
+        "img": "images_2/Elevator/95.png",
         "codes": "elevator,e95"
       },
       {
-        "img": "images/Elevator/100.png",
+        "img": "images_2/Elevator/100.png",
         "codes": "elevator,e100"
       },
       {
-        "img": "images/Elevator/105.png",
+        "img": "images_2/Elevator/105.png",
         "codes": "elevator,e105"
       },
       {
-        "img": "images/Elevator/110.png",
+        "img": "images_2/Elevator/110.png",
         "codes": "elevator,e110"
       },
       {
-        "img": "images/Elevator/115.png",
+        "img": "images_2/Elevator/115.png",
         "codes": "elevator,e115"
       },
       {
-        "img": "images/Elevator/120.png",
+        "img": "images_2/Elevator/120.png",
         "codes": "elevator,e120"
       }
     ]
@@ -782,35 +782,35 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Elevator/skull_25.png",
+        "img": "images_2/Elevator/skull_25.png",
         "codes": "progressiveskullcavernelevator"
       },
       {
-        "img": "images/Elevator/skull_50.png",
+        "img": "images_2/Elevator/skull_50.png",
         "codes": "progressiveskullcavernelevator"
       },
       {
-        "img": "images/Elevator/skull_75.png",
+        "img": "images_2/Elevator/skull_75.png",
         "codes": "progressiveskullcavernelevator"
       },
       {
-        "img": "images/Elevator/skull_100.png",
+        "img": "images_2/Elevator/skull_100.png",
         "codes": "progressiveskullcavernelevator"
       },
       {
-        "img": "images/Elevator/skull_125.png",
+        "img": "images_2/Elevator/skull_125.png",
         "codes": "progressiveskullcavernelevator"
       },
       {
-        "img": "images/Elevator/skull_150.png",
+        "img": "images_2/Elevator/skull_150.png",
         "codes": "progressiveskullcavernelevator"
       },
       {
-        "img": "images/Elevator/skull_175.png",
+        "img": "images_2/Elevator/skull_175.png",
         "codes": "progressiveskullcavernelevator"
       },
       {
-        "img": "images/Elevator/skull_200.png",
+        "img": "images_2/Elevator/skull_200.png",
         "codes": "progressiveskullcavernelevator"
       }
     ]
@@ -820,15 +820,15 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Mini-Fridge.png",
+        "img": "images_2/Mini-Fridge.png",
         "codes": "house,kitchen"
       },
       {
-        "img": "images/Crib.png",
+        "img": "images_2/Crib.png",
         "codes": "house,kids"
       },
       {
-        "img": "images/Cask.png",
+        "img": "images_2/Cask.png",
         "codes": "house,cask"
       }
     ]
@@ -838,11 +838,11 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Jojamart.png",
+        "img": "images_2/Jojamart.png",
         "codes": "theater"
       },
       {
-        "img": "images/Theater.png",
+        "img": "images_2/Theater.png",
         "codes": "theater2"
       }
     ]
@@ -850,425 +850,425 @@
   {
     "name": "Magnifying Glass",
     "type": "toggle",
-    "img": "images/Magnifying_Glass.png",
+    "img": "images_2/Magnifying_Glass.png",
     "codes": "notes"
   },
   {
     "name": "Minecarts",
     "type": "toggle",
-    "img": "images/Minecarts.png",
+    "img": "images_2/Minecarts.png",
     "codes": "minecarts"
   },
   {
     "name": "Railroad",
     "type": "toggle",
-    "img": "images/Railroad.png",
+    "img": "images_2/Railroad.png",
     "codes": "railroad"
   },
   {
     "name": "Mystery Boxes",
     "type": "toggle",
-    "img": "images/Mystery_Box.png",
+    "img": "images_2/Mystery_Box.png",
     "codes": "plane"
   },
   {
     "name": "Stable",
     "type": "toggle",
-    "img": "images/Stable.png",
+    "img": "images_2/Stable.png",
     "codes": "stable"
   },
   {
     "name": "Silo",
     "type": "toggle",
-    "img": "images/Silo.png",
+    "img": "images_2/Silo.png",
     "codes": "silo"
   },
   {
     "name": "Raccoon",
     "type": "consumable",
     "max_quantity": 9,
-    "img": "images/Raccoon.png",
+    "img": "images_2/Raccoon.png",
     "codes": "raccoon"
   },
   {
     "name": "Club Card",
     "type": "toggle",
-    "img": "images/Club_Card.png",
+    "img": "images_2/Club_Card.png",
     "codes": "clubcard"
   },
   {
     "name": "Slime Hutch",
     "type": "toggle",
-    "img": "images/Slime_Hutch.png",
+    "img": "images_2/Slime_Hutch.png",
     "codes": "hutch"
   },
   {
     "name": "Fish Pond",
     "type": "toggle",
-    "img": "images/Fish_Pond.png",
+    "img": "images_2/Fish_Pond.png",
     "codes": "pond"
   },
   {
     "name": "Fruit Bats",
     "type": "toggle",
-    "img": "images/fruits.png",
+    "img": "images_2/fruits.png",
     "codes": "fruits"
   },
   {
     "name": "Mushroom Boxes",
     "type": "toggle",
-    "img": "images/mushrooms.png",
+    "img": "images_2/mushrooms.png",
     "codes": "mushrooms"
   },
   {
     "name": "TM Monday",
     "type": "toggle",
-    "img": "images/Monday.png",
+    "img": "images_2/Monday.png",
     "codes": "tm,monday"
   },
   {
     "name": "TM Tuesday",
     "type": "toggle",
-    "img": "images/Tuesday.png",
+    "img": "images_2/Tuesday.png",
     "codes": "tm,tuesday"
   },
   {
     "name": "TM Wednesday",
     "type": "toggle",
-    "img": "images/Wednesday.png",
+    "img": "images_2/Wednesday.png",
     "codes": "tm,wednesday"
   },
   {
     "name": "TM Thursday",
     "type": "toggle",
-    "img": "images/Thursday.png",
+    "img": "images_2/Thursday.png",
     "codes": "tm,thursday"
   },
   {
     "name": "TM Friday",
     "type": "toggle",
-    "img": "images/Friday.png",
+    "img": "images_2/Friday.png",
     "codes": "tm,friday"
   },
   {
     "name": "TM Saturday",
     "type": "toggle",
-    "img": "images/Saturday.png",
+    "img": "images_2/Saturday.png",
     "codes": "tm,saturday"
   },
   {
     "name": "TM Sunday",
     "type": "toggle",
-    "img": "images/Sunday.png",
+    "img": "images_2/Sunday.png",
     "codes": "tm,sunday"
   },
   {
     "name": "Sword",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/Sword.png",
+    "img": "images_2/Sword.png",
     "codes": "sword,progweapons"
   },
   {
     "name": "Club",
     "type": "consumable",
     "max_quantity": 5,
-    "img": "images/Club.png",
+    "img": "images_2/Club.png",
     "codes": "club"
   },
   {
     "name": "Dagger",
     "type": "consumable",
     "max_quantity": 5,
-    "img": "images/Dagger.png",
+    "img": "images_2/Dagger.png",
     "codes": "dagger"
   },
   {
     "name": "Slingshot",
     "type": "consumable",
     "max_quantity": 2,
-    "img": "images/Slingshot.png",
+    "img": "images_2/Slingshot.png",
     "codes": "slingshot"
   },
   {
     "name": "Weather Report",
     "type": "toggle",
-    "img": "images/QoS.png",
+    "img": "images_2/QoS.png",
     "codes": "weatherreport"
   },
   {
     "name": "Fortune Teller",
     "type": "toggle",
-    "img": "images/QoS.png",
+    "img": "images_2/QoS.png",
     "codes": "fortuneteller"
   },
   {
     "name": "Livin' Off The Land",
     "type": "toggle",
-    "img": "images/QoS.png",
+    "img": "images_2/QoS.png",
     "codes": "livinoftheland"
   },
   {
     "name": "The Queen of Sauce",
     "type": "toggle",
-    "img": "images/QoS.png",
+    "img": "images_2/QoS.png",
     "codes": "queenofsauce"
   },
   {
     "name": "Fishing Information Broadcasting Service",
     "type": "toggle",
-    "img": "images/QoS.png",
+    "img": "images_2/QoS.png",
     "codes": "fibs"
   },
   {
     "name": "Sinister Signal",
     "type": "toggle",
-    "img": "images/QoS.png",
+    "img": "images_2/QoS.png",
     "codes": "sinistersignal"
   },
   {
     "name": "Golden Walnut",
     "type": "consumable",
     "max_quantity": 148,
-    "img": "images/Golden_Walnut.png",
+    "img": "images_2/Golden_Walnut.png",
     "codes": "gwalnut"
   },
   {
     "name": "Boat Repair",
     "type": "toggle",
-    "img": "images/Boat.png",
+    "img": "images_2/Boat.png",
     "codes": "boatrepair,island"
   },
   {
     "name": "Professor Snail Cave",
     "type": "toggle",
-    "img": "images/snailcave.png",
+    "img": "images_2/snailcave.png",
     "codes": "snailcave"
   },
   {
     "name": "Island Turtle North",
     "type": "toggle",
-    "img": "images/TurtleN.png",
+    "img": "images_2/TurtleN.png",
     "codes": "turtlen"
   },
   {
     "name": "Island Turtle West",
     "type": "toggle",
-    "img": "images/TurtleW.png",
+    "img": "images_2/TurtleW.png",
     "codes": "turtlew"
   },
   {
     "name": "Island Farmhouse",
     "type": "toggle",
-    "img": "images/ifarm.png",
+    "img": "images_2/ifarm.png",
     "codes": "ifarm"
   },
   {
     "name": "Island Mailbox",
     "type": "toggle",
-    "img": "images/imail.png",
+    "img": "images_2/imail.png",
     "codes": "imail"
   },
   {
     "name": "Farm Obelisk",
     "type": "toggle",
-    "img": "images/Farm_Obelisk.png",
+    "img": "images_2/Farm_Obelisk.png",
     "codes": "farmobelisk"
   },
   {
     "name": "Dig Site Bridge",
     "type": "toggle",
-    "img": "images/digsite.png",
+    "img": "images_2/digsite.png",
     "codes": "digsite"
   },
   {
     "name": "Island Trader",
     "type": "toggle",
-    "img": "images/Island_Trader.png",
+    "img": "images_2/Island_Trader.png",
     "codes": "trader"
   },
   {
     "name": "Volcano Bridge",
     "type": "toggle",
-    "img": "images/vbridge.png",
+    "img": "images_2/vbridge.png",
     "codes": "vbridge"
   },
   {
     "name": "Volcano Exit Shortcut",
     "type": "toggle",
-    "img": "images/vexit.png",
+    "img": "images_2/vexit.png",
     "codes": "vexit"
   },
   {
     "name": "Island Resort",
     "type": "toggle",
-    "img": "images/resort.png",
+    "img": "images_2/resort.png",
     "codes": "resort"
   },
   {
     "name": "Parrot Express",
     "type": "toggle",
-    "img": "images/Parrot_Express.png",
+    "img": "images_2/Parrot_Express.png",
     "codes": "parrots"
   },
   {
     "name": "Qi Walnut Room",
     "type": "toggle",
-    "img": "images/walnutroom.png",
+    "img": "images_2/walnutroom.png",
     "codes": "walnutroom"
   },
   {
     "name": "Landslide Removed",
     "type": "toggle",
-    "img": "images/Landslide.png",
+    "img": "images_2/Landslide.png",
     "codes": "landslideremoved"
   },
   {
     "name": "Community Center Key",
     "type": "toggle",
-    "img": "images/GoalCC.png",
+    "img": "images_2/GoalCC.png",
     "codes": "communitycenterkey"
   },
   {
     "name": "Wizard Invitation",
     "type": "toggle",
-    "img": "images/Wizard_Icon.png",
+    "img": "images_2/Wizard_Icon.png",
     "codes": "wizardinvitation"
   },
   {
     "name": "Forest Magic",
     "type": "toggle",
-    "img": "images/Forest_Magic.png",
+    "img": "images_2/Forest_Magic.png",
     "codes": "forestmagic"
   },
   {
     "name": "Rarecrow #1",
     "type": "toggle",
-    "img": "images/Rarecrow_1.png",
+    "img": "images_2/Rarecrow_1.png",
     "codes": "rarecrow,rarecrow#1"
   },
   {
     "name": "Rarecrow #2",
     "type": "toggle",
-    "img": "images/Rarecrow_2.png",
+    "img": "images_2/Rarecrow_2.png",
     "codes": "rarecrow,rarecrow#2"
   },
   {
     "name": "Rarecrow #3",
     "type": "toggle",
-    "img": "images/Rarecrow_3.png",
+    "img": "images_2/Rarecrow_3.png",
     "codes": "rarecrow,rarecrow#3"
   },
   {
     "name": "Rarecrow #4",
     "type": "toggle",
-    "img": "images/Rarecrow_4.png",
+    "img": "images_2/Rarecrow_4.png",
     "codes": "rarecrow,rarecrow#4"
   },
   {
     "name": "Rarecrow #5",
     "type": "toggle",
-    "img": "images/Rarecrow_5.png",
+    "img": "images_2/Rarecrow_5.png",
     "codes": "rarecrow,rarecrow#5"
   },
   {
     "name": "Rarecrow #6",
     "type": "toggle",
-    "img": "images/Rarecrow_6.png",
+    "img": "images_2/Rarecrow_6.png",
     "codes": "rarecrow,rarecrow#6"
   },
   {
     "name": "Rarecrow #7",
     "type": "toggle",
-    "img": "images/Rarecrow_7.png",
+    "img": "images_2/Rarecrow_7.png",
     "codes": "rarecrow,rarecrow#7"
   },
   {
     "name": "Rarecrow #8",
     "type": "toggle",
-    "img": "images/Rarecrow_8.png",
+    "img": "images_2/Rarecrow_8.png",
     "codes": "rarecrow,rarecrow#8"
   },
   {
     "name": "Special Order Board",
     "type": "toggle",
-    "img": "images/SpecialOrderBoard.png",
+    "img": "images_2/SpecialOrderBoard.png",
     "codes": "specialorderboard"
   },
   {
     "name": "Mastery of the Five Ways",
     "type": "toggle",
-    "img": "images/Mastery_Cave.png",
+    "img": "images_2/Mastery_Cave.png",
     "codes": "masteryofthefiveways"
   },
   {
     "name": "Bear's Knowledge",
     "type": "toggle",
-    "img": "images/Bears_Knowledge.png",
+    "img": "images_2/Bears_Knowledge.png",
     "codes": "bearsknowledge"
   },
   {
     "name": "Iridium Snake Milk",
     "type": "toggle",
-    "img": "images/IridiumSnakeMilk.png",
+    "img": "images_2/IridiumSnakeMilk.png",
     "codes": "iridiumsnakemilk"
   },
   {
     "name": "Magic Ink",
     "type": "toggle",
-    "img": "images/Magic_Ink.png",
+    "img": "images_2/Magic_Ink.png",
     "codes": "magicink"
   },
   {
     "name": "Pams House",
     "type": "toggle",
-    "img": "images/Pams_House.png",
+    "img": "images_2/Pams_House.png",
     "codes": "pamhouse"
   },
   {
     "name": "Mens Locker Key",
     "type": "toggle",
-    "img": "images/Locker_Room_M.png",
+    "img": "images_2/Locker_Room_M.png",
     "codes": "menslockerkey"
   },
   {
     "name": "Womens Locker Key",
     "type": "toggle",
-    "img": "images/Locker_Room_W.png",
+    "img": "images_2/Locker_Room_W.png",
     "codes": "womenslockerkey"
   },
   {
     "name": "Booksellerstock: Permanent Books",
     "type": "toggle",
-    "img": "images/BooksellerPermanentBooks.png",
+    "img": "images_2/BooksellerPermanentBooks.png",
     "codes": "booksellerstock:permanentbooks"
   },
   {
     "name": "Booksellerstock: Progressive Rare Books",
     "type": "consumable",
     "max_quantity": 2,
-    "img": "images/BooksellerProgressiveRareBooks.png",
+    "img": "images_2/BooksellerProgressiveRareBooks.png",
     "codes": "booksellerstock:progressiverarebooks"
   },
   {
     "name": "Booksellerstock: Progressive Experience Books",
     "type": "consumable",
     "max_quantity": 3,
-    "img": "images/BooksellerProgressiveExperienceBooks.png",
+    "img": "images_2/BooksellerProgressiveExperienceBooks.png",
     "codes": "booksellerstock:progressiveexperiencebooks"
   },
   {
     "name": "Progressive Booksellerdays",
     "type": "consumable",
     "max_quantity": 4,
-    "img": "images/Bookseller.png",
+    "img": "images_2/Bookseller.png",
     "codes": "progressivebooksellerdays"
   },
   {
     "name": "Traveling Merchant Metaldetector",
     "type": "consumable",
     "max_quantity": 2,
-    "img": "images/Metaldetector.png",
+    "img": "images_2/Metaldetector.png",
     "codes": "travelingmerchantmetaldetector"
   },
   {
@@ -1276,11 +1276,11 @@
     "type": "progressive",
     "stages": [
       {
-        "img": "images/Shed.png",
+        "img": "images_2/Shed.png",
         "codes": "progressiveshed"
       },
       {
-        "img": "images/Big_Shed.png",
+        "img": "images_2/Big_Shed.png",
         "codes": "progressiveshed"
       }
     ]
@@ -1288,37 +1288,37 @@
   {
     "name": "Well",
     "type": "toggle",
-    "img": "images/Well.png",
+    "img": "images_2/Well.png",
     "codes": "well"
   },
   {
     "name": "Adventurers Guild",
     "type": "toggle",
-    "img": "images/Adventurers_Guild.gif",
+    "img": "images_2/Adventurers_Guild.gif",
     "codes": "adventurersguild"
   },
   {
     "name": "Tunnel to Backwoods Shortcut",
     "type": "toggle",
-    "img": "images/tunneltobackwoodsshortcut.png",
+    "img": "images_2/tunneltobackwoodsshortcut.png",
     "codes": "tunneltobackwoodsshortcut"
   },
   {
     "name": "Town to Tidepools Shortcut",
     "type": "toggle",
-    "img": "images/towntotidepoolsshortcut.png",
+    "img": "images_2/towntotidepoolsshortcut.png",
     "codes": "towntotidepoolsshortcut"
   },
   {
     "name": "Mountain Shortcuts",
     "type": "toggle",
-    "img": "images/mountainshortcuts.png",
+    "img": "images_2/mountainshortcuts.png",
     "codes": "mountainshortcuts"
   },
   {
     "name": "Forest to Beach Shortcut",
     "type": "toggle",
-    "img": "images/foresttobeachshortcut.png",
+    "img": "images_2/foresttobeachshortcut.png",
     "codes": "foresttobeachshortcut"
   },
   {
@@ -1330,7 +1330,7 @@
   {
     "name": "Sewing Machine",
     "type": "toggle",
-    "img": "images/Sewing_Machine.png",
+    "img": "images_2/Sewing_Machine.png",
     "codes": "sewingmachine"
   },
   {
@@ -1356,7 +1356,7 @@
   {
     "name": "Trash Bear Arrival",
     "type": "toggle",
-    "img": "images/trashbeararrival.png",
+    "img": "images_2/trashbeararrival.png",
     "codes": "trashbeararrival"
   },
   {
@@ -1437,122 +1437,122 @@
   {
     "name": "Power: Price Catalogue",
     "type": "toggle",
-    "img": "images/powers/Price_Catalogue.png",
+    "img": "images_2/powers/Price_Catalogue.png",
     "codes": "pricecatalogue"
   },
   {
     "name": "Power: Mapping Cave Systems",
     "type": "toggle",
-    "img": "images/powers/Mapping_Cave_Systems.png",
+    "img": "images_2/powers/Mapping_Cave_Systems.png",
     "codes": "mappingcavesystems"
   },
   {
     "name": "Power: Way of the Wind Pt.1",
     "type": "toggle",
-    "img": "images/powers/Way_Of_The_Wind_pt._1.png",
+    "img": "images_2/powers/Way_Of_The_Wind_pt._1.png",
     "codes": "wayofthewindpt.1"
   },
   {
     "name": "Power: Way of the Wind Pt.2",
     "type": "toggle",
-    "img": "images/powers/Way_Of_The_Wind_pt._2.png",
+    "img": "images_2/powers/Way_Of_The_Wind_pt._2.png",
     "codes": "wayofthewindpt.2"
   },
   {
     "name": "Power: Monster Compendium",
     "type": "toggle",
-    "img": "images/powers/Monster_Compendium.png",
+    "img": "images_2/powers/Monster_Compendium.png",
     "codes": "monstercompendium"
   },
   {
     "name": "Power: Friendship 101",
     "type": "toggle",
-    "img": "images/powers/Friendship_101.png",
+    "img": "images_2/powers/Friendship_101.png",
     "codes": "friendship101"
   },
   {
     "name": "Power: Jack be nimble, Jack be thick",
     "type": "toggle",
-    "img": "images/powers/Jack_Be_Nimble,_Jack_Be_Thick.png",
+    "img": "images_2/powers/Jack_Be_Nimble,_Jack_Be_Thick.png",
     "codes": "jackbenimble_jackbethick"
   },
   {
     "name": "Power: Woodys Secret",
     "type": "toggle",
-    "img": "images/powers/Woody's_Secret.png",
+    "img": "images_2/powers/Woody's_Secret.png",
     "codes": "woodyssecret"
   },
   {
     "name": "Power: Raccoon Journal",
     "type": "toggle",
-    "img": "images/powers/Ways_Of_The_Wild.png",
+    "img": "images_2/powers/Ways_Of_The_Wild.png",
     "codes": "raccoonjournal"
   },
   {
     "name": "Power: Jewels of the Sea",
     "type": "toggle",
-    "img": "images/powers/Jewels_Of_The_Sea.png",
+    "img": "images_2/powers/Jewels_Of_The_Sea.png",
     "codes": "jewelsofthesea"
   },
   {
     "name": "Power: Dwarvish Safety Manual",
     "type": "toggle",
-    "img": "images/powers/Dwarvish_Safety_Manual.png",
+    "img": "images_2/powers/Dwarvish_Safety_Manual.png",
     "codes": "dwarvishsafetymanual"
   },
   {
     "name": "Power: The Art O' Crabbing",
     "type": "toggle",
-    "img": "images/powers/The_Art_O'_Crabbing.png",
+    "img": "images_2/powers/The_Art_O'_Crabbing.png",
     "codes": "theartocrabbing"
   },
   {
     "name": "Power: The Alleyway Buffet",
     "type": "toggle",
-    "img": "images/powers/The_Alleyway_Buffet.png",
+    "img": "images_2/powers/The_Alleyway_Buffet.png",
     "codes": "thealleywaybuffet"
   },
   {
     "name": "Power: The Diamond Hunter",
     "type": "toggle",
-    "img": "images/powers/The_Diamond_Hunter.png",
+    "img": "images_2/powers/The_Diamond_Hunter.png",
     "codes": "thediamondhunter"
   },
   {
     "name": "Power: Book of Mysteries",
     "type": "toggle",
-    "img": "images/powers/Book_of_Mysteries.png",
+    "img": "images_2/powers/Book_of_Mysteries.png",
     "codes": "bookofmysteries"
   },
   {
     "name": "Power: Horse: The Book",
     "type": "toggle",
-    "img": "images/powers/Horse_The_Book.png",
+    "img": "images_2/powers/Horse_The_Book.png",
     "codes": "horse_thebook"
   },
   {
     "name": "Power: Treasure Appraisal Guide",
     "type": "toggle",
-    "img": "images/powers/Treasure_Appraisal_Guide.png",
+    "img": "images_2/powers/Treasure_Appraisal_Guide.png",
     "codes": "treasureappraisalguide"
   },
   {
     "name": "Power: Ol' Slitherlegs",
     "type": "toggle",
-    "img": "images/powers/Ol'_Slitherlegs.png",
+    "img": "images_2/powers/Ol'_Slitherlegs.png",
     "codes": "olslitherlegs"
   },
   {
     "name": "Power: Animal Catalogue",
     "type": "toggle",
-    "img": "images/powers/Animal_Catalogue.png",
+    "img": "images_2/powers/Animal_Catalogue.png",
     "codes": "animalcatalogue"
   },
   {
     "name": "Lost Books",
     "type": "consumable",
     "max_quantity": 21,
-    "img": "images/powers/Lost_Book.png",
+    "img": "images_2/powers/Lost_Book.png",
     "codes": "progressivelostbook"
   },
   {
@@ -1564,245 +1564,245 @@
     "name": "Alex <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Alex.png",
+    "img": "images_2/People/Alex.png",
     "codes": "alex<3,levels"
   },
   {
     "name": "Elliott <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Elliott.png",
+    "img": "images_2/People/Elliott.png",
     "codes": "elliott<3,levels"
   },
   {
     "name": "Harvey <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Harvey.png",
+    "img": "images_2/People/Harvey.png",
     "codes": "harvey<3,levels"
   },
   {
     "name": "Sam <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Sam.png",
+    "img": "images_2/People/Sam.png",
     "codes": "sam<3,levels"
   },
   {
     "name": "Sebastian <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Sebastian.png",
+    "img": "images_2/People/Sebastian.png",
     "codes": "sebastian<3,levels"
   },
   {
     "name": "Shane <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Shane.png",
+    "img": "images_2/People/Shane.png",
     "codes": "shane<3,levels"
   },
   {
     "name": "Abigail <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Abigail.png",
+    "img": "images_2/People/Abigail.png",
     "codes": "abigail<3,levels"
   },
   {
     "name": "Emily <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Emily.png",
+    "img": "images_2/People/Emily.png",
     "codes": "emily<3,levels"
   },
   {
     "name": "Haley <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Haley.png",
+    "img": "images_2/People/Haley.png",
     "codes": "haley<3,levels"
   },
   {
     "name": "Leah <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Leah.png",
+    "img": "images_2/People/Leah.png",
     "codes": "leah<3,levels"
   },
   {
     "name": "Maru <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Maru.png",
+    "img": "images_2/People/Maru.png",
     "codes": "maru<3,levels"
   },
   {
     "name": "Penny <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Penny.png",
+    "img": "images_2/People/Penny.png",
     "codes": "penny<3,levels"
   },
   {
     "name": "Caroline <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Caroline.png",
+    "img": "images_2/People/Caroline.png",
     "codes": "caroline<3,levels"
   },
   {
     "name": "Clint <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Clint.png",
+    "img": "images_2/People/Clint.png",
     "codes": "clint<3,levels"
   },
   {
     "name": "Demetrius <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Demetrius.png",
+    "img": "images_2/People/Demetrius.png",
     "codes": "demetrius<3,levels"
   },
   {
     "name": "Dwarf <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Dwarf.png",
+    "img": "images_2/People/Dwarf.png",
     "codes": "dwarf<3,levels"
   },
   {
     "name": "Evelyn <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Evelyn.png",
+    "img": "images_2/People/Evelyn.png",
     "codes": "evelyn<3,levels"
   },
   {
     "name": "George <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/George.png",
+    "img": "images_2/People/George.png",
     "codes": "george<3,levels"
   },
   {
     "name": "Gus <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Gus.png",
+    "img": "images_2/People/Gus.png",
     "codes": "gus<3,levels"
   },
   {
     "name": "Jas <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Jas.png",
+    "img": "images_2/People/Jas.png",
     "codes": "jas<3,levels"
   },
   {
     "name": "Jodi <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Jodi.png",
+    "img": "images_2/People/Jodi.png",
     "codes": "jodi<3,levels"
   },
   {
     "name": "Kent <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Kent.png",
+    "img": "images_2/People/Kent.png",
     "codes": "kent<3,levels"
   },
   {
     "name": "Krobus <3",
     "type": "consumable",
     "max_quantity": 14,
-    "img": "images/People/Krobus.png",
+    "img": "images_2/People/Krobus.png",
     "codes": "krobus<3,levels"
   },
   {
     "name": "Leo <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Leo.png",
+    "img": "images_2/People/Leo.png",
     "codes": "leo<3,levels"
   },
   {
     "name": "Lewis <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Lewis.png",
+    "img": "images_2/People/Lewis.png",
     "codes": "lewis<3,levels"
   },
   {
     "name": "Linus <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Linus.png",
+    "img": "images_2/People/Linus.png",
     "codes": "linus<3,levels"
   },
   {
     "name": "Marnie <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Marnie.png",
+    "img": "images_2/People/Marnie.png",
     "codes": "marnie<3,levels"
   },
   {
     "name": "Pam <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Pam.png",
+    "img": "images_2/People/Pam.png",
     "codes": "pam<3,levels"
   },
   {
     "name": "Pierre <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Pierre.png",
+    "img": "images_2/People/Pierre.png",
     "codes": "pierre<3,levels"
   },
   {
     "name": "Robin <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Robin.png",
+    "img": "images_2/People/Robin.png",
     "codes": "robin<3,levels"
   },
   {
     "name": "Sandy <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Sandy.png",
+    "img": "images_2/People/Sandy.png",
     "codes": "sandy<3,levels"
   },
   {
     "name": "Vincent <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Vincent.png",
+    "img": "images_2/People/Vincent.png",
     "codes": "vincent<3,levels"
   },
   {
     "name": "Willy <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Willy.png",
+    "img": "images_2/People/Willy.png",
     "codes": "willy<3,levels"
   },
   {
     "name": "Wizard <3",
     "type": "consumable",
     "max_quantity": 10,
-    "img": "images/People/Wizard.png",
+    "img": "images_2/People/Wizard.png",
     "codes": "wizard<3,levels"
   },
   {
     "name": "Pet <3",
     "type": "consumable",
     "max_quantity": 5,
-    "img": "images/People/Pet.png",
+    "img": "images_2/People/Pet.png",
     "codes": "pet<3,levels"
   },
   {

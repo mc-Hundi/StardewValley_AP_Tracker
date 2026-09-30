@@ -82,17 +82,17 @@
                           }
                         },
                         {
-                          "title": "Free Cactis",
+                          "title": "Free Cactus",
                           "content": {
                             "type": "map",
-                            "maps": ["Free Cactis"]
+                            "maps": ["Free Cactus"]
                           }
                         },
                         {
                           "title": "Chef",
                           "content": {
                             "type": "map",
-                            "maps": ["Desert Festival Chef"]
+                            "maps": ["Chef"]
                           }
                         }
                       ]

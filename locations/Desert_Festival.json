@@ -2,8 +2,8 @@
   {
     "name": "Desert Festival",
     "access_rules": ["bus,spring"],
-    "chest_unopened_img": "images/QuestNew.png",
-    "chest_opened_img": "images/QuestDone.png",
+    "chest_unopened_img": "images_2/QuestNew.png",
+    "chest_opened_img": "images_2/QuestDone.png",
     "children": [
       {
         "name": "Calico Race",
@@ -40,17 +40,17 @@
         ]
       },
       {
-        "name": "Free Cactis",
+        "name": "Free Cactus",
         "sections": [
           {
-            "name": "Obtain your free cactis",
+            "name": "Obtain your Free Cactus",
             "item_count": 1,
             "item_size": "46, 18"
           }
         ],
         "map_locations": [
           {
-            "map": "Free Cactis",
+            "map": "Free Cactus",
             "x": 699,
             "y": 205
           }
