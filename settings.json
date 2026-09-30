@@ -1,4 +1,6 @@
 {
+    "smooth_scaling": false,
+    "smooth_map_scaling": false,
     "auto_pin_capturing_locations": false,
     "auto_unpin_on_clear": true,
     "layout_swap_left_right": false,
